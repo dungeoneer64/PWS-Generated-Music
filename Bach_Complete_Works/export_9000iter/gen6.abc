@@ -1,0 +1,94 @@
+X: 1
+T:song_name
+K:C % 0 sharps
+V:1
+%%clef treble
+%%MIDI program 90
+%%MIDI program 16
+z8| \
+z8| \
+z8| \
+z8|
+z6 A2| \
+E2 E2 E2 E,2| \
+z2 C2 E2 Fz| \
+z^A =A-[A-E] [A-D]A/2-[A-E]/2 [A-^D]/2[A-F]/2A/2-[A-E]/2 [AF]/2A/2G/2A/2|
+^F/2E/2D/2E/2 F/2G/2A/2^A/2 =A/2C/2F/2G/2| \
+AF/2G/2 AG F/2[F-E]/2[F-D]/2[FC]/2 B,/2A/2G/2F/2| \
+E/2C/2E/2G/2 ^A/2G/2A/2E/2 C/2E/2A/2G/2 A/2E/2C/2E/2|
+A/2c/2e/2F/2 E/2G/2E/2D/2 C/2e/2^A/2e/2| \
+[F-C]/2F/2-[F-^A,]/2[F=A,]/2 [F-G,][F-A,] [F-B,][FC]| \
+[F-D][F-C] [F-B,][FA,] [B,-G,][DB,-F,] [B,E,-]/2[DE,-]/2[E-E,-]/2[EE,-]/2| \
+[EB,-E,-][BB,E,D,] z[^GA,]/2 zg/2f/2|
+ (3e/2d/2e/2 (3d/2c/2d/2  (3c/2d/2c/2 (3e/2d/2c/2  (3d/2c/2A/2 (3c/2B/2c/2| \
+B/2A/2^G/2A/2 B/2A/2G/2^F/2 E/2D/2C/2B,/2| \
+C/2D/2E/2F/2 G/2c/2E/2F/2 G/2E/2D/2C/2|
+ (3b/2 (3b/2c'/2b/2| \
+ (3G/2B/2G/2 (3E/2G/2E/2 (3e/2=d/2c/2  (3B/2c/2B/2 (3A/2G/2B/2| \
+C2 (3C/2G,/2E/2 ^A,/2E/2z/2G/2 D/2F/2G/2A/2 z/2[E-A,]/2E/2-[EA,]/2|
+ (3CB,A, ^G,/2A,2-A,/2-[A,G,-]/2G,^F,>G, (3F,E,F, (3=C,A,G,A,/2| \
+^A,,3/2 (3D,2G,2A,2B,,3/2D,-| \
+[D,^A,,-]/2A,, (3G,,2A,,2B,,2  (3C,2E,2D,2  (3E,2F,2G,2  (3A,2B,2^G,2| \
+A,3/2A,,-[A,-A,,]/2A,  (3A,2^F,2D,2| \
+E,4 z4 C,4|
+D,2 G,2 C,2 E,2| \
+F,2 E,2 D,2 C,2| \
+B,,2 A,,4 G,,F,2 E,D,|
+E,F, E,D, CB,| \
+CB, A,B, CA,| \
+[B,^G,]B, DB, G,B,| \
+E,G, C,z [AC]z| \
+G,][G,D,B,,] [C,-G,,][C,C,,] F,,[F,-D,,]/2[F,^A,,]/2 [=A,,^D,,]z| \
+D,D CA, F,4| \
+F,4- F,/2 (3A,-D,C,A,,/2z/2 (3B,,A,,G,,A,,/2z/2 (3B,,C,F,,B,,/2z/2A,,/2| \
+^G,,/2z/2 (3B,,A,,B,, A,,/2z/2 (3A,,G,,A,, (3G,,F,,E,,F,,/2| \
+E,,3/2C,,<F,,A,,</2[gB]/2 [a-A][aB] [gc-][a-c]/2[ad]/2|
+[b-e][bd] [c'-e][c'c] [d'-f][d'-d] [d'-c][dB] cg2- [ae-]2| \
+[d-c-]6 [dc]3/2z/2| \
+[dB]2 [e^c]2 [fd]2 [ac]2| \
+[fd-]3[gd-] [fd-][ed-] [d-B-][b-dB-]| \
+[b-dB-]2 [b^g-B-][afB] de c'b|
+c'a gb d'c' ba| \
+ga bd' f'[c'd]| \
+[e'-c'][f'e-]/2[f'e']/2 e'/2d'/2g'|
+V:2
+%%clef bass
+C2- [EC-]C3 [G-C]3| \
+[G-D][G-E] [GF]/2G3/2-[G-C]/2[G-B,]/2 [G-A,-][GEA,-]/2[DA,-]/2[CA,]/2D/2 E/2C/2A,/2D/2 [B-E,][BF,] [A-E,][AD,]| \
+[B-G,,][B-B,,] [B-F,,][BA,,]|
+[E-^C,,-]/2[EC^A,,,]/2[FC,,-]/2[EC,,]/2 [^FD,,-]/2[FD,,]/2[GD,,]/2[ED,,]/2 [=F-E,,]/2[FD,]/2[G-D,,]/2[GG,,]/2| \
+[GC,,-][FC,,-]/2[EC,,]/2 [DD,,]2 [D-E,,]2| \
+[D-^F,,]2 [DG,,-]2 [E,G,,-]2 [D,G,,-][E,G,,]| \
+[F,A,,-]6 [E,A,,]2|
+[A,A,,-]2 [A,A,,]4 A,2| \
+^G,2 [A,D,]2 [G,E,]4| \
+[A,D,]4 [A,C,]2 E,2| \
+E,,2 B,,/2C,/2D,/2C,/2 B,,2 A,,/2G,,/2F,,/2G,,/2|
+A,,2 F,2 D,2 E,2| \
+A,,,2 z2 A,,2 E,,2| \
+G,,2 z2 G,,2 z2|
+C,2 z2 C,,2 z2|
+F,,2 z2 ^F,,2 z2| \
+A,,2 z4 G,,2| \
+D,6- D,3/2z/2| \
+^A,,2 A,,,z A,,,2 z2| \
+zA,, B,,,E,, z/2E,/2D,/2C,/2 B,,/2C,/2D,| \
+C,C/2D/2 E/2D/2C GE,] [C-C,][CE,]| \
+[CF,][EG,] [FF,][GE,] [AF,][GE,] [FD,][E^C,]| \
+[FD,][AF,] [GG,-][FG,] [EC,]2 
+
+X: 1
+T: from /Users/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/training_data/fugue11.mid
+M: 3/8
+L: 1/16
+Q:1/4=45
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+z4 z3/2C,/2 z/2D2[G-C]/2[GB,]/2|
+[FA,-]/2[GA,-]/2[A-A,-] [A-A,]/2[AG]/2A- [B-A]/2B/2-[B-^F]/2[B-^G]/2 [BA]2| \
+B-[B-^G]/2[B-^F]/2 [B-G][B-F]/2[B-E]/2B/2A/2 GE FD GA| \
+B,^D ^GB GE|
+AG Fd E^G A^F| \
+^G8- G3/2z/2| \
+A
