@@ -1,0 +1,59 @@
+X: 1
+T:song_name
+K:C % 0 sharps
+V:1
+%%MIDI program 6
+Cz [EC]z [GEC]z2[EC]/2z/2| \
+[DB,]/2z/2A, z/2B,/2C/2D/2 z/2E/2z/2^G/2 z/2A/2z/2G/2| \
+A/2D/2C/2B,/2 A,/2-[EA,-]/2[^FA,-]/2[EA,-]/2 [DA,-]/2A,/2-[DA,-]/2[B,A,]/2 [FD,-]/2[FD,-]/2[AD,-]/2[GD,]/2|
+[^FA,,-]/2[GA,,-]/2[AA,,-]/2[FA,,]/2[B,G,,-]/2[EG,,]/2 E/2-[EF,-]/2[DF,-]/2[CF,-]/2 [D-F,]/2D/2F/2-[FC]/2 [^C^A,]/2[DC]/2[E=A,]/2[FD]/2| \
+[G^A,]/2[=FC]/2[DA,]/2[EG,]/2 [FA,]/2[^AG,]/2[cA,]/2[dF,]/2 [d=A,]/2[GA,]/2[FA,]/2[cF,]/2 [dE,]/2[cF,]/2[BE,]/2[dF,]/2|
+[^FD,]/2E/2[FDB,,]/2B,/2 G,/2A,/2B,/2A,/2 B,/2C/2B,/2A,/2 ^G,/2B,/2G,/2E,/2 A,/2E,/2D,/2E,/2 A,/2E,/2A,/2E,/2 EA,,] [E,E,-D,-C,,-]/2[D,C,-]/2 [a-a]/2[ag-]/2[gf-]/2[f-e]/2|
+[fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2| \
+[fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2| \
+[fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2| \
+[fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2|
+[fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[f-e]/2[fe-]/2[f-e]/2 [fe-]/2[fe]/2e/2-[fe]/2| \
+eB ed cB| \
+A/2-[A-G]/2[A-F]/2[AE]/2 [B-D]/2[B-E]/2[B-F]/2[B-A]/2 [B-^G]/2[BA]/2[B-^F]/2[BG]/2 [A-F]/2[A-E]/2[A-A,]/2[AB,]/2 [A-C]/2[A-E,]/2[A-D,]/2[A-E,]/2 [AF,-]/2[GF,]/2[FA,-]/2[EA,]/2 [AF,-]/2[cF,]/2[AF,-]/2[cF,]/2| \
+E,,/2F,,/2E,,/2D,,/2 E,,/2E,,/2F,,/2E,,/2 D,,/2C,,/2B,,,/2A,,,/2| \
+G,,,/2A,,/2B,,,/2A,,,/2 G,,,G,, C,,2 zF,| \
+^A,2 =A,2 z2 D,2|
+D,z F,z D,z G,z| \
+G,,z A,z B,,z ^C,z| \
+D,,z D,z G,,z ^A,,z| \
+D,,z D,z G,,z D,z|
+G,,z ^F,,z E,,z B,,,z| \
+E,,z E,,z E,,z E,,C,,| \
+F,,A,, D,F, G,,F,, E,,F,,|
+D,,2 zC, B,,2 zB,,| \
+C,C, zE,, z2 ^F,,A,,,| \
+zE,, z2 D,,E,, z2| \
+D,,2 z2 D,,2 z2|
+C,,2 z2 A,,2 z2| \
+D,,z G,,z G,,z C,,z| \
+F,,z A,,z D,,z ^F,,z| \
+G,,z D,z F,,z F,z|
+G,,z ^C,z D,,z F,,z| \
+E,,z E,z A,,z D,,z| \
+F,,z A,,z D,,z A,,z| \
+A,/2[e'-c']/2[e'-b]/2[e'-g]/2 [e'-g-]/2[d'^f'g]/2a/2-[f'a]/2| \
+ (3e'd'c'  (3abg  (3fed|
+ (3^geg  (3^fed  (3edc  (3BdG| \
+ (3^FAG  (3^FED  (3FB,G,  (3B,G,E,| \
+ (3CF,D  (3EDC  (3B,A,^G,  (3E,G,E,|
+ (3A,B,G,  (3CE,G c2 e2| \
+f4 DB df-|
+f3 z2G eG^F| \
+GFD ^C=C^C CC^C| \
+^C3/2z3/2 =G3/2z3/2 F-[F-B,,][F-A,,]| \
+[F-B,,][F-A,,] [F-B,,][FC,] [F-D,][F-F,] [F-E,][F-F,]|
+[F-G,]/2F/2c/2- [c-E]/2[c-F]/2c/2-[c-G]/2 [c-E]/2[c-C]/2c/2-[c-E]/2 [c-^F]/2[c-G]/2c/2c/2-| \
+[cA-]/2[d-A]/2[dB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2| \
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2|
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2| \
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2| \
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2| \
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2|
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2| \
+[cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2[c-B]/2[cB-]/2[c-B]/2 [cB-]/2
