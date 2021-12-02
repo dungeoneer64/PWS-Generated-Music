@@ -1,0 +1,97 @@
+X: 1
+T:song_name
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+C/2d/2c/2B/2 c/2G/2E/2G/2 G/2D/2G/2E/2 A,/2D/2A/2D/2| \
+G/2E/2E A2- A/2G/2F/2E/2| \
+D/2d/2c/2B/2 c/2G/2D/2F/2 E/2G/2B/2d/2| \
+c/2e/2c/2A/2 ^F/2c/2E/2c/2 A/2C/2E/2A/2 G/2A/2B/2c/2|
+G/2F/2E/2G/2 F/2D/2F/2E/2 A/2F/2E/2D<cz/2| \
+z^A/2=A/2 G/2A/2B/2^d/2 c/2G/2^F/2E/2 d/2D/2C/2B,/2 C/2 (3B,/2C/2D/2 (3E/2D/2E/2> (3D/2E/2F/2 (3G/2A/2G/2| \
+Az3 D/2z3/2 G/2F/2E/2D/2| \
+z/2G/2-G/2 F/2z/2F/2-[F-E]/2 [G-F]/2[G-G]/2G/2-[GE]/2| \
+G4 E,2-|
+E,3/2z/2 z/2C3/2 A,3d B2c2d/2B/2c/2d/2| \
+cBD|
+Bcc Bd/2-[d-E]/2[d-F]/2[d-G]/2 [d-F]/2[d-G]/2[d-F]/2[d-G]/2| \
+[dE-]3/2[AE-]/2 [GE-]3/2[FE]/2 [FD-]3/2D/2| \
+[AC]2 [cC]g fc [BD][dG]| \
+[^AG-][=AG-] [^dG-][e-G] [e-G][e^F]| \
+[dG-][^cG] [dG-][BG-] [cG-][BG]|
+cG [cA]c BA B^G| \
+A^G B^G E2 [GC]2| \
+[AE-][AE] [^GE-]C [AC]2 [FB,]2| \
+^GE-C-A,][B,E,-]/2 [A,E,-]/2F,/2B,3/2D>cc<de/2z/2cA/2 [fBG-][eG]/2z/2e| \
+e[AC-]/2[^AC-]/2[^FC-]/2| \
+[AC-]3/2[AC]3/2 
+
+X: 1
+T: from /Users/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/training_data/cc11_2.mid
+M: 3/4
+L: 1/8
+Q:1/4=56
+K:F % 0 from /Users/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/training_data/cc16_3.mid
+M: 3/4
+L: 1/8
+Q:1/4=60
+K:D % 0 sharps
+V:1
+%%MIDI program 6
+C| \
+G,/2z/2^F,/2E,/2 F,2 z2| \
+Dz4z|
+z| \
+zG AF FE| \
+B,C DE FD|
+G/2 c/2d/2e/2f/2 ^g/2d/2B/2G/2| \
+f/2e/2d/2c/2 B/2c/2d2 B/2A/2B/2c/2| \
+d/2c/2B/2A/2 G/2B/2c/2d/2 c/2d/2e/2f/2 ^G/2e/2c/2F/2|
+E/2F/2E/2D/2 z/2d/2c/2d/2 B/2d/2e/2f/2| \
+e/2c/2B/2A/2 ^G/2A/2B/2G/2 E/2G/2G/2E/2 B/2e/2A/2=G/2| \
+g/2e/2c/2B/2 c/2g/2B/2g/2 f/2d/2c/2B/2| \
+A/2G/2^F G/2^F/2G/2F/2 G/2d/2c/2B/2| \
+c/2A/2G/2E/2 B/2c/2C/2B,/2 C/2^F/2E/2D/2 ^C/2B,/2A,/2G,/2| \
+D,4 z3E/2z/2, E,D,/2z/2| \
+A,,G,, A,,/2z/2B,,/2z/2|
+C,E, F,B, D/2z3/2| \
+A,^F,/2z/2 E,F,/2z/2 A,F,/2z/2| \
+^F,G, zG/2F/2 ED/2C/2|
+^C=A ^FB, zz| \
+G,G, B,z3| \
+F/2G/2B/2d2  (3c/2g/2f/2 (3d/2c/2e/2|
+g/24 (4^d/2f/2d/2>f/2[gf]/2 (3=g/2f/2g/2| \
+e/2z/2d3/2c'/2 a2 
+
+X: 1
+T: from /Users/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/training_data/prgje8.mid
+M: 4/4
+L: 1/8
+Q:1/4=96
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+C/2>D/2[CD,,-A,,] C,=C,B,,| \
+A,,E,,G,, B,,B,,^D, E,2^D, B,,^D,C, B,,B,,C,|
+A,,8- A,,3/2z/2| \
+F,,2- [F,F,,-]F,,- [CF,-]/2F,/2z3/2A/2-[A-D,]/2 [AA,-]3/2A,/2G EG^F| \
+A,4z^F]3/2z3/2| \
+G3z GzA,][EC]|
+F2[E^G,] ^F34| \
+[EC]2 z/2G/2B/2A/2 D/2G/2^F/2^A/2 D/2=F/2^G/2=A/2| \
+^G/2A/2B/2c/2 d/2^c/2B/2c/2 g/2c/2G/2e/2| \
+^F/2d/2c/2B/2 f/2A/2g/2A/2 g/2c/2A/2A/2 B/2A/2G/2F/2|
+F/2D/2^C/2B,/2 C/2^A/2=A/2G/2 c/2^A/2c/2d/2 F/2c/2F/2E/2| \
+^D/2A/2D/2A/2 f/2=A/2C/2A/2 f/2A/2G/2A/2 e/2G/2A/2G/2| \
+F/2G/2A/2^F/2 B/2d/2f/2e/2 d/2B/2G/2D/2|
+^D/2^F/2G/2A/2 B/2A/2G/2A/2 e/2G/2F/2d/2 G/2f/2F/2c/2| \
+F/2d/2a/2d/2 c/2e/2c/2g/2 c/2d/2c/2B/2 A/2F/2G/2A/2| \
+B/2G/2E/2G/2 B/2d/2B/2d/2 c/2e/2g/2g/2| \
+a/2c/2a/2c/2 B/2a/2g/2a/2 c'/2g/2c/2g/2| \
+f/2e/2d/2c/2 ^a/2=a/2z/2f/2 B/2d/2c/2B/2 A/2c/2e/2g/2 ^a/2c/2g/2c/2| \
+f/2e/2d/2c/2 A/2c/2B/2c/2 c/2d/2c/2A/2|
+^F/2c/2d/2e/2 F/2c/2G/2c/2 c/2f/2e/2d/2 c/2e/2G/2e/2| \
+C<d2c/2B/2| \
+A/2^G/2E,2F,|
+CB, A,B, CB,| \
+A,D ^G,B
