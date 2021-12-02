@@ -1,0 +1,57 @@
+X: 1
+T:song_name
+K:C,]G,/2E,/2| \
+[F,-D,]3/2F,/2 G,,4| \
+zG,,- [G,,-G,,,][G,,E,,] D,,3C,,| \
+B,,,3 z8| \
+[A,A,,-]3/2A,,/2- [E,A,,-][F,A,,]| \
+[E,B,,-]2 [D,B,,-][CB,,] [B,G,,]2[B,E,,] [G,F,,]2[A,A,,]|
+[^A,E,,-][A,E,,] [A,E,,-][B,E,,] [A,F,,-][A,F,,]2E/2G,/2F,/2E,/2 F/2D/2 [e-^G][e-A]/2[eB]/2 [f-A]3[fB-]|
+[e-B][eA] [f-D]f- [fD-]/2D/2-[eD]| \
+dc B-[B-G] [B-^F][B-^F] [B-G][B-^F]| \
+[B-G][B-^F] [B-B,][B-E] [B-^F][B-^G]/2[B-^F]/2 [BE-][e-E]|
+[e^F-][^dF-] [fF-][aF] [^cE-][g-D]| \
+[gE-][eE] [fA-][^dA-] [e-A][e-G] [eF-][cF]| \
+[^AF-]/2[=AF]/2[^AE-]/2[=AE]/2 [^A-D][A-=C] [A-B,][AD]|
+[^AC]3[BD] [AE-]/2[GE-]/2[AE-]/2[GE-]/2 [A-E][AD-]/2[BD]/2| \
+[EC-]/2[GC]/2[AC-]/2[BC]/2 [cB,-]/2[gB,]/2[fC] [dB,-][B-B,]/2[BA]/2| \
+[a-^G-]/2[b-g-G]/2[bg-d-]/2[bd-]/2d c'-[c'-g][e'-f] [e'-g-][d'-c'b]/2[d'-a]/2 [d'-a-]/2[d'c'-a-d-]/2[d'-c'F]| \
+[af-]/2[g-f]/2[gf-]/2[g-f]/2 [gf-]/2[g-f]/2[gf-]/2[g-f]/2 [gf-]/2[g-f]/2[gf-]/2[g-f]/2|
+[ge-]/2[g-e]/2[gf-]/2[g-f]/2 [gf-]/2[g-f]/2[gf-]/2[g-f]/2 [gf-]/2[g-f]/2[gf-]/2[g-f]/2| \
+[gf-]/2[g-f]/2[gf-]/2[g-f]/2 [gf-]/2[g-f]/2[gf-]/2[g-f]/2[gf-]/2[g-f]/2 [gf-]/2[gf]/2f/2-[gf]/2| \
+z2 ed| \
+ef gd|
+ce fg| \
+c'/2b/2a/2g/2 ^f/2g/2a/2b/2 c'/2d'/2c'/2b/2| \
+c'/2z/2c'/2b/2 a/2e/2^c/2B-cE]2 [a'B^D]2| \
+[ba-B-E-][^c'aBE] [bgE-][e'gE-]['gE]|
+[afE-][e'gE-] [afE-][d'fE] [aeE-][bg/2=a/2| \
+^g/2e/2a/2c/2 B/2a/2g/2^f/2 g/2e/2g/2^A/2 =A/2g/2=f/2e/2| \
+f/2d/2f/2A/2G,,-]/2[F-B,A,,-]/2[FD,-A,,-]/2[DB,A,,-]/2 [DC,-A,,-]/2[C-A,,-C,,]3/2 [CD,-A,,-]/2[C-F,-A,,-]/2[C-F,-C,A,,-]/2[C-C,A,,]/2|
+[DF,-D,,-]/2[A,F,,,,,]2 E,2 [^D,B,,,]2|
+[E,-A,,,-]4 [E,,A,,,]4| \
+[E,E,,,-][D,E,,,-] [E,E,,,-][B,,E,,,-] [E,E,,,-][^F,E,,,-] [E,E,,,-][D,E,,,-] [C,E,,,-][D,E,,,-] [E,E,,,-]3[D,E,,,-] [E,E,,,-][B,,-E,,]3/2[B,,D,,-]/2 [A,,D,,]3/2^G,,/2 [A,,-D,,]3/2[A,,E,,]/2| \
+[B,,-F,,]3/2[B,,-F,,]/2 [B,,-E,,]3/2[B,,D,,]/2 [A,,C,,-]3/2[B,,C,,]3/2 C,,3/2-[E,C,,]/2 [^G,,-B,,,-]3/2[G,,-G,,,]/2| \
+[G,,-D,,-]/2[G,,-G,,D,,-]/2[G,,-D,,]/2[G,,^A,,-]/2 [A,,-A,,,-]2 [^FA,-D,A,,,-]/2[A-A,,,-A,,,-]/2[BA-A,-]2 A/2-A/2-A/2-[A-E,,-A,,,-]2|[A,,A,,,]2 
+
+X: 1
+T: from /Users/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/training_data/sinfon6.mid
+M: 4/4
+L: 1/8
+Q:1/4=96
+K:F % 0 sharps
+V:1
+%%MIDI program 0
+z2 A3B3| \
+c-[c-E] [cA-][cA-] [dA-]A/2z/2 B-[B-G] [B-^F][BE]| \
+[BA-][cA-] [BA-][cA] [B^G-][AG] [A=F-][cF]|
+[B-E][BD] [AC-][^GC-] [A-C][AD] [GE][AF]| \
+[^G-F][GE] [e-A]/2[e-B]/2[ec-] [d-c]/2[d-c]/2[d-B]/2[dA]/2 d/2-[d-B]/2[d-G]/2[dF]/2 c/2-[c-^A]/2[c-=A]/2[c-G]/2| \
+[c-F-]/2[c-BF-]/2[cAD-]/2[BD]/2 cB A/2-[BA-]/2[c-A]/2[c-^G]/2 [cA][^c=G]| \
+[^d-^F][dB] [AE][cA] [A-G]/2[A-G]/2[A-D]/2[AE]/2 [AC]z3| \
+[A-E-]/2[eBAEz/2e/2|
+f/2e/2d/2c/2 ^A/2d/2g/2d/2 g/2d/2b/2d/2 f/2d/2b/2d/2| \
+E/2c/2e/2c/2 e/2c/2a/2c/2 E/2c/2e/2c/2 e/2c/2a/2c/2| \
+E/2B/2^g/2e/2 g/2e/2d'/2^c'/2 d'/2c'/2z/2^a/2 =a/2g/2c'/2d'/2| \
+[ge]/2z/2^G/2z/2 A/2z/2b/2z/2 c[b-=d]2[be]/2b/2z3/2  (3e'/2d'/2c'/2z/2 (3b/2a/2g/2 (3f/2g/2f/2[ed-]/2[ed]/2  (3c/2B/2c/2 (3B/2e/2^a/2  (3=a/2^a/2c'/2 (3c/2a/2g/2| \
+ (3a/2g/2a/2 (3f/2a/2c'/2  (3c'/2b/2a/2 (3g/2f/2e/2 d2- d/2[af]/2 (3c
