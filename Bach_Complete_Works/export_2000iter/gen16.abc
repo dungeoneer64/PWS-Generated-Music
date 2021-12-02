@@ -1,0 +1,71 @@
+X: 1
+T:song_name
+K:C %is3/training_data/catech7.mid
+M: 4/4
+L: 1/8
+Q:1/4=86
+K:C % 0 sharps
+V:1
+%%MIDI program 80
+%%MIDI program 45
+%%MIDI program 101
+%%MIDI program 96
+%%MIDI program 99
+%%MIDI program 91
+%%MIDI program 101
+%%MIDI program 100
+%%MIDI program 91
+%%MIDI program 99
+%%MIDI program 44
+ag af ec Ac| \
+cd eg ^a2| \
+ag ^fe bd| \
+ag fe d^A|
+A/2-[AG-]/2[GF-]/2[FE-]E2^F/2G/2| \
+A/2A,/2F/2A,/2 Az F,/2A,/2F,/2D,/2| \
+G,z3 B,/2C/2D/2C/2B,/2A,/2 E/2A/2^G/2=G/2| \
+A/2^F/2A/2D/2 F/2C/2D/2C/2 D/2F/2A/2C/2| \
+B,/2D/2G/2^F/2 G/2^D/2B,/2G,<G,,E/2 A,/2B,/2^F,/2B,/2|
+E/2D/2C/2D/2 A,/2A,/2B,/2C/2 D/2B,/2C/2A,/2| \
+A,/2G/2F/2E/2 A,/2C/2B,/2A,/2 G,/2F/2E/2D/2 G,/2F/2E/2D/2| \
+E/2D/2C/2B,/2 A,/2B,/2C/2D/2 E/2D/2C/2B,/2| \
+A,/2-[A,A,,]/2[^D,C,-]/2[C,B,,]/2 [D,C,]/2C,/2[F,B,,]/2B,,/2 [G,E,CWring_data/sinfon2.mid
+M: 3/8
+L: 1/16
+Q:1/4=100
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+zCE GEC AE-|
+[EC-][EC]CD CD-[D-F,]| \
+[DA,-][EA,-][DA,-] [EA,-]2[A,-A,]/2A,/2-| \
+[A,B,,-]2 [B,-B,,-]2[B,-B,,-]/2[B,A,G,,]/2 E,3/2-[CE,-]3/2|
+[B,E,-]/2[CE,-]/2[^G,E,-]/2[A,E,-]/2 [BE-E,-]2 [GEE,]2 \
+F,/2-[AF,-]/2[GF,-]/2[AF,-]/2 [d-F,]/2[d-C][dF,-]/2|
+[FF,-]/2[cF,-]/2[d-F] [dB,-]/2B,/2[GE][F^D]| \
+[E-C]2 [E-B,-][EB,A,-]/2[^F-A,]/2 [F^G,-]/2[EG,-]/2[DG,-]/2[B,G,-]/2 [EG,-]/2[DG,-]/2[CG,-]/2[B,G,]/2 C/2-[C-B,]/2[C-A,]/2[CG,]/2| \
+ (3C,E,D, C,/2-[C,B,,]/2C,/2A,,/2 B,,/2C,/2z/2[G,G,,]/2 [G,G,,]/2[^F,F,,]/2z/2[G,G,,]/2| \
+[^A,G,,]/2z/2[G,F,,]/2z/2 [G,G,,]/2z/2[G,G,,]/2z/2 F,/2[E,E,,]/2z/2[B,,E,,]/2| \
+[A,,A,,,]/2z/2[A,,A,,,]/2z/2 [A,,A,,,]/2z/2[E,E,,]/2[C,E,,]/2 [E,E,,]4|
+[E-A,,]/2[E-^C,]/2[E-D,]/2[E-E,,]/2 [E-A,,]/2[E-=G,,]/2[E-A,,]/2[E^A,,]/2 [=A-G,,]/2[AF,,]/2[^A-G,,]/2[AA,,]/2 [^C-F,,]/2[DA,,]/2[G-G,,]/2[GG,,]/2 [^F-A,,][FC,]| \
+[DB,,-][DB,,] [B,-E,][B,G,] [C-A,]E- [C-G,-E,][CG,C,]| \
+G,-[GG,-]/2[AG,-]/2 [G-G,]/2[G-B,G,-]/2[GG,-]/2[GG,-]/2 [G-G,-]/2[GG,]/2E,/2| \
+C,/2z/2z/2z/2 z/2C/2D/2E/2 ^F/2-[F-E]/2[F-D]/2[F-C]/2| \
+[F-^A,]/2[F-A,]/2F/2-[FG,]/2 [c-^A,]/2[c-C]/2c/2=A/2 [D^G,-]/2[DG,-]/2G,/2-[CG,G/2 F/2D/2E/2D/2|
+B/2A/2G/2^F/2 G/2D/2E/2G/2 B/2d/2e/2f/2| \
+g/2b/2a/2g/2 ^f/2g/2a/2| \
+B,/2D/2F/2A/2 G/2F/2G/2A/2 ^A/2c/2d/2e/2|
+A/2G/2F/2A/2 G/2A/2G/2A/2 f/2e/2d/2B/2| \
+G/2B/2G/2e/2 c/2A/2^G/2A/2 e/2B/2e/2G/2 A/2z/2c/2a/2| \
+a/2e/2a/2c/2 A/2e/2c/2A/2 ^G/2F/2E/2D/2 C/2E/2A,/2B/2| \
+c/2C/2E/2G/2 A/2e/2A/2e/2 D/2F/2G/2A/2 E/2A/2C/2E/2|
+A/2F/2A/2D/2 A/2F/2A/2D/2 A/2F/2A/2D/2 [AE-A,-F,-]/2[AFEA,-]/2[A-E-=A,-]/2[^A=A-G-F-A,-]/2| \
+[A-G-F-A,-F,]| \
+[AG-F-DA,-F,D,A,,]2 [A-E-^F,-A,,][A-G-F-E-A,^F,-] | \
+[^AG-F-DA,-G,]3 [A-GF-A,-F,][A-G-=F-E-A,]/2[^A=AG-F-E-A,-]/2 [A-G-F-ECA,-]/2[A-G-F-A,]/2[A-G-F-A,]/2[A-GF-DA,-]/2 [A-F-CA,]/2[AF-A,]/2[F-G,]/2[F-A,]/2| \
+[F-D^A,]/2[F-DC]/2[F-DC]/2[F-D]/2 [^A-FC]/2[A-D]/2[A-E-=C]/2[AED]/2|
+[A-E-]6 [AE-D-][cE-D-]/2[dED]/2| \
+[B-F-]8 [B-F-]/2[B-F-E]/2[B-A-F-]/2[BAF-D]/2| \
+[G-F-E]2 [G-F-E]/2[G-F-E-]/2[e-G-F-E-]/2[eG-F-E-D]/2 [dG-F-E-][cG-F-E-]/2[BG-F-E-A,]/2
+[dG-F-E-D][G-F-E-] [dG-F-E-D][BG-F-E-DB,,]/2[G-F-B,-C]/2 [d-A-F-^CB,-][dB-G-F-EB,] [BG-F-A,-][A-G-F-F-A,]/2[A-G-F-DB,]/2| \
+[A-G-F-A,]/2[A-G-F

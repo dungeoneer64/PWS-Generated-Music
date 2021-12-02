@@ -1,0 +1,62 @@
+X: 1
+T:song_name
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+cGE CGE AEe| \
+Ace fed efa| \
+^f/2a/2e/2c/2A/2B/2 E/2^F/2G/2E/2F/2D/2 E4|
+V:2
+%%clef treble
+%%MIDI program 0
+C3/2E/2-| \
+E/2-[F-E]/2F| \
+E2-|
+E/2-[A-E]/2[AD-]/2[A-D]/2 [AC-]/2[AC-]/2[c-C]/2[cC-]/2 [d-C]/2[d-AC]/2[d-G]| \
+[dF-]/2F/2-[cF-]/2[dF-]/2 [BF-]/2[eF-]/2[dF-] [^cF-][e-F] ed|
+cf eg ^a A/2-[A-G,]/2[AG,]/2[AF,]/2 [c-=A,]/2[c-B,]/2[c^C]/2[=GD]/2| \
+[cG]/2E/2[cE-]/2[dE]/2 [eB,-G,]2 [dB,-G,-]/2[BB,G,]/2[GEC]/2[GDB,]/2z|
+[FDA,]/2zz/2 DC/2z/2 [EC]/2z/2[GE]/2z/2 [cE]/2z[A^F]/2z/2 [c-A]/2[c=G]/2A/2B/2[ac]/2z/2 [fd]/2[gd]/2z/2[adc]/2| \
+z/2[dB]/2z/2[^fdc]/2 z/2[fdB]/2z/2[gdB]/2 z/2[gdB]/2z/2[adB]/2|
+z3/2[dEC]/2 e3/2f/2 g/2a/2b/2c'/2| \
+f/2c'/2-[c'a]/2c'/2>a/2[aa]/2 a/2<a/2[ag]/2a/2| \
+d'/2-[d'-d']/2[d'd']/2[e'd']/2 c'/2e'/2[g'd']/2c'/2 e'/2[e'd']/2e'/2|
+e'a/2-[b-a]/2 [c'-b]/2c'/2a/2-[b-a]/2| \
+[ag-]/2[a-g]/2[ag-]/2[a-g]/2 [ag-]/2[ag]/2f/2-[gf]/2| \
+ (3agb c/2-[c'-c]/2[c'-a]/2c'3/2-| \
+[c'-b]/2[c'-^a]/2c'3/2z/2f/2-[b-a]/2 [c'-d]/2c'/2a/2-[b-a]/2 [c'-b]/2c'/2a/2-[b-a]/2|
+[c'-b]/2c'/2a ag8-| \
+g4 z^G A^c| \
+d2 d4|
+ze dc BA| \
+Ge ec ec| \
+gc gc gB| \
+AG Fd eg|
+fG eG gG gG/2 C,G,|
+A,,/2D,/2C,/2E,/2 ^G,/2C/2E/2C/2 A/2E/2D/2C/2| \
+G,/2^A,/2C CA,]2 D,2 G,,2- [G,-G,,-][BG,G,,-] G,,/2-[DG,,-]/2[EG,,-]/2[DG,,]/2 B,/2-[B,-D,]/2[B,-E,]/2[B,-F,]/2|
+[B,E,-]/2[B,E,-]/2[G,E,-]/2[A,E,-]/2 [G,E,-]/2[DE,-]/2[EE,-]/2[DE,-]/2 [CE,-]/2[DE,-]/2[E-E,]/2[EE,-]/2 [CE,-]/2[DE,-]/2[EE,-]/2[DE,-]/2| \
+[EE,-]/2[EE,-]/2[EE,-]/2[EE,-]/2 [DE,-]/2[CE,-]/2[EE,-]/2[DE,]/2 C/2-[AC-]/2[CC,-A,,]/2[G,C,]/2 B,,/2z/2[B,D,-]/2[B,D,]/2 [A,-D,]/2[A,-D,]/2[A,E,-]/2[A,-E,]/2| \
+[A,D,-]/2[A,D,-]/2[G,D,-]/2[F,D,-]/2 [E,D,-]/2[D,C,]/2D,/2-[CD,-]/2 [CD,-]/2[B,D,-]/2[A,D,-]/2[B,D,]/2 [CF,-]/2[A,F,-][B,F,-]/2| \
+[CE,-]/2[B,E,-]/2[CE,-]/2[DE,-]/2 [CE,-][B,E,-]/2[A,E,]/2 D,/2-[G,D,]/2[A,C,-]/2[A,C,]/2|
+[F,D,-]/2[D,-D,]/2[E,D,-]/2[D,-^G,,]/2 [D,A,,][B,,G,,] [C,A,,]2G,/2A,/2| \
+A,/2-[A,-G,]/2[B,-A,]/2[B,A,-]/2 [A,G,-]/2[A,-G,]/2[B,A,-A,-]/2[A,-G,]/2[A,G,-]/2[G,E,-]/2 [C-E,-]/2[C-E,-C,]/2[C-E,D,,-]/2[C-C,A,,]/2 [E,-D,]/2[E,D,B,,]/2[E,-C,]/2[E,B,,]/2| \
+[E,-C,,]/2[E,A,,]/2[D,-^G,,]/2[D,A,,]/2 [D,D,,]D, G,G,,| \
+[C-C,,]/2[CA,,-]/2[D,-A,,-]/2[D,^C,A,,]/2| \
+D,/2-[F,D,]/2A,/2-[A,G,]/2 [DD,-]/2[^A,D,-]/2[DA,D,]/2D/2E/2A/2| \
+A/2-[A-G,]/2[A-^F,]/2[AG,]/2 D,/2-[=GD,]/2^A/2=A/2 G,/2-[GG,]/2G/2E/2 C/2-[EC-A,-]/2[^Fc-D-DA,-]/2[dDA,]/2| \
+[eG-C-G,-]/2[AG-E-B,-G,]/2[BGA,-E,-]/2[AA,-E,-]/2 [GA,-E,-]/2[BA,-E,-]/2[BA,-E,-]/2[BA,-E,-]/2| \
+[GA,-E,-]2 [AA,-E,-]/2[GA,-E,-][AA,-E,-]/2 [BA,-E,-]/2[cA,-E,-]/2[BA,-E,-]/2[eA,-E,-]/2 [BA,-E,-]/2[cA,-E,-]/2[B-A,-E,-]/2[BA-G-F,E,-]/2|
+[GA,-E,-]/2[AG,-E,-]/2[BG,-E,-]/2[BG,-E,-]/2 [AG,-E,-]/2[cG,E,-]/2[A-CE,-]/2[AA,-E,-]3/2 [G-A,-E,]/2[GA,-E,]/2[A,-E,-]/2[aA-E,C,-]/2 [f-A-E,]/2[fCA,-]/2[A,E,-]/2[A,-E,]/2| \
+g2 ^f2 b2 e'2| \
+^f2 g2 c2 a2|
+z/2z/2a ga ga/2e/2 f/2e/2d/2e/2| \
+zf/2e/2 de z/2a/2g z/2g/2f/2a/2| \
+
+%sharps
+V:1
+%%MIDI program 80
+%MIDI program 100
+%%MIDI program 0
+c3 def edc fdc d8-dc| \
+B/2A/2B/2-[d-B]/2[dc-]/2[cB-]/2 [BA-]/2[B-A]/2[BG-]/2[G-F]/
