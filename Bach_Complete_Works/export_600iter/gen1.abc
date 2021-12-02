@@ -1,0 +1,116 @@
+X: 1
+T:song_name
+K:Cl 0
+c/2>c/2[d-d]2 [e-^A-][c-A=F] [c-G][c^F]| \
+[d-E][dA] [c-E][cE] [cE]2 [cD]2|
+[ED]4 [AC][BC]|
+[A-^F][A-^F] [A-A]2 [A^G]2| \
+A-[GF] [GE]2 [GE]2 [G^G=G]2| \
+[A,E,]2 [EB,]2 [AC]2| \
+[FC]2 F2 [F-^C][FB,] [FD]2| \
+[^FE]2 [A=G]2 [A^A]2 [c^F]2| \
+[AG]2 [cF]2 [BG]2 [eG]2| \
+[cG]4 d2 
+V:2
+%%clef bass
+zc' d'b c'b| \
+d'b c'a fc'| \
+c'c' ac' gb| \
+bg d'c' bc'| \
+c'b d'd' gc'| \
+[AC]G Gf|
+F/2-[cF]/2d/2c/2 A[AG]| \
+[cA][dA] [dF][FF] [E^G,-][DA,] [GB,][F]| \
+[c-G][c-E] [d-B][e-G] [dB][ec] [e-c][edc]| \
+f/2A/2[dF-]/2[cF]/2 [d-G][d-D]/2[dF]/2 ^D[BG] [A-F][A-=A] [A-D][A-^D][AD]|
+[G^A,]2 [A-=F][AF] [A-D][A-E]| \
+[AF-][AF] [^AG]2 [AD-][=A-D] [A-F-]2|
+[A-F]2 [A-D][A-E] [A-E][A-C]| \
+[A-E]2 [AE]2 [e-G-D][dc-F-]/2[dGF-]/2 [B-G-F]2| \
+[BG]2 [dBE]4 [cA]2| \
+[c^G]2 [BA][cG] [BG]2 [cA][BA]|
+[g-A][e^G] A-[dA] [d=c][dG]|
+[^cG-][cA] [=cA-][dA] [dB][dG] [GE-][AF]|
+[c-F][cB] [BF][GE] [AF]z| \
+[dF]2 DA [cA][cB] c^A [cA]2| \
+[dA][cA] [fA][ed] [fc][fc] [fc][fB] f3| \
+A-[BG] [eG]A [dB]c [AC]2|
+[^cE]2 cB [AF]2 [GF]2|
+[GC]2 A2 [AE]2| \
+[AE]4 [GE]2 E/2z/2G B/2<c/2B/2A/2 [dF-][fG]| \
+[ec]2[dE] [dF]2 [CA,]2 [BGC]2| \
+[cEA,]3 A4- [A-F-]2| \
+[^cAA]2 B4- AB| \
+A2 [aB]2 [^ac]2 [fc]2|
+[gB]2 [fA]2 [e-A]2| \
+[fB-]2 [fB]2 B2 [dB]2| \
+[dA]f [fA]2 [fB][eA] [AA]2|
+[dA-][eA] [dA]2 [ec]2- [dB]2| \
+[eA-][AA] CE D2 E2 [eG]2 [dG][^cA]| \
+[^cA-]2 [dA]2 [d^G]2 AG A| \
+A^G,][AA,] [G,-D,][GDE,] [FGE]A|
+[AD][B^D] [AD-][cD] [AE-][fA]|
+[^c-F][cF] G[^AG] [AE][A=G]| \
+[AF]2 c/2d/2d dd G^A GA| \
+^AF E3[G-A,][G-A,]| \
+[G-D][G-A,] [G-^A,][G-^C] [G-E][GF] [=G-^D][G-C] [GC][AC]| \
+[^GD][AA,] [GA,]2 [e=A,]2| \
+[gA-]2 [fA-][gA] [gA]2 [eA]2|
+[cBG][^cG] [BG-][cA] [^dB]2| \
+[eB]2 [cA-][eA-] [dBG]^G|
+A2 [A^F]2 [cG]2| \
+[cA]2 [e^A][e^G] [dA][cA] [BG]2| \
+[A-F][AA] [A^F][dA] [fA-][cA] [dF]d[dA]| \
+[d-A][eG] Bc ^d2|
+[e^G]2 [eB]2 [e^D]2| \
+[^fG-][gG] [a-B][gB] [g-A]2 [a-e][ae] [a-e][ae]| \
+[^gc]2 c/2f/2e/2d/2 [c-B][ec-]/2G/2 [^fA-][dA-][^cA-]| \
+[B-D]c-[B-F]/2[BF]/2 [AD-][cE] [cB]2 [A-F][A-E]|
+[AD]2 [BF]2 [cE]2| \
+[bA]2 [gE]4 [fB]2| \
+[b^A]2 z[^g^cA] [=fc]2|
+[b^fc]2 [adG]2 [eGF]2 G3d| \
+ (3cfB  (3AGF  (3BBA  (3GG^G| \
+A2  (3FAG  (3GEB| \
+Ac GB cd eE| \
+de fd BA cA ed| \
+d4 E/2-[F-E]/2 [AF][AE]z [cG][CA,]| \
+[EE,][ED] [AC][dC] [gG][fA] [fB][eA] [dG]2| \
+[eA][dF]| \
+[dF]E3/2^d/2^f [d-G][dG] [^fA][dA] \
+[ec-]3[d'c-]| \
+[eB-][eB] GB AG| \
+
+X: 11
+T: from /Users/maxime/Programming/PWS/Misers/maxime/Programming/PWS/Miniforge_install/M_BACH_NEW_MIDI_V3/traxing_data/cc12_2.mme.mid
+M: 3/8
+L: 1/4
+Q:1
+4
+A,2 C2 B,2| \
+E,2 B,C G,2| \
+^F,2 C2 B,2| \
+A,2 z2|
+A,2 A,4| \
+G,2 A,2 A,2|
+C-B,][C-A,] CF cG| \
+f2 e2 e2-| \
+[fA-][cA] e2 d2|
+d2 A2 f2-| \
+g2 [eA]A [^dG]2| \
+[cF]2 [AF]2 [BG]2|
+[cF]2 [dG-][AG] AG [cAF]2| \
+[dBF]2 [eBG]2 [eG]2 [BG]2| \
+[dA]2 [cF]4 [cA]2| \
+[c-A][c-^G] [dG]2 [gG][AF]| \
+[c-F]2 [cB]2 [cF]2 [c-E]2|
+[cA]2 [cA]2 [AE]2| \
+[AG]2 [GE-]2 [BF]2 [c-F]2 [cA]2| \
+[c-^F]2 [c-G]2 [cF]2| \
+[^AG]4 [A=A]2|
+A-[AF] A2- [A-G][AF]| \
+[GF]2[AF] [AE][c'G]| \
+z2 [dE]2 d2 [cE]2|
+[GE]2 [dG]2 [GC]2 A2-| \
+[B-A][BA] [B-G][B^F] [AG]2| \
+[cA]2 [fG]2 

@@ -1,0 +1,111 @@
+X: 1
+T:song_name
+K:C % 0 sharps
+V:1
+%%MIDI program 40
+%%MIDI program 44
+[cE]6 [AF]2| \
+[AE]2 [A-G][AG] Fz| \
+A,A, CG| \
+A2 A4-| \
+A3-A/2z/2 A4-|
+A4| \
+z4 ^c2| \
+G4 dd| \
+^fA ac =AG|
+AG EF ^Gd| \
+dc BA Bc| \
+dA GB ce| \
+Ge AF D^C| \
+ED FA Ae|
+EA dd [AC]4| \
+[AC][cE]2 [AF-][AF] [GE][cF,]| \
+[c-F-]4 [cF]2 [c-F][cD]| \
+[dF][dA] [e-G][f-A] [fA][eG]| \
+[eA]2 [dA]2 [f-F][f^F]| \
+[eG]2 B2 [dG]2 [c-E][cB]| \
+E,2- [cF,]2 [c'G]2 [cA]2| \
+[^cA]2 [fc]2 [dA]2 [dA]2 [fc-]3/2[ec]/2 [fA]2| \
+[gc]2 [gA]2 [dB]2| \
+[g-B][g-c] [gA]2 [fA]2 [eA]2| \
+[fA]2 [fe]2 dd [cE]2| \
+[cA]2 [eA]2 [cA]2 [eA]2 [gG]2|
+[dA]3[cA] [Bc]2 [cF]2|
+[aE]2 f4 [gBG]2|
+[BAF]2 [eA^G]2 AB/2-[BB] [cA-][A-A]/2[AF]/2 G/2A/2B/2A/2| \
+B/2d/2g [AF,][AC]| \
+[GD][AG] [GF][cG] [AD][GE]| \
+G[G-F][G-F][GD] CB| \
+GFD FFc d4
+cB Gc| \
+^cG AF GG|
+GD DB cA ^FA AA| \
+GA FG ga| \
+d'd' d'b c'b| \
+a2 d/2-[ec]/2[ecG-][eG]gz e2e2f|
+a2A AGA [BGF]Ed [gAE]2 [f^AD]z| \
+[dA][A^D]2 [dE]z[cF] [G-=F][dA] [A,G,^F,]4| \
+[A,A,]4 [AB,]2 [G-D]2 [GF]2| \
+[G-E]4 [G^F-][GF] [GG]2 [GD, z4| \
+G,E, A,G, DG, G,E| \
+A,E, G,A, G,G, E^D| \
+D,E, DB, C2 C2| \
+A,2 A,2 z2 D,2 B,2| \
+D2- [G-C]2 [A-C]2 [AB,]2|
+[G-A,][GFC] [G-E][GD] [c-E][c-D][c-A] [c-A][c^A][e=c]| \
+[ed-]/2[ed]/2[ed-] [=d-d][d-c] [dG][BD]| \
+[^c-^D][c=D] [c-A][cF] [GD][A=B,] [AC]2| \
+[AC][B^F] Gc AB|
+f4 zB ce| \
+e2 [aAF]2 ^A-][AG] [GD]2|
+[AE]z [AF]B [AE]2| \
+[cE]2 [dG]2 [c-F][cE] [cF][cF]|
+[cF]2 zf ff dB| \
+[^dBD]2 [d=A-C]2 [cA]2 [BG-]2| \
+[^A-G]2 [AB][eG]2 [e^G-][dA] [d-A]2 [d-^F][cG]| \
+[c^F]2 [G-C][GA,] [D-^A,][EB,] [DA,]2| \
+[FA,]2 [EG,]2 [EA,][GA,] [GC]2|
+[D^A,]2 [GA,]2 [AG,][AE]| \
+F2 [DB,]2 [E-C][F-G,] [FD]2| \
+[F-^A,][GC] [GC]2 [GD]2 E2|
+[^GF]2 [AE]2 [AG]2 [=AG-]2| \
+[A-A]2 [AG]2 [cF]2 [dG]2| \
+[cF]2 [dF]2 [dD]2 [AD]2|
+[A-D][AE] [A^F]2 [AF]2| \
+[d-G]2 [dF]2 [dA]2 [dG]2| \
+[cA]4 [AF]2 FD ^D2| \
+[^DA,]2 [^GEA,]2 [AGFA,]2| \
+[A-^CG,]2  [AFA,]2 [GDA,]2| \
+[G-C^A,-]2 [GADA,]2 A2| \
+[^AFG,]2 [AAA,]2 z2 [gAEA,]2|
+[gBFA,]2 ge [^a^AEB,]2| \
+[fcF]2 [ec-C]2 [fdB,]2| \
+[eAD]c [BAF]4 [GF]2|
+[d^GG]2 e2 [aBEE,]2| \
+[a-AE]2 [gcE]2 [gcE]2 [ecE]2|
+[e-cE]2 [ec-G][cAF] [fG|
+[cA]2 dc BA| \
+[GE]2 z2 [cE]c| \
+[^cFE]2 z2 zE/2D/2 A/2-[A=F]/2G/2-[BG]/2| \
+[cA]/2 [dB-]/2z/2[ec]/2[eA]/2 [b-G]/2[gF]/2[aF]/2[GC]/2 [e-c]/2[fc]/2[a-d]/2[aB]/2| \
+[e-A]/2[e-c]/2[e-c]/2[eA]/2 [e-c-][geA] [a-e-D][a-dA] [a-ce][ac]| \
+[ggB][a-^A]/2[f-^A]/2 [eG,][AB,]/2[AE]/2 [=AE][AF]/2[AG]/2 [B-G][cA]| \
+[cG-][d-B]3[dc]/2[^c=A]/2[=A-F]/2[AF]/2 G/2-[AG]/2[=AG-]/2[cA]/2 [BF][AG]|
+[B-A][B^F] [dG][cA]2[BG] [A-F][A-D] [A-=A][A-D]| \
+[B-^F][AF] [B-C][BF] [cE][dA] [d-G][d-E] [d-G][dG]| \
+[cA]2 [AF][AC] [AE-][dF]| \
+[e-A][dA] [d-^A][d-F] [d-G][d-F] [c-F][c-=D]| \
+[cA]2 [BG-]3[BG] [AE]2 [^d-A]2 [d-A]2| \
+[d^F]2 [c-G][cF] [G-F][G-E] [GD]2| \
+[G-E][GE] [=A-^C][A-D] [A-F][AF] F2| \
+[A-F]2 [A^C]3/2z/2 [AA,]2| \
+[A-A,][A-D] [AC-][BD] [A-D][A-E] [A-F][AC]| \
+[A-^C][A-D] [A-F][AF] e2 d2| \
+cD EE EF| \
+FC CB, GE FE| \
+Dz [fD]z ez| \
+[AG]2 a2 d2 [dD]z| \
+[^CG,]2 [G-B,][dG] [d=G-]2 [dG]2| \
+[d-G]2 [d-G]2 [d-G][d-E]| \
+[d^D]2 [AD]2 [AD]2 [AG]2| \
+[A^F]2 [=AD]2 [A^F
