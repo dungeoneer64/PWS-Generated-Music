@@ -18,9 +18,11 @@ def print_instructions():
     train_new MODEL_NAME (tn):        start training a model from scratch
     train_load MODEL_NAME (tl):       continue training a model from the latest snapshot
     generate MODEL_NAME (gen, g):     generate a new batch of songs
+    prompt MODEL_NAME (p):            generate a new batch of songs prompted by a file named prompt.mid (in the home folder)
     export (e):                       export all songs in the training data folder to WAV
 Information:
     Iterations start counting at 1; the 1st iteration is iteration no. 1.    
+    If you interrupt training, and restart it using the "train_load" command, the iterations after the latest snapshot will still be in loss_over_iter.csv. These entries must be removed manually.
     """)
 def separator(len=40): print(len*"=")
 
