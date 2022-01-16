@@ -1,0 +1,108 @@
+X: 1
+T:song_name
+K:C
+P:A
+|:c/2d/2|"C"edc "F"A2c|"C"G2c "C7"cde|"F"f6:|
+P:B
+d|"Dm"def "A7"ede|"Bm"f2d "A7/e"gfe|"D/f+"agf "G"bag|"D/f+"agf "A7/e"deg|"D/f+"agf "G"bag|"D/a"fed "A7"edc|"D"d3 d2:|
+X: 1
+T:Abbey Crict Walk
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+F/2G/2|"D"BA/2A/2 AB/2c/2|"D"dc/2d/2 B/2d|"E7"e:|
+
+X: 6
+T:Liberty Bell
+% Nottingham Music Database
+S:Jimmy MacKay, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+P:A
+e|"A"cc e3/2c/2|"D"dd fe|d2 fd|"D"f2 fd|"A"e2 a3/2e/2|"D"fe dc|"G"Bd fd|"D"A3/2d/2 fe|"Em"BAG|"D"F2A ABA|"D"d2e f2a|"G"bag "D"faf|"A7"e3 "D"d2|
+X: 189
+T:My Favourite Flute
+% Nottingham Music Database
+Y:AABBCC
+S:EF
+M:6/8
+K:A
+P:A
+"(E7)"cde ||"A"f2e ^d2e|c3 Ace|
+"A"A2|
+"G"d/2d/4d/4 d/2B/2|"F"A/2c/2 c/4B/4A/4F/4|G/2F/2 E/2D/2|\
+"E"C/2B,/2B,/2 D/2E/2G/2A/2|"Em"B/2A/2G/2B/2 "D"d/2e/2d/2c/2|
+"G"B/2G/2D/2G/2 B/2d/2g/2c/2|"Em"BIB:|
+P:B
+Bc|"G"dBgB dgBc|"G"(3dcBgB "Em"ded|"C"cde "G"dBG|"Em"GAB/2G/2G/2|"F"A^G/2A/2 =B/2c/2d/2^c/2|d/2B/2e/2c/2 f/2g/2e/2f/2|"G"g/2f/2e/2 "D"d/2e/2f/2g/2|"G"a/2gf/2 "A7"e/2d/2c/2B/2|\
+"D"AA AG/2F/2|
+"E7"EG Bd|"A"c3/2B/2 cA|EA cd|"A"e2 ef|"G"ga2g|"D"f3e|"D7"d3/2d/2 f|"G"B/2A/2G/2B/2 "D"A/2D/2F/2A/2|"G7"d/2e/2d/2c/2 "D7"B/2D/2G/2A/2|
+"G"BA/2B/2 dc/2B/2|"G"dg "C"g(3e/2f/2a/2|"G"bg "D7"af|"G"g3\
+::
+g/2a/2|"G"b/2a/2g/2f/2 "D"a/2f/2d/2f/2|"Bm"e/2d/2c/2B/2|"E7"E/2G/2B/2G/2"D7"E/2F/2|"G"G3/2F/2 G3/2F/2|\
+"G"G3||
+X: 72 d/2c/2d/2^d/2|"E7"g/2a/2b/2^g/2 -g/2f/2-\
+|
+"Am"c/2d/4c/4 "G"B/4c/4d/4B/4|"A"c/2A/4c/4 "G"B/4c/4d/4B/4|"A"c/2A/4c/4 e/2a/2|\
+"D"f/2 d/4c/4B/4A/4|"Gm"G/2B/2 G/2A/2|"D7"B/2A/2 G/2c/2B/2c/2|
+"G"d/2d/2d/2d/2 BB| [1"E"e2 e2:|[2"Bm"e3/2B/2 "E7"cd|"A"e/2f/2e/2d/2 "Bm"c/2B/2A/2G/2|"E"F/2E/2F/2G/2 "A"A2:|[2"A"c/2A/2|
+X: 69
+T:Teetotaller's Hornpipe
+% Nottingham Music Database
+S:O'Neils 1850 p123
+M:3/4
+L:1/4
+K:G
+d|"G"d3/2c/2B|"G"dBG|"D"A3|"Em"g3/2e/2a|"Bm"gfd|"C"ed=c|"G"BdB|
+"D7"A2B/2A/2|"G"G3/2D/2||
+B/2d/2e/2f/2|g/2f/2e/2d/2 e/2d/2c/2B/2|
+[1AcE C||
+X: 36
+T:14.
+T:Widold Irishman
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Em
+P:A
+B/2A/2|"Em"G/2E/2 DacrizK:D
+P:A
+A|"D"def "A7"gec|"G"d2B "D/f+"F2B|"A7"A2G|"D"FED|"A7"G2Ed|"G"BGBd "D"A2fa|"G"gfed "A7"cABc|"D"d2f2 d2:|
+X: 63
+T:Three Little Blackberries
+% Nottingham Music Database
+S:Ronald Cooper varis Da Nc||
+"D"af/2g/2 af/2g/2|"D"a/2g/2f "A"e2|"A7"eg "D7"fd|"G"g2 "G7/b"a2|\
+"G/b"gd "C"ed|"Em/g"d/2c/2B/2A/2 "D7"Bc|"G"Bd "D7"AG/2A/2|"G"BA Bd|
+d/4f/4e/4d/4 c/4d/4e/4f/4|"G"g/2f/2 e/2d/2|"A7"c/2d/4e/4 d/2c/4e/4|"D7"d/4e/4d/4c/4 "G"B/2\
+"D7"A/2G/2 "G"G:|
+X: 9
+T:MdQuilley's Reel
+% Nottingham Music Database
+S:Jyd Macian, via PR
+M:4/4
+L:1/4
+K:G
+Bc |"G"dd BB|GG D2|"G"G2 DE|GG G/2A/2B/2c/2|\
+d/2c/2B/2c/2 d/2e/2f/2g/2|
+"G"gd dB/2d/2|"C"c/2A/2B/2G/2 "D"AD|"Em"GB AG|"G"B3/2d/2 dd|"G"Bc de|"F#m"fa gA|"Em"gf "B7"ed|"Em"B2 "E7"Be|"A7"Ac Bc|"D"d2 d2:|
+
+X: 55
+T:Puddler's Jig
+% Nottingham Music Database
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:D
+P:A
+f/2g/2|"D"a2a dAA2|B "A7/e"FE|"Dm"D2 D:|
+P:B
+A|"Dm"ddf "A7"ecA|"Dm"dAF D2::
+A|"D"c/2B/4B/4 A/2G/2|e/2A/2 B/2A/2|"D"f/2d/2 d/4e/4f/4a/4|
+"G"g B|: EG/2|"A"A

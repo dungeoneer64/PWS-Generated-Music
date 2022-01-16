@@ -1,0 +1,99 @@
+X: 1
+T:song_name
+K:C
+M:6
+T:Miss Lopchhe Line
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+"(E7))"f|
+"Am"e2c cde|"Dm"f3 d2e|"Dm"d2c BAcA
+|"G"GFG BAG|"D"FEF AFD|"G"d^cd "D7"B2A|"G"G2B d2B|
+"D7"ABA CBGA/2F/2 c/2B/2A/2G/2|"D"FD "A7"FE|"D"Dd dc/2d/2|"G"ed cd|"A7"ea/2g/2 eg|
+"D"af/2g/2 a/2f/2d/2f/2|a/2e/2f/2d/2 e/2f/2c/2A/2|"D"F/2F/2D/2F/2 "Bm"E/2D/2B,|"Em"GF/2G/2 "A7"Ad|"D7"d/2c/2B/2c/2 Ad c2:|"A7"BA^G|"A7AA|\
+"G"GB/2G/2 D2|"G"GB "A7"AG|"D"F/2D/2D "A7"E/2C/2D/2E/2|
+"D"FA/2F/2 "A7"EE|"D"FD d2|"D7"AF/2D/2 FE/2D/2|"G"GG AG|"G"dd/2e/2 de|"D"af "G"gf|"D"a3/2g/2 "A7"fA|\
+"D"d3:|
+
+X: 46
+T:Sir Wiverty
+% Nottingham Music Database
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:A
+P:A
+E|"A"A2E A2B|ccA e2d|c3 B2c|"D"d2e f3|"E"e3 e3--|"E"e3 -edB||
+"A"ABA GFE|"D"D2D2/4|F/2A/2D/2F/2 ED|"Em"E/2F/2G/2A/2 B/2A/2B/2c/2|d2B d2ef|
+"Am"gAe e/2d3/2d2|"D7"(3Adf(3afd "A7"Bgec|"D"dcdf "A7"bgec|"D"d2d2d d4|
+"D"dd2 "D7"de fe|"G"d2 cB|"Am"A2 d2|"D7"ed AB|"G"G2 "D7"D2|"G"G3/2A/2 "D7"BA|"G"G3D||
+"G"BG BB|"D7"A2 d3/2B/2|"D"AD FE|\
+"A7"E3/2F/2 EF|"D"A2 DF|"G"GG D2|"D"AF DF|"A7"EF GE|"D"D2 FD|"G"G4-|G"G3G^G B2d|"C"e2d "E7"c2d|"Am"e3 "G"d2B|
+"Am"A2B c2d|"C"e3 -"A7"ABc|"D"d3 -d2||
+A|"D"ABA d2A|"G"Bcd "A7"edc|"D"d3 -d2e|"D"fgf "A7"ede|
+"D"f2g a3|"D7"fed def|
+"G"gab gfe|"D"dcd "A"ecA|"Bm"BcA "E7"BGE|
+"A"e/2d/2c/2B/2A/2|
+"D"Da/2f/2 "A7"a/2e/2c/2e/2|"D"df d::
+"G"g/2g/4g/4 g/2a/2|b/2g/2 g/2e/2|zd/2B/2|"C"ABG "D7"AFD|"G"G3 -G2||
+X: 355
+T:Nutting Star
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:Am
+"Am"A/2B/2A/2G/2 "D7"Fd|"G"G3/2D/2 GG|G2 DE|G3/2A/2 Bd|\
+"C/d"cA "D7"AF/2G/2|"G"AG B/2c/2d/2^d/2|"E7"ed BB|
+"A"ef/2f/2 -a/2b/2a|"A7"aa a3/2b/2|"A7"a/2ga' c2d|"G"B2d "D"B2A|"Em"G2G "D7"AGF|"G"G3 G2:|
+X: 53
+T:Moree Syut
+% Nottingham Music Database
+S:EF
+Y:AB
+M:6/8
+K:D
+P:A"(3ABA"f2c|"Em"B^ABe geBG"e3 -e2e|"D"f2f "A7"gec|"A7"A2G G2F|"D"A3 "D7"A3|
+"G"d^cd B2d|"D"A3 -ABd|"Em"e3 e2f|"A"g3/2a/2g e2g|"A"ece gec|"D"BcA FA|
+P:B
+e|"A"efe dcBA|
+"Bm"B2B Bcd|"D"A2d "Em"c2B|"A7"ABA GFE|"D"D3 DFA|"D/f+"d3 d2c|
+"G"B^AB d2B|"D"A2G F3|"D7"A6|"G"B2d g2g|\
+"D7"fed cBA|"G"BcB "A7"A2(3ABc|
+"D"dcdA FAdf|"Em"edcB "A7"AGFE|"D"D2F2 G2:|
+P:B
+A2|"D"dcdf "A7"ecac|"D"d2f2 d2Bc||
+"G"dedB "D"A2Ad|
+"G"BGBd gdBd|"Am"cBcA E2AG|"D7"FGAB cdef|
+"G"(3gba(3gfe "D7"dc"G"bg "Dm"ag2f/2|\
+"G"e/2c/2A/2B/2 c/2B/2A/2G/2|
+"F"A/2F/2c/2A/2 E/2c/2F/2E/2|"C"G/2G/2G/2G/2 GG/2A/2|\
+"G"B/2dB "E7/b"edc|"G/d"Bcd "D7"cBA|"G"G6||
+K:D
+"D"ABd fed|Adf ABA|=fdB A2d|"Em"e3 e3|\
+"Am"e3 -d3 -d3 B3|"D7"c2d A2d|"G7"B^AB d2B|d3 -B2c|d3 -d2c|BGB dBG|"E7"d2e dcB|"A"A3 A2:|
+
+X: 174
+T:The Luddy Mist a Leat
+% Nottingham Music Database
+S:Mike Richardson, via PR
+M:4/4
+L:1/4
+K:D
+F/2E/2D/2|"C"EE/2E/2 "D"D2 "G7"A2|"C"c'2 c'-|"C#d"g2 -g2|"D7"ed ef|"G"g4||
+X: 21
+T:The Skind
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:Gm
+G/2A/2|"Gm"BGG|
+"AAG|"D"GAB "C"eGG|"D"AGA "Em"BGE|"G"dBG "D7"A2A|
+"G"d2g B2B Bcd|"C"e2e efg|"G"g2d dcd|"C"efe "G"deB|"Am"A3 "G"G2:|
+X: 33 via PR
+M:4/4
+L:1/4
+K:G
+"Am"c/2d/2c/2A/2 E/2(3c/2B/2A/2e/2A/2|"G"g Bc|"C#"e3/2d/2 ce|"A"dc "D7"cB/2c/2|"G"dc/2B/2 GA/2B/2|"Am"c/2

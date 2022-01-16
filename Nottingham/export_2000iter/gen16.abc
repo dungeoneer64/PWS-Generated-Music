@@ -1,0 +1,90 @@
+X: 1
+T:song_name
+K:C
+P:A
+f/2g/2|"G"dBd gBd|"Am"c2e "D7"def|"G"g3 -g3|
+"G"def g2g efd|"G"GAG BAG|"G"dBG "D"Avie EF
+Y:AB
+M:4/4
+L:1/4
+K:C
+P:A
+e|"C"e3/2e/2 ee|"G"d/2=c/2d DD ED:|
+P:B
+|:"G"GB/2c/2 d/2B/2A/2G/2|"G"F/2G/2A/2B/2 G/2F/2G/2A/2|"G"Bm"B/2A/2G/2F/2 "Em"E/2F/2G/2A/2|\
+"Am"E/2G/2E/2G/2 "D7"F/2D/2E/2F/2|
+"G"G/2F/2G/2A/2 Bd|"G/b"dB "C"c2|"Bm"dd/2c/2 "E7"BB|"Am"AA "A7"A2|"D"dd -dd|"D"D3/2F/2 A/2B/2A/2F/2|"Em"GE "A7"Bc|"D"d3:|
+X: 11
+T:Sally Powers Peat
+M:6/8
+K:Em
+"Em"GFE GFE|"D"D3 DFA|"D"d3 |"A7"E^DE A2G|"D"F2F A2F|"Em"E2F "A7"GFE|"D"D3
+Y:AB
+M:4/4
+L:1/4
+K:R
+P:A
+|:"D"dd d/2A/2F/2A/2|"D"A/2B/2d/2e/2 fa|"A7"a3g|"D"a3/2f/2 "G"gf/2e/2|"D"dA AF|"G"E3/2F/2 "D"GA|"G"Bd "D7"d2|"G"G3/2A/2 "D"FF|"D"DE FA|"G"G4-|A||
+"D"a3/2f/2 dd|"A"c3/2B/2 Ac|"D"d3a|"G"b3 a3|"C"=ag"A7"ee2f e4|"Dm"fga "G7"g2f|"Em"edc e2d|"Am7"e3 a3|"D7"a3 a^ga|
+"G"g2f e2d "C"edc|"G"B3 B3|"G"gDGBd|"C"efgf efed|"G"cedB "D"A2bg|
+"Em"(3edc "A7"B2^G|
+"D7"A2(3a3/2A/2|"D"a3/2f/2 d3/2f/2|d/2B/2d/2B/2 b/2B/2g/2B/2|"G"d/2B/2g/2B/2 d/2e/2B/2A/2|"G"B/2c/2d/2B/2 g/2B/2d/2B/2|\
+"D"A/2A/2d/2A/2 f/2d/2A/2F/2|B/2F/2A/2F/2 D/2F/2A/2F/2|\
+"D"d/2e/2d/2B/2 "A7"Ad/2c/2|"D"d/2A/2B/2d/2 "A7"A/2G/2A/2d/2:|
+P:C
+"D"f3/2d/2 AB|"Em"cB B2|"A7"AB GE|"D"F2 F2|F|"D"A/2e/2f/2a/2 "A"gf/2g/2||
+ |"D"afd fad|"G"dBG GBd|
+"A"cef edc|"G"BAB "D"d2f|"A"eAe edc|"Bm"dBc dBd|"D"df/2g/2 a/2g/2f/2e/2|\
+d/2B/2d/2B/2 GA|"Bm"Bc/2d/2 c/2d/2e/2f/2|"Em"g/2f/2e/2g/2 "D"f/2e/2d/2B/2|\
+"Em"B/2c/2d/2F/2 "A7"E/2F/2G/2E/2:|:
+"D"D(d/2f/2)|[1"Dm"d/2d/2d/2d/2 "C"e/2d/2e/2^f/2|\
+"G"g/2e/2d/2B/2 GA/2B/2|"Am"cA A::
+A|"Em"Be/2B/2 ee/2d/2|"D"d3a|"D"f3/2f/2 dB|AB2A|"D"d2d/2e/2|"D"a/2f/2d/2f/2 "F#"e/2c/2d/2e/2|"F#7"d/2c/2B/2A/2 "E"G/2G/2B/2d/2|"A"c/2B/2A/2c/2 "E7"Bg|
+"A"f/2e/2c/2e/2 "A"(3edc|"G"B2G "C"G2F|"G"G2G G2g|
+"G"dcB "D7/a"AGF|"G/b"GAB "C"cde|"G"dcB "D7"AGF|[1"G"G3 -G2:|[2"D"d3 d2:|
+P:B
+de|"D"f3 bgf|"A"e2c cde|"D"d2f a2f|"D7"d3 d2c|
+"G"B2d g2d|"G"ec^c d3|"D7"d2^c dcB|
+"D7"d2f def|"G"d2e d2B|"A7"A3 "D"A2A|
+"G"A2B "B7"d2d|"Em"e3 -e2f|"D"d2d d2d|"G"g2f e3|"Em"atabase
+Y:PAAB
+S:vike Rithle 1"G"g2g g2:|
+X: 157
+T:Donas March
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"ffd f2f|"D7"d3 f2|"G"d3|"G7"d2d|
+"C"e2e "G"dcB|"D7"GFD FDE|
+"G"B,Df dBG|"G"BcB "B7"AGF "Em"E2|
+"E7"BcB B^cd|"A7"c2a a^ga|"D7"d3 dcB|"G7"d3 -d2c|"G"B4-|B2G c2B|"A7"AB^G A2A|
+"Dm"d2d cde|d^cd A2B|"A"A2A A^GA|
+"Bm"G2F EFG|"D"FGF D2
+Y:AB
+M:4/4
+L:1/4
+K:Dm
+P:A
+P:A
+A|"Dm"ded cfa|"G"gBg dBG|"D7"d3 -d2c|d2d d2^c|d2G G2A|"G"B2G -G2D|"D7"D2^A d2A|"G"G2G G2d|\
+"Em"e3 -e2f|"A7"g3 g2|
+"G"ag/2a/2|"Em"E^AB|"A7"ABa2 A2e2|"D"fgfe "D7"d4|
+"G"B3/2d/2"Em"c2 B2|"D"A2 "Bm"d2|"A7"ee f2|"D"d2 d2|"D"dd e2|"G"dB G2|"Bm"F2 F2|"D"F3/2F/2 BA|"A7"BA -ac|"A"EA cB|\
+"A7"A2 ||
+
+X: 1
+T:Bally Mawerick, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+|:A/2G/2|"D"FA FD|"G"GB/2G/2 "D7"E/2D/2E/2F/2|"G"DB, |"D"d/2c/2d "A"f2|
+"D"Ad/2c/2 d/2c/2d/2e/2|"D"f/2B/2e/2f/2 d/2f/2a/2f/2|"G"g/2d/2B/2g/2 g/2f/2e/2d/2|\
+"A7"e/2g/2a/2^g/2 ec"D"B/2=G/2A/2B/2 cd|"D""Bm"dd2D|"D"ded "G"BAG|\
+"D"AFA d3:|
+c|"G"dcB "D7/a"AGF|"G/b"GAB "C"cde|"F"f3 f3:|
+
+X: 20
+T:Captloyf Jan 

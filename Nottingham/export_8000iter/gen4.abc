@@ -1,0 +1,110 @@
+X: 1
+T:song_name
+K:C
+P:A
+gf|"C"edcd efge|"G"dBde dcB2|"G"gagd B2GB|"Am"cdcd e2dc|"D7"BcAF G2:|
+P:B
+ga|"Em"bagf e2f/2g/2|
+"D"afd A2a/2g/2 "D"f/2e/2(3d/2e/2f/2|"Em"e3e/2f/2|\
+"A7"eA G:|
+
+X: 60
+T:Big For Chris
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:G
+Bc |:"G"d2 cd|"A7"B2 AG|"D"FA2c|"D7"A2 GA|"G"Bd "C"e2|"G"dB "C"cd|\
+"Am"e3 "D7"d3|
+"G"g2g gag|"D"f2f f3|"G"gfe "Dm"d2e|"G"dBG "D7"A2F|
+"G"G2G "D7"AGF|"G"GGG "A7"B2c|"D"d2f "A7"a2f|"D"def agf|"D"fgf fed|"D7"cBA A2G|
+"G"BdG "D7"Gdd|"G"GAB "D"def|"G"g3 "E7"Bcd|"A"e/2a3/2e "D"fed|"E7"cdB "A"A2:|
+P:C
+|:d|"A"c2e Ace|"A"ecA Ef|"E7"e3 e2:|
+X: 67
+T:That's Ad|"A"c/2d/2(3e/2a/2 "A"c'/2c'/2|"Em"b/2a/2g/2b/2 "A"ag|"D"a/2g/2a/2g/2 "A"a/2e/2f|\
+"E"e3"A7"e|
+"D"f/2e/2f/2g/2 a/2e/2f/2e/2|"A"c/2d/2e/2f/2 ee|\
+"D""F#m"f/2e/2^d/2f/2 "Bm"e/2d/2c/2B/2|"Em"ee ED|
+"G"dd "C"ed|"G"BG "D7"Ac|"G"B2 "D7"A2|"G"G3||
+X: 6
+T:Dinah
+% Nottingham Music Database
+S:Symon 1651, via EF
+M:4/4
+L:1/4
+K:A
+[viam Farrel
+% Nottingham Music Database
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+d|"G"edB|"G/b"G2A/2B/2|"C"EGE|"D7"D2E/2F/2|"G"GFG|"Em"e3/2f/2e|"A7"A^ce|\
+"D"d^cd A2f/2a/2|"G"gfg base
+S:Anon, via EF
+M:6/8
+K:G
+D|"G"G2G d2d|"C"cBA "Am"A2G|"D7"A2
+G/2c/2|\
+"G"B3/2d/2d/2B/2 "Em"G/2A/2B/2c/2|"Bm"dd/2c/2 "E7"BA/2G/2|
+"A"A/2B/2A/2c/2 "E7"B/2A/2B/2c/2|"A"Ac A:|
+
+X: 10
+T:Pndonnuth 38/2:|[2 "G" GA/2B/2|||"C"c/2B/2c/2e/2 "G"dB/2d/2|"D"c/2A/2d/2A/2 "G"B/2GG/2z2iper
+% Nottingham Music Database
+Y:AAB
+S:TDA II
+M:3/4
+L:1/4
+K:G
+P:A
+G/2A/2|"G"BG GA/2B/2|"C"cc/2B/2 cc/2B/2|"Am"AA A2|"D7"d/2e/2d/2c/2 BA|"G"G3d/2c/2||
+"G"BG Bd|"D7"A3d/2c/2|"G"BG GA/2B/2|"C"cB "D7"AG/2A/2|
+"G"BB/2d/2 "D7"A/2B/2A/2G/2|"G"Bd "C"e/2f/2g/2e/2|\
+"Em"d/2c/2B/2A/2 "D7"G/2F/2G/2A/2|"G"BG G:|
+X: 99
+T:Lads O'Daforal
+% Nottingham Music D"=cd/2c/2 "E7"BE|"A"A2 A:|
+P:B
+c/2d/2|"A"ea ca|"A"e/2f/2e/2c/2 EB/2c/2|"A"e/2f/2e/2f/2 e/2A/2c/2e/2|"D"f/2e/2d/2c/2 "E"BB/2c/2|\
+"Am"d/2e/2f/2e/2 "D7"d/2c/2A/2F/2|[1"G"G2 "D7"G2|\
+"G"G3||
+X: 57
+T:Chephbarb Haylin
+% Nottingham Music Database
+% abc2midi bury
+% Nottingham Music Database
+S:KCC p3, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+c|"G"BG GA/2B/2|"C"\
+c2f|"A"efe cBA|"Bm"c2e "E7"B2e|
+"A"Ace a3|"B7"bfb agf|"Em"e^fg "Bm"fdB|
+"Em"Bee efg|"Bm"fed "Em"edB|"G"dcB ABG|"D"FDF AGF::
+"Em"B,EE eBG Ee^f|"G"g2G Gg^g|"D"fgf fed|"Em"e2f gfe|"Bm"fgf f3|"Em"edB "D"d3|
+"Em"efg "Bm"fdB|"G"BdB "A7"A2g|"D"fef "G"gbb|"D"afd "G"bcB|
+"A"A2A cBA|"A"ecA "D"d2f|"D"ecc "G"B2g "Em"BBB|"G"dBG "D"Gdd:|
+P:C
+"C"cec "G"BdB|"D"GBA Ad "A7"efg|
+"D"a2f a2f|"Bm"def d2f|"A7"ecA ABc|"D"d3 d2::
+f|"D"a2f "A7"g2e|"D"fgf fed|"A"Aee Aee|efe ecA|"Am"ABc "D"cBA|"G"GAB "C"cde|"D7"dcA "G"Gd:|[2 "G"dBG "D"Gdd||
+P:B
+"Em"efe edB|"Em"def gfe|"D"dBA ABA|"D"dAd d2A/2e/2|"G"dB "D7"AG/2A/2|
+"G"BA/2B/2 dB/2A/2|"G"G/2A/2G/2E/2 "D"DG/2A/2|\
+"G"BB "D7"A/2B/2A/2G/2|"G"Gd e/2f/2g/2f/2|\
+"Em"e/2d/2e/2f/2 "D7"g/2e/2d/2c/2|
+"G"B/2G/2g/2d/2 d/2g/2f/2e/2|
+"D"dA2G|ed cd|"C"g3/2a/2 ge|\
+"Am"gf "D7"ef|"G"g4:||:
+"Am"ABc c2d|"Am"edc "D7"\
+Y:Abtherskong
+% Nottingham Music Database
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+"E7"EFG d3|"E"g3 f3|"E"e3 e3||

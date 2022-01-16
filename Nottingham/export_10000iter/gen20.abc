@@ -1,0 +1,98 @@
+X: 1
+T:song_name
+K:C
+P:A
+gase
+S:Jimmy MacKay, via EF
+M:6/8
+K:G
+D|"G"B2G "D7"AFD|"G"GFG "D7"Gdc|"G"B2G G2g|"C"efe "G"dcB|"Am"d2c "D7"A2G|
+"G"B3 Bcd|"C"e2c "D7"Ace|"G"d2B gfg|"D7"f2g fga-|"G"d3 -d2d |"Em"e2f gfe|"Bm"fdB B2f|
+"Em"g2f efd|"A"cde G"A2G G2d|
+"C"g3 -g2f|g2f efe|"A"d2c cBA|"D"f2d f2g|"D"a2a "A7"fde|"D"fgf fed|"Em"g2b b^ag|
+"Em"g2g ega|"D"f2d "Em"g2f|"Em"e2d "D7"c2B|"G"B3 "D7"c2B|"G"B3 -B3 BAG|"G"dB2 "G7"Bcd|"C"d3 "G7"c3|"G"d2d B3| "G"d2B "D"B2A|[1"Em"B2E E2||
+X: 1
+T:Welsh Clog
+% Nottingham Music Database
+S:EF
+Y:AB
+M:6/8
+K:D
+P:A
+A|"D"DFA d2f|"A"edc "G"B2d|"D"A/2 "ABc|"D"d3 "A7"a3|
+"D"fed "A"g2e|"D"a2f "G"b2g|"D"fef "G"g2f|"D"efg "D7"f2f|
+"G"deg bbg|"Em"egg "D"fga|"D"e/2f/2e/2f/2|
+"G"gb e/2f/2e/2d/2|"A7"cA Ad/2e/2|"D"ff/2e/2 d/2c/2d/2c/2|"E7"Be/2f/2 "A7"g/2f/2e/2g/2|"D"fd d:|
+X: 36
+T:Spencefie
+K:G
+P:A
+dc|"G"BGDG BGDG|"Am"ABcA "G"G2DB|"C"c3"G"BAG Bcd|"C"EFG "D7"AFD|"G"G3 -G2:|
+P:B
+|:d|"G"d3 "D7"def|"G"g3 "E7"Bed|"A"c2c "E7"BcB| "A"A2c cBA|
+"Em"g2g gfe|"A7"e2d ^c2e|"Am"A2g gfe|"D7"dga aga|"G"bgg age|"G"gab "D7"aga|"Em"bge "D7"e2g/2a/2|
+"G"bgb "D"afg|"D"agf "A"efg|"D"agf "A7"edc|"D"dAF D2|
+X: 148
+T:Johnny's Foffef
+% Nottingham Music Database
+S:McCusker Brother
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+AG|"D"FDFA dfaf|"G"gfec "A"dcBA|"G"G2BG "D"F2AF|"Em"EDEF "A7"GBAG|"D"(3FEDAD BDAD|
+"D"DFAd fedc|"G"BGBe "Em"g2ag|"D"fafd "A7"Bgec|"D"d2f2 d2:|
+
+X: 42
+T:G"g3/2f/2e|"G"dAB|"Am"cAF/4G/2A/2G/2|"D"FED|\
+"A7"BAG|"D"F2D|"A7/e"E2F|"D/f+"d2c|"G"B2A|"G"B2A|"Em"Bd2|"A7"e3|"A7"dde|"D"f2e|"D"f2d|"G"B3|"D/f+"d3 "A7/e""A2A|"G"G3 B2c||
+"G"ded BdB|"G"GBd gdB|"Am"ABc "D7"def|"G"gdB "D7"cAF|"G"G2:|
+P:B
+g|"Bm"fef "Em"g2f|dB|\
+"G"B2 "D7"d2:|
+X: 30
+T:Steamboat Quickstep
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+(d/2c/2)|"G"BB/2l
+% Nottingham Music Database
+Y:AAB
+S:Kay Graham|"G"BAB dcB|"D"A2d "A7"=c2A|"D"def "A7"gec|"D"edd d2:|
+P:B
+e/2f/2|"G"g2g gfe|"D7"f2f fed|"G"g2g gag|
+"D"f2g a2f|"G"b2g "D7"f2e|"G"d3 d3|"G"dBg dBG|"Am"c3 "D7"cBA|"G"B2c "D7"DBc|
+"G"d^cd B2d|"Em"e2e efg|"A7"a2g Aa|\
+K:D
+"D"f/2d/2d/2d/2 f/2g/2f/2e/2d/2^d/2|"A7"fe2e/2f/2|"G"g/2f/2e/2c/2 "A7"d/2c/2B/2A/2|
+"D"fd fa|"A7"c/2d/2e/2f/2 ga/2g/2|"D"f/2e/2d/2B/2 Ad/2c/2|"G"B/2G/2D/2G/2 B/2d/2g/2d/2|\
+"D"c/2d/2A/2d/2 
+P:B
+|:A|"D"d2e f2a|"G"b2g a2a|"A7"gag "D"f/2e/2f|"G"gd|"D"def "G"gag|"D"fed "A"cBA|"Em"GFG "A7"AFD|
+"D"A2d "C"=cBA|"D"def "C"gfe|"G"ded "D7"cBA|"G"GBd g2:|
+P:C
+|:c|"Gm"ded "C"c2B|"D7"cBc def|
+"G"g2g de=f|"Em"e2B2|\
+"G7"GABg fdB2|"C"[c3g3]|"C"[e2g2][fa]|
+"D"f/2A/2 B/2A/2|"D"d "Bm"e3/4f/4|"Em"e/4d/4c/4B/4 "A"A3/4g/4\
+|"D"f/2de/4f/4|"Em"g/2f/2 "D"de/2f/2|
+"G"gg/2a/2 "D"gf/2e/2|"Em""C"e/2d/2c/2d/2 "Am"e/2f/2g/2e/2|\
+"Dm"ff "G"g2|"D"ff df|"G"e4|"E"ce ec|"E7"B2 ed|"A7"ca -a/2e/2g|
+"D"f/2ab/2 a/2f/2d|"D"fase
+S:Fiona Maulawhil Rowse
+Y:AABABABAB
+S:Sharouve Collection, via PR
+M:4/4
+L:1/4
+K:D
+F/2|:"A"e/2A/2A/2e/2 ee/2f/2|"E"g/2A/2B/2B/2 gf/2e/2|
+"A"f/2e/2d/2B/2 A/2c/2e/2a/2|"A"g/2e/2a/2f/2 e/2a/2c/2e/2|"D"f/2e/2d/2f/2 "A"e/2A/2c/2A/2|\
+ [1"E"B/2A/2G/2B/2 "A"A3/2B/2||
+X: |
+X: 64
+T:La i thingham Music Database
+Y:AABAC
+S:McCusker

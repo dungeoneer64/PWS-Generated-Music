@@ -1,0 +1,11 @@
+Max iterations: 10000
+Batch size: 32
+Sequence length: 64
+Learning rate: 2.0
+Embedding dimensions: 256
+LSTM layers: 2
+Units / hidden layer dimensions: 512
+Vocabulary size: 88
+Optimizer: adadelta
+Dropout: 0.6
+Recurrent_dropout: 0.2

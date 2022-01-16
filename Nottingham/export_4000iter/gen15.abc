@@ -1,0 +1,108 @@
+X: 1
+T:song_name
+K:C
+C3|:"C"c3 e3|g2g g2e|"G"d2B d2B|
+"D"A2d dcd|"G"B2G "D7"A3|"G"G2G "D"A2A|"G"B2c d2e|"G"d4|"Am"cB2 BA|"G"B2 "D"A2|"Em""C"G3/2A/2 "D7"BA|"G"G2 -G2|\
+"D7"F3/2G/2 FE|"G"DG BA/2A/2|"C"BG "Am"cA|"G"BG "D"F/2G/2A/2F/2|"G"A/2B/2d/2B/2 "A"A/2B/2A/2G/2|\
+"D"FD D:|
+P:B
+a/2g/2|"D"f3/2e/2 dA|"G"Bg "A7"ef/2g/2|"D"a/2g/2f/2e/2 d/2B/2A/2^G/2|\
+"D"F/2D/2F/2D/2 "G"G/2B/2A/2G/2|"D"F/2G/2A/2F/2 D/2F/2A/2d/2|
+"G"B,G B,D|"A7"CE AB/2A/2|"D"dd2d/2c/2|
+"G"d2d/2e/2|"G"d/2=B/2d/2B/2 G/2A/2B/2G/2|"D"A/2F/2d/2B/2 A/2G/2E/2F/2|\
+"D"dB/2d/2 "Em"d/2B/2B/2d/2|"Am/d"d/2c/2B/2c/2 "D7"Ad/2c/2|"G"BG G\
+P:B
+d|"Gm"d2 B/2G/2B/2d/2|"C"gg/2f/2 e/2f/2g/2e/2|\
+"C"=c/2e/2g/2c/2 "G"B/2g/2d/2B/2|
+"Am"c/2A/2B/2c/2 "Em"BB/2d/2|"Am"ed/2B/2 G/2E/2B/2E/2|"D7"D/2G/2A/2F/2 D/2E/2F/2G/2|"D"A/2D/2F/2A/2 d/2d/2e/2f/2|\
+"GBAG|"D"fed|"Em"f3/2g/2"A"e/2g/2f/2e/2|\
+"A7"c2e2\
+|"D"d3/2e/2d faf|
+"D"d3 dfg|"D"a2a agf|"Em"g2e c2e|"A7"a2e g2e|"D"f2d "Bm"B2A|"Em"B2e edc|"A"B2A ABc|"Bm"d2e "E7"B2e|
+"A"e2e ece|"D"f2a agf|"A"e2c "E"BAB|"A"A3 ||
+
+X: 73
+T:Preston The Bowl Wife
+% Nottingham Music Database
+S:FTB, via EF
+Y:AB
+M:6/8
+K:A
+P:A
+E|"A"A2A A2A|"G"Bcd c2B|"A"Ace "D"fga|"A"ecA "E7"dBG|"A"A3 -A2:|
+
+X: 178
+T:Cuckoo The Bowl Wife
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:C
+"C"ed "Dm"BAG|"D7"A3 -Adc|"G"B2B "D7"cBA|
+"G"B2c "D7/f+"d2e|"D/2F/2E/2|"G"GB "Em"BA/2G/2|"D"F/2D/2F/2A/2 dc|\
+"D"A/2G/2F/2E/2 Dd|"D"d/2B/2A/2F/2 "G"G/2B/2G/2B/2|\
+"A7"AG "D"FE/2F/2|
+"Em"GB/2G/2 E/2G/2B/2G/2|"G"B/2[[Bd]|"D"[c2e2][Bd]|[Bd][B2c2][dB]|
+[ce][Bd]|"D"[A2e2 _e2d2|
+"Em"Beef "e/2(3e/2B/2A/2|"G"Bgf "C"efg|"D7"afd cBA|"G"G3 G2:|
+K:C
+P:C
+|:G|"G"GAB dge|dgB dgB|"C"c2e gec|egc egc|"D"d2f A2f|"D"A2a agf|
+"Em"g3 g2e|"D"fgf fed|"Em"g2b b^ab|
+"Em"b2a baf|"Em"g2e efg|"Em"eBe gbg|"E7"efe dcB|"Am"cAA A2:|
+X: 175
+T:Tom Mageeboon !ed Database
+Y:AAB
+S:via PR
+M:2/4
+L:1/4
+K:G
+D|"G"G3/2D/2 "C"DE/2G/2|"D7"F/2G/2A/2F/2 DE/2F/2|"G"GB/41/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+dc|"G"B2dg "C"e2dc|"G"Bdfg "C"edcB|"Am"Aece "D7"d2fg|
+"G"bg(3gfg dgBg Rham Music Database
+S:Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+D2|:"G"G2BA Bdge|"dfg dBd|
+"G"gab "D"a2g|"D"agf "A"edc|"Em"BAG "A7"A3:|
+X: 264
+T:The Rickot
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+"D"A3/2d/2 f/2g/2f/2e/2|df/2e/2 df/2e/2|"D"d/2e/2f/2e/2 d:|
+
+X: 49
+T:Silver Rowe
+M:6/8
+K:C
+"C"cGE "G"B2A|"C"GEE c2B|"C"cGe "A7"^c2A|"D7"B3 A3|
+"G7"G2G GcB|"C"A2A "C7"G2E|"F"F2A c2A|"F"Fdc "Dm"def|"Gm"d2d BAG|
+"B/2f/2g/2|bb/2e/2 a/2g/2e/2d/2|"Am"d/2c/2B/2c/2 "D7"Ad/2c/2|\
+"G"B/2c/2"D7"d/2c/2 "G"G::
+g/2a/2|"Em"b2g b2B|"D7"cBcd edcA|"G"G2G2 G2:|
+g|"Em"eff gfg|"C"ecA G2A|"D7"dcA "G"G3:|
+
+X: 168
+T:The Giristown the Riversoo
+% Nottingham Musicc2b2|"D"fgaf dg ABc|"A"A2F EF
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+d/2e/2|"D"ff f/2e/2d/2e/2|"E7"fe "A7"e2|"D"fd "Bm"dc/2d/2|\
+"A"ea/2g/2 f/2e/2d/2c/2|
+"D"df/2e/2 d/2e/2f/2g/2|"D"a/2f/2dB/2B/2 "D/f+"Ad|"Em"G/2A/2B/2c/2 "D7"d2|
+"C"ef/2e/2 "D7"de/2f/2|"G"gd g/2a/2g/2f/2|"G"g/2e/2d/2c/2 "D7"B2|"G"DG B3/2A/2|"G"Bd "C"e/2f/2g/2e/2|"G"fd3d/

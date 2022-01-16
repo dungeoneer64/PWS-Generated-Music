@@ -1,0 +1,93 @@
+X: 1
+T:song_name
+K:C
+G|:||\
+"Bm"c/2B/2c/2B/2 A/2^G/2A/2d/2|"A"^c/2A/2B/2c/2 "D"dd:|:
+"E"B/2^A/2B/2c/2 "A"AE|"A"A/2B/2c/2d/2 e/2f/2e/2d/2|\
+"A"c/2A/2B/2c/2 "D"dd::[2"A"c/2A/2B/2c/2 "D"dd/2e/2|"D"d/2B/2A/2F/2 "G"G/2B/2A/2G/2|"D"F/2G/2A/2d/2 B/2d/2A/2F/2|\
+"A7"E/2G/2B/2d/2 "D"cA|
+"G"B/2c/2d/2B/2 GA/2B/2|"Am"cc/2B/2 A/2G/2F/2E/2|"Dm"D2 -D2d/2G/2F |"D7"D2E/2F/2|
+"G"GB/2B/2|"G"B2d|"D"DFA|"D"d3/2d/2^c/2d/2|"D7"edc|
+"G"B2|"Bb"B3 -B3|"F"c3 A3|"F"c3 A2G|"C"c3 ||
+X: 86
+T:Lride/2G/2A/2B/2|"Am"c/4B/4c/4d/4 e/2f/4g/4|"D7"f/2f/2 fes
+% Nottingham Music Database
+S:Peepton, via EF
+M:4/4
+L:1/4
+K:G
+D|"G"GB/2e/2 d2|G/2B|d3/2B/2G/2E/2|B/2F/2A/2B/2 c/2F/2A/2c/2|\
+"G"B3/2G/2 G/2:|
+X: 55
+T:Set De La Bed|"Am"c3 -c2 "Em"g2f|"A7"edc "D"d2:|
+
+X: 25
+T:Man in the Lake
+% Nottingham Music Database
+S:Playford
+M:6/8
+K:D
+B|"D"d2d d2d|"A7"efg "D7"f2|"G"g2 -g2|g2 ||
+X: 73
+T:Preston Tally-Ho !
+% Nottingham Music Database
+S:BSDTBd "C"gfe|"G"d2B Bcd|
+"C"e2e "G"dcB|"D7"c2d ecA|"G"d2d dcB|"D7"A3 B3|
+"G"DGB Bcd|"C"e3 E3|"G"DED EFG|"A"A3 -A2D|"G"dBG "D7/a"AFD|"G"G3 "G7"GAB||
+"C"cBc "G"d2d|"C"efg "G"dBd|"Em"Bee "D7"e2d|
+"G"gab d2d|"Am"edc "G"Bcd|"Am"e2A "E7"AB^G|"Am"A3 A2||
+X: 130
+T:Ingalls' Jingle
+% Nottingham Music Database
+S:By Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:Em
+"Em"E3/2c/2 "B7"B2|"Em"EG/2c/2 "B7"B2|"G"B3/2B/2 "C"cc|"G"B2 "C"c2|"F"A2 c2|"F"d4-|"D7"cd ed|"G"Bd BG|"D7"A2 DD|"G"B3/2A/2 Bd|
+"D"c/2A/2d/2c/2 B/2A/2G/2F/2|"Em"E3/2F/2 G2|"Am"E3/2G/2 "D7"F/2G/2A/2F/2|\
+"G"G3e B2d|"Am/c"c3 c3|c3 ||
+"D"d3 dcd|"D"BAF AFD|"Em"EFE "A7"EFG|
+"D"ABA AFA|"D"d2d "A"cBA|"G"G2B "D"AGFG|"D"A3 "G"G3:|
+X: 157
+T:Joyburie's Jig
+% Nottingham Music Database
+S:Playford
+M:6/8
+K:Em
+G/2F/2|"Em"E2e e2B|"G"dBd "D"AFD|"Em"E2e e2B|"C"efg "Bm"f2d|"Em"edB "Am"A2A|"G"B2B B3|"D7"ABA A3|\
+"G"G2d ||
+
+X: 215
+T:New High Level
+% Nottingham Music Database
+S:BSDB, KCC p22
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+B/2A/2|"G"G2G "D7"AGF|"G"GBd "C"gfe|"G"ded dBG|"C"cec "G"BdB|"D7"ABA "G"G2|
+P:B
+"Gm"d3 "D7"d2c|"Gm"B3 B3|
+"G"B3 -B2c|def B2d|"G"G2B DGA|B3 A2G|"C"E3 -E3 D3|\
+"G"DED DEG|"C"c2B c2d|e3 -e2c|"G"d2e d2B|"G"ded BAG|"G"d2B "C"ABc|"Am"BAG "D7"A2d|
+"Em"g3 "Bm"fgf|"Em"efe "Em"efg|"A7"B3 =cBA|"G"G^FG "G"A2G|"C"E2E "G"D2c|"Bc/2 GG|"A"AA/2B/2 A/2G/2F/2E/2|"D"D/2a/2 "C"ed/2c/2|"G"B2e|"G
+"D"d2 "A7"d/2e/2f/2g/2|"D"a/2f/2d/2f/2 a/2d/2f/2a/2|"G"gB Be/2d/2|"A7"c/2B/2c/2d/2 e/2c/2B/2A/2|"D"df d::
+A|"D"d/2e/2f/2g/2 "A7"a3/2f/2|"D"df af|"G"gB B3/2d/2|"Am"ed cB|\
+"E7"ed cB|"A7"AG FE|\
+"D"D2 "A7"E2||
+"D"FA d/2A/2F/2A/2|"A7"E/2F/2E/2C/2 "D"D2:|[2GF|"G"G2g2 B2gf|"G"edB|"D"A3 -A3 d2:|
+d|"D"efe "G"dcB|"A7"ABc "D"dcd|"G"Bcd "D"Adf|"A7"ecA "D"d2f/2|"E7"e/2d/2c/2B/2 "A"A-A/2||
+
+X: 36
+T:The Scotch Lady Walvar, via EF
+M:6/8
+K:D
+f/2g/2|"D"a2a d'2a|"D"f2f fef|"A"f2e ecA|"D"G3 -G2:|
+
+X: 102
+T:East of Bdley/2B/2A/2G/2|F/2A/2B "A"A2|
+"E"B/2^A/2B/2G/2 E/2G/2B/2c/2|d/2B/2c/2A/2 B/2G/2F/2G/2|"C"A/2B/2c/2d/2 e/2f/2g/2e/2|\
+"D"d/2^c/2d/2e/2 ^f/2d/2e/2f/2|"G"g/2a/2g/2e/2 ge/2f/2|\
+"C"g/2a/2g/2e/2 g/2a/2g/2e/2|e/2e/2e/2d/2 c/2d/2e/2g/2|"D"f/2e/2d/2e/2 fa|\
+"Bm"gf "E7"ge|"A7"cg fe|"D"dD2F|"G"GF GB

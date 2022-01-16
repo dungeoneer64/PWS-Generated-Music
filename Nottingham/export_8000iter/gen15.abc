@@ -1,0 +1,94 @@
+X: 1
+T:song_name
+K:C
+C|"C"C2 CE|"F"F/2G/2A/2B/2 AG/2F/2|
+"C"GA "D"AG/2A/2|"G"BB/2d/2 "D7"c/2B/2A/2G/2|"G"Bd "C"e/2d/2e/2e/2|"G"dd B/2A/2B/2d/2|\
+"A7"A/2A/2A/2A/2 A:|
+
+X: 13
+T:The Fiddle
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+"D"FD/2F/2 FD/2F/2|"D"FD/2F/2 "A7"E/2F/2G/2E/2|"D"FD/2F/2 FD/2F/2|\
+"G"GB/2G/2 "A7"E/2F/2G/2E/2:|:
+"D"D/2F/2A/2F/2 F/2A/2d/2f/2|"Em"e/2d/2e/2f/2 "A7"g(eyl Wifs'k
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+"D7"B|
+"G"GD/2E/2 GG/2B/2|"G"d/2G/2B/2d/2 -d/2G/2B/2d/2|"C"g/2c/2e/2g/2 -g/2a/2b|\
+"E7"e/2d/2c/2B/2 "Am"A:|
+P:B
+e/2d/2|"A"c/2A/2e/2A/2 f/2A/2e/2A/2|"A"a2 A/2c/2e/2a/2|\
+"Bm"gf ed/2B/2|"Em"e/2g/2f/2d/2 "Am"ee/2a/2:|
+|:"Am"ee ed/2B/2|"Am"A/2A/2A/2B/2 "G"G/2A/2B/2d/2|"Am"c/2B/2A/2G/2 "Em"BE|\
+"Am"c/2d/2c/2A/2 "D7"F/2G/2A/2F/2|"G"DG G:|
+P:B
+e/2f/2|"G"gg/2a/2 g/2e/2d/2e/2|g/2|
+"D"ff/2d/2 "G"g/2f/2e/2d/2|"A7"c/2A/2B/2c/2 "D"d/2e/2f/2:1/4
+K:G
+P:A
+|:G/2A/2 "D7"B2=c/2B/2|\
+"A"cc/2A/2 "E7"B/2A/2G/2B/2|
+"A"c2F/2G/2 A/2G/2F/2E/2|"D"D/2F/2A/2F/2 "A7"E/2F/2G/2E/2|\
+"D"D/2F/2A/2d/2 f/2e/2d/2e/2|"D"f3d/2e/2|"D"f/2e/2d/2e/2 d/2B/2A/2G/2|\
+"Em"B/2E/2E/2D/2 E/2F/2G/2A/2|"Em"B/2G/2A/2F/2 "D7"G/2F/2E/2D/2|\
+"C"E/2F/2G/2E/2 "D7"A/2G/2F/2E/2|"G"DG G:|
+X: 71
+T:The Collat's Farewell
+% Nottingham Music Database
+S:Bryon Bonnett
+M:3/4
+L:1/4
+K:D
+|:d/2^c/2 B||
+
+X: 45
+T:The Ornitholog Sail^d/2=c/2-am Music Database
+S:"D"D3/2F/2 A/2B/2A/2F/2A|\
+"G"BG "A7"(3e/2f/2g/2f/2e/2|
+"D"dd B/2d/2c/2B/2|"D"AA/2B/2 "A"c/2B/2A/2G/2|"D"FD2A/2B/2|\
+"A"cc/2c/2 "E7"B/2A/2B/2c/2|"A"Aa/2g/2 "D"f/2e/2d/2c/2|\
+"E7"B/2c/2d/2e/2 "A"cA|
+"A"AA/2c/2 "G"B/2A/2=G/2B/2|case
+S:Vic
+M:4/4
+L:1/4
+K:Em
+"Em"E3/2F/2 GF|ED B2|"D"A4|"G"G2 GA|"G"B2 AG|FE DB|d2 BB|"C"c4-|c2 A2|"G7"=FG AG-|G/2A/2B/2c/2 d2|"Eb"GB "Eb"FG|
+"A7"A2 -"E7"B,2-|"E7"B,2E2][CE][B,E]|
+"A"[A,2E2]CE|"E"B,D^CB, CDE|DED =CDE|Ddd Aee|
+afA agf|"e/4F/4A/4 E/4D/4E/4|\
+"Em"e/2g/2 "A7"a/4g/4f/4e/4|"D"d3/2(3c/2d/2e/2 "A7"f/2g/2e/2c/2|"D"ed d:|
+P:B
+c/2B/2|"F"Aa ag|"C"ge e2|"C"ec c3/2B/2|"F"A=
+X: 20
+T:Beaux of Bond
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:G
+D|"G"GD G/2A/2B/2c/2 dd/2B/2|"C"ce ed/2B/2|\
+"Em"e/2g/2f/2d/2 "Am"ee/2a/2:|
+|:"Am"ee ed/2B/2|"Am"A/2A/2A/2B/2 "G"G/2A/2B/2d/2|"Am"ee e3/2f/2|\
+"Em"e/2d/2c/2B/2 "Am"A:|
+P:B
+E/2F/2|"Em"G/2A/2B/2d/2 "Am"cA|"G"G2 "C"G3/2G/2|"G"G2 Bc||
+"G"d3/2e/2 "D7"dc|"G"BG Bd|
+"Am"cc3|"G"BD/2E/2G/2B/2|
+"G"d2|"D"d3 "A7"^c2A|"Dm"dAc def|"Gm"a2g g2f|"C"edc "G7"_BAG|"C"egf edc|"G7"GAB "C"c3|
+"C"g2f e2G|"C"^F2G A3|"G"B6-|B2A B2c|"Bm"d2B "E7"EFG|"Am"E2A A2A|"Em"G2G G2G|"Em"E3 |
+"A"E2A ABA|"G"G2A Bcd|"A"e2A ABA|"Em"G3 F2G|
+"A"E2A ABc|"Bm"d3 "Bm"d3|"D"dcd "A"cde|"Bm"BcB "E"d2f|
+"A"ece "D"f2e|"A"cdc cBA|"B7"BcB "E7"Bed|
+"A"cdc cBA|"A"Ace "D"f2e|"A"cdc c2e|"Bm"gfe "E"dcB|"A"A3 ::
+"A"c3 e2c|A3 Ace|"A"f2e ^d2e|"E"d3 -dcd|"A"e2c ABc|"D"d2e "E7"Bcd|
+"A"e2c "F#7"ABc|"E7"B3 "A"A2f|
+"A"ecA Ace|"D"fgf fga|"A"ecA EAc|d|"D"fga "A7"gbag|"D"(3fgf(3afd "E7"(3gagfe|"A"c2c2 "D"ccBA|"8"F"a2a faf|"Eb"e3 efg|"B7"b2b agf|
+"Em"g3/2d/2|"Em"e2 "A7"f|"A7/e"e3/2d/2e|"D/f+"faa|"G"bag|"C"a2g|"C"a2g|"C"a2g|"C"e2d

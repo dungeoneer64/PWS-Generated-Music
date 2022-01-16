@@ -1,0 +1,124 @@
+X: 1
+T:song_name
+K:C
+%P:G
+dg|"C"ece gec|"G"dBG "C"AGA|"G"BGB dcB|"C"AcB "D7"AGA|
+"G"G2G "C"AGE|"D7"DEF "G"G2:|
+
+X: 333
+T:Patch-
+% Nottingham Music Database
+S:FTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+D|"G"G/2B/2d/2B/2 GA/2B/2|"C"c/2A/2B/2c/2 d/2c/2B/2c/2|\
+K:G
+"G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2D/2E/2F/2 "G"G::
+c/2d/2|"C"e/2d/2e/2f/2 ge/2f/2|\
+"G"g/2g/2f/2e/2 d:|:
+c/2d/2|"C"e/2d/2c/2d/2 eg/2f/2|ed/2c/2 B/2d/2e/2f/2|\
+"Em"g/2e/2d/2B/2 "D7"A/2B/2A/2G/2|\
+"G"AB g2B/2|d3/2B/2A/2|d3/2c/2d/2f/2 ag/2f/2g/2e/2|\
+"D"dc/2d/2 fe/2f/2|"G"g/2f/2e/2g/2 e/2d/2c/2B/2|"Am"c/2B/2A/2G/2 E/2D/2E/2F/2|
+"G"G/2B/2G/2B/2 GD dB|"C"c/2B/2c "D7"d3/2c/2|"G"BG G:|
+X: 21
+T:Stearry and to The Barme the I I Thrusic Database
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:D
+d/2e/2|:"D"fA/2A/2 "A7"F/2d/2A/2d/2|"D"F/2d/2D/2d/2F/2|"G"G/2E/2D/2D/2 B,/2D/2G/2D/2|"C"C/2E/2A/2B/2 G/2A/2B/2c/2|\
+"G"d/2B/2e/2B/2 d/2c/2B/2A/2|
+"G"GD G/2B/2c/2d/2|"G"ed dB/2d/2|"C"ef "Am"ed/2c/2|"G/d"B/2A/2G/2B/2 "D7"A/2G/2F/2E/2\
+|"G"GB G:|
+
+X: 55
+T:Jedama Jam
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+G|"C"c2c cdc|"G7"g3 g3|"G7"g3 g2^g|"C"a3g|"C7"=c'3 gbg|"Dm"afd AFA|"Dm"def "Ab"ecA|"E7"BGE B2-|"Am"ABc "D"DEF|"G"G2G G2:|
+P:B
+A|"G"G2A B2c d2e|"D"f2f fed|"G"g2f e3|
+"D"f3g f2e|"D7"d3 "G7"d2d|"C"edc "Bm"A2G|"F"Gdc A2B|"Dm"A3 -A2:|
+X: 10
+T:The Gobby Marton
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:A
+P:A
+E|"A"A2A AGA|"E"B2c dcB|c|"A7"e2c/2B/2|\
+"D7"AF "G"G:|
+X: 45
+T:The Ponecondbing Iriston
+% Nottingham Music Database
+S:Chris Dewhurst, via PR
+M:4/4
+L:1/4
+K:G
+"G"GB/2c/2 d/2B/2G/2B/2|"D7"AF ED|\
+"G"B3/2c/2 d/2A/2F/2D/2 "G"G:|
+
+X: 40
+T:Miss K:Am
+P:A
+|:e|"Am"ABA AGF|[efe dcB|"A7"G2A ABc|"D"d3 d2:|
+A|"D7"def "G"g/2f/2|"Em"Ed/2|"D"A/2B/2A/2G/2 F/2D/2A/2c/2|\
+"G"B/2A/2G/2B/2|"C"S:As !/4dlanty
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+f/2e/2|"D"d2A BdA|"D"d2A "A7/e"c2e|"D/f+"fga "G"b3|"D"agf "Bm"fba "Em"gab|"A7"agf edc|"D"d3 -dde||
+"D"faa afd|fgf fdd|"C"efg gfe|"D"fdA Add|"D"fdd "A"e2A|
+
+X: 27
+T:Leapbuq of Gitlay's Reel
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:G
+D/2D/2|"G"G/2F/2E/2D/2 G/2D/2G/2B
+:Taken Dugh Qusic Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:G
+B/2A/2 |"G"Gg/2f/2 g/2f/2g/2d/2|"C"ef/2e/2 gg/2e/2|\
+"D7"d/2c/2B/2A/2 "G"G:|
+P:C
+d/2e/2|"C"gg/2e/2 "G"d/2B/2G/2B/2|"C"cc/2d/2 "D7"cB/2A/2|\
+"G"G/2A/2B/2c/2 de/2f/2|
+"G"g/2f/2e/2(3f/4g/4 "Em"g/4f/4e/4d/4|\
+"A"c/2A/4"E"B/2G/2 "A"A::
+"A"a/2e/2c/2e/2 a/2e/2c/2A/2|c/2d/2e/2f/2 ee/2f/2|"Em"g/2e/2f/2d/2 B/2d/2e/2f/2|\
+"Em"g/2e/2d/2B/2 "D7"A/2c/2B/2A/2:|
+X: 8
+T:Westtan's Reel
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+A/2|
+X: 82
+T:Thornecting To Boston
+% Nottingham Music Database
+S:EF
+Y:AB
+M:6/8
+K:A
+P:A
+E|\
+"A"e/2c/2e/2c/2 f/2c/2e/2c/2|"A"c/2A/2e/2c/2 a/2c/2e/2c/2|"G"=f/2d/2B/2c/2 d/2c/2B/2d/2|
+"A7"c/2A/2c/2e/2 A/2B/2c/2A/2|\
+"D"df/2d/2 "A7"e/2g/2f/2e/2|"D"dd d::
+e|"D"f/2e/2f/2g/2 a/2f/2d/2f/2|a/2f/2d/2f/2 a/2b/2a/2g/2|"D"f/2d/2f/2a/2 "G"g/2f/2g/2a/2|\
+"Em"g/2e/2d/2B/2 "Am"c/2B/2A/2G/2|"D"BA "C"A2|
+"C"ee "G"d/2A/2G/2B/2|"Am"A/2B/2A/2G/2 "D7"F/2D/2E

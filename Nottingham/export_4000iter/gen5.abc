@@ -1,0 +1,87 @@
+X: 1
+T:song_name
+K:C
+T:Theba She Cord
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:G
+P:A
+|:d||"Em"G2|"C"ee"G/b"g|"D"fe/2f/2 "A7"gf/2g/2|"D"a/2f/2d/2f/2 "A"ee/2AF/2A/2 BA/2B/2|
+BA/2B/2 Bd/2c/2|"Bm"BB/2c/2 B/2A/2G/2F/2|\
+"Em"E3/2D/2 EF/2G/2|
+"D"A3/2f/2 "A"g/2e/2c/2A:|
+P:B
+D2|"G"GEDE GAB2|"G"DGFG BGBd|"C"cBcd edcB|"G"(3ABAG(3BAG "D7"(3ABc(3AGF|"G"(3GFG(3edc "Em"(3Bcd(3GAB|"A7"(3ABA(3GFG "D7"A2dc|
+"G"(3Bcd(3BAG "D7"(3ABc(3AGF|"G"(3GFG(3AGF "D7"(3GFE(3DEF|
+"G"(3GED(3GAB "D7"(3AFD(3DEF|"G"(3GFG(3AGF "D7"(3GFE(3DEF|"G"(3GFG(3AGF "D7"(3GFED|"G"(3GGGG2 (3GGGG2|"G"BGDG BG^cd|
+"Am"efed eace|"D"d2A2 "A7"(3GEFE|"D"DdAF D2 E2|
+|"A"A4-|"A"A2 :|
+
+X: 17
+T:Bill Hight:Sarve's Jig
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+"Am"gfe "G"dBG|"Em"GAB "Am"Aef|"Em"efg "Am"a2g|"D"agf "A7"ecA|"D"Add d2::
+g|"D"faa "B7"def|"Em"gab "D"agf|"Em" gdBG|
+"Am"(3A/2a/2f/2a/2g/2 f/2e/2d/2c/2|"D"d/2e/2f/2d/2 e/2d/2d/2e/2|"D"f/2e/2d/2c/2 d3/2A/2|"G"B/2c/2d/2B/2 "A7"A3/2G/2|"D"FD D:|
+P:B
+d/2e/2|"D"f/2e/2d/2c/2 "G"BG|"D"AA/2B/2A/2G/2|"B7"Ac/2e/2-|"E7"d2g/2a/2|e/2c/2e/2g/2 f/2e/2d/2c/2|"G"B/2G/2B/2d/2 g/2e/2d/2c/2|
+"G"B/2[f/2a/2 "Em"ag/2f/2|\
+"A"ea "F#m"g3/2e/2|"Bm"fd "E7"Bc/2d/2|
+"A"ec/2e/2 a/2g/2f/2e/2|"A"ec "E"B/2A/23/2E/2|"A"C/2E/2A/2B/2 "D"Ad/2e/2|\
+"Bm"ff "E7/g"dB|"A"A3:|
+P:B
+(3e/2f/2g/2|"A"a/2e/2c/2e/2 f/2e/2c/2A/2|"D"a/2A/2g/2A/2 f/2A/2e/2A/2|\
+"A"c/2e/2A/2e/2 "D"f/2d/2f/2a/2|"Em"g/2f/2e/2d/2 "A7"eg|\
+"D"f/2e/2d/2B/2 "A27"G2 "C"c2|"G"d2 "Gm"e2|"D7"dG G=c|
+"G"B2 cd|"C"e2 e2|"G"d2 BA|"Em"B2 AG|"Em"G2 "D7"Ac|"G"B2 "D"A2|"Em"G2 "C"e2|"G"d2 "D/f+"d2e|"Em"GdG "A"B2A|
+"A"GFG EDD|"G"B2B BGB|"A"AcA A2 APRevin Briggs, via EF
+M:6/8
+K:Am
+%%MIDI gchord fzczcz
+P:B
+M:6/8
+K:D
+P:A
+|:A|"D"d2e f2A|| "G"Bcd "D/f+"Add|"Em"Bee "A7"edc|\
+"D"d3 d3||
+X: 116
+T:The Miss of Down the Riesdown
+% Nottingham Music Database
+M:6/8
+K:G
+d|"G"g2f "Em"e2f|"E7"e2e efg|"A7"a2A ABc|"D"d2f fed|"D7"c2a a2c|"G"B2B Bcd\
+|
+"Am"efe "D7"e2f|"G"gag "D7"aga|"G"gBB B|"Am"A2 -"Am"A:|
+P:B
+B/2c/2|"G"dg "C"ec|"G"dg "C"ec|"G"d2 "D"BA/2G/2|"D"F/2D/2F/2E/2 D/2C/2D/2E/2|\
+"Em"B/2E/2E/2D/2 E/2F/2G/2A/2|"Em"B/2G/2A/2F/2 G:|
+P:B
+B/2c/2|"G"GB/2B/2 Bd/2g/2|"C"fg "G7"gd/2=d/2|"C"ee/2g/2 "D7"b/2a/2g/2f/2|
+"G"g/2e/2d/2B/2 GA/2B/2|"C"c/2A/2B/2G/2 "D"A/2f/2d/2e/2|\
+"A7"f/2d/2e/2c/2 "D"d(a B|
+"D"fd dA/2d/2|"G"BB "D"AF/2A/2|"G"B/2A/2G/2F/2|"A7"E/2D/2E/2F/2 "Dm"D2:|"F"FF CC|\
+"Bb"D/2E/2F/2C/2 B,/2D/2F/2D/2|
+"Em"C/2|"A"ee/2e/2 "E"f/2a/2af f2e|"Bm"def "Em"g3/2a/2g|"G"fgf "C"efg|"D"fdd d::
+B|"Em"Bee d2B|"D"ABd faa|"Em"bag "A7"e2g|"D"fed "A7"edc|"D"d3 d2::
+e|"D"f2f f2e|"D"def2e/2c/2e/2 "D"f/2e/2d/2B/2|\
+"Em"B/2A/2B/2c/2 "A7"d/2e/2f/2g/2|
+"D"af "A"ga|"G"b/2g/2e/2c/2 "A"e3/2d/2|"A"c/2e/2 "G"d/2B/2|"Am"c3/4d/4 c/2B/2|\
+"D7"A B/2c/2|"G"B3/4A/4 B/2G/2|
+"D7"A B/2c/2|"G"B/2c/2 dg|"G"g/2d/2 B/2g/2|d/2B/2 B/2g/2|"G"d/2gf/2 e/2d/2|\
+"A"c/2e/2 A/2e/2|"E7"B/2d/2"A"A/2B/2 A:|
+
+X: 28
+T:Bill Ciees
+% Nottingham Music Database
+Y:AAB
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+|:A/2B/2|"D"A2B|"C#m"c2e|"A"a2e|"B7"f^de|"E7"B2G|"F#7"c2A|"E7"B2E|"Am"EAA|"D7"FEF|"G"G3/2E/2D|
+"C"G3/2G/2

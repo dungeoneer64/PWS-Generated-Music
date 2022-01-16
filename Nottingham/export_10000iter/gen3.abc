@@ -1,0 +1,102 @@
+X: 1
+T:song_name
+K:C
+G|:"C"c2c|"G"B2G|"D"A2G|"G"G3-|"G"G2||
+X: 62
+T:Korybushka
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"d2B d2d|"C"e2e e3|"G"def dcB|"Am"BAA "D7"A2c|"G"BGB "D7"A3|
+"G"g2d B2d|"C"gfe "G"dcB|"C"g2e "D"f2d|"C"e2c|"G"BAG|"Am"FGA|"D7"BAG|
+"G"G2A/2 d/2A/2d/2e/2|\
+"D"f/2A/2f/2A/2 g/2A/2f/2A/2|
+"F"a/2c/2a/2a/2 Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+B/2c/2 |:"G"d3/4e/4 d/2B/2|"G"g B/2c/2|"G"d3/4e/4 "Em"d/2B/2|"Am"c/2 AB/4c/4|"G"d/2B/2 d/2B/2|"G"d/2B/2 "C"A/4c/4B/4c/4|"G"d/2g/2 "C"g|\
+"D"f/2f/2 f/4d/4|"G"B/2B/2 "D"A/2|"G"G2 D2|"C"EG FE|"D7"D3D|"C"E2 G2|G2 A2|"G"G4-|G4||
+X: 98
+T:My Favouritional Cooker Salnes
+% Nottingham Music Database
+S:KCC p22
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+D2|"G"(3GED(3GAB "D7"(3AFD(3ABA|"G"(3GBd(3gfg "C"(3agf(3edc|
+"G"(3BcB(3ABA (3GAA(3D7"bba "A7"gfe|"D"afd "Em"g2f|"A7"edc "D"d2:|
+P:B
+|:a/2g/2|"D"faa "A"eaa|"B7"ba^g|"A"a3/2e/2f|"Bm"ef/2g/2f/2\
+|"C"e3/2d/2|"G"cB "D7"AG|"G"G3:|
+P:B
+d/2c/2|"G"Bd "Em"dc/2B/2|"Am"A/2B/2c/2d/2 "D7"cB/2A/2|"G"GB "Em"d3/2B/2|"Am""C"A/2B/2c/2d/2 e/2f/2g/2e/2|\
+"Gm"dG Gd/2c/2|"Cm"Bc "Bb"B|
+"G"g2 g/2a/2g/2e/2|d/2g/2f/2e/2 d/2c/2d/2B/2|\
+"Am"c/2A/2B/2G/2 "Am"A/2G/2E/2G/2|"D7"D/2a/2f/2g/2 f/2g/2f/2e/2|\
+"D"d/2f/2e/2d/2 "G"Bd/2B/2|"G"B/2G/2"D7"D/2 Opipe
+K:Am
+P:A
+D\
+P:B
+|:"G"G2A,"BB ed|"Em"ee eg|"A7"ec Ac|"D"d2 d:|
+P:B
+f/2g/2|"D"af/2g/2 af/2g/2|"D"a/2g/2f "A7"A3/2B/2|Ad/2d/2 d/2c/2B/2A/2|"G"GB G:|
+dd/2c/2 BG|"Am"cA/2B/2 "D7"cA|"G"BG "D7"F/2G/2A/2F/2|"G"GG G:|
+
+X: 9
+T:Merry Month of Savannah
+% Nottingham Music Database
+Y:AAB
+S:EF
+Y:AB
+M:6/8
+K:G
+P:A
+(3d/2e/2f/2|"G"g2G "D7"G2g|"G"g2d BG"d2 f/2g/4f/4|"D"e/2f/4e/4 "G"d/2g/4f/4|e/2d/2|"Am"c3/4d/4 c/2B/2|
+"D7"A B/2c/2|"G"d3/4e/4 d/2B/2|G/2D/2 G/2A/2|"G"B A/2B,/2|"Em"E E:|
+X: 13
+T:The Peat Whitain off ereds
+% Nottingham Music Database
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+D/2F/2|"G"GF "D7"E/2D/2|"G"G3:|
+
+X: 10
+T:Chest nof the Waters
+% Nottingham Music Database
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:D
+A|:"D"DED FA"ABc "D"dcd "E7"Bed|
+"A"c2A ABc|"Bm"dfe "E7"B2e|"A"a2a "E"g2g|
+"D"f2d "A"e2A|"Em"dcB "A"ABc|"D"d3 -d::
+f|"G"g3 "D"a3|"D"agf "A7"gec|"D"edd d2:|
+P:B
+A|"D"FAd AFD|"G"GBB BAG|"D"FEF AGF|"Em"EGE "Am"ABc|
+"B7"B^c^cd ^cde|"F#m"f2e "E7"e2d|
+"A"c2A ABc|"Bm"dfe "E7"B2d|"A"cBA "G"B=B2|"A"cAA "A7"Adc|"Bm"B2B B2::
+g|"D"faa "G"gbb|"D"afd "A7"e2g|"D"fag "A7"fag|"D"afd "A7"gec|"D"d3 d2:|
+P:B
+d/2e/2|"D"fed "A"g2e|"D"a2f "G"b2g|"D"fef def|"A7"gfg eag|"D"fed c2f|"D"agf "A7"gec|"D"edd d2:|
+X: 327
+T:Nad yer Gall Wandwotingham Music Database
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:C
+G|"C"e2c|"C"GED|"F"F2C|"C7"C2D|"F"F3|"Bb"D2D|"Bb"DFB|"A"ABc|"Bm"d3/2c/2d|"E7"Bcd|"A"e3/2c/2A|\
+"A7"Ac/2e/2c/2e/2|
+"D"f3/2e/2d|"D"f2A|"D"dde|"D"fed|"G"GBB|"Em"B/2c/2dB"D"fdd d2e:|
+"D"afd AFA|"D"agf "G"bag|"D"afd AFA|
+"G"(3Bcd(3BAG|"D7"FADD A2(3AGF|"G"GDEF "D7"GABc|
+"G"dgfe (3ded(3cdc|"G"(3BcAB "D7"cdef|"G"gdBG "D7"FcAF|"G"G2B2 G2:|
+P:B
+ga|"Em"bagf efga|"Em"bagf e2fg|"D"agfe "D7"d2(3def|
+"G"gfgd "C"e2"G"d2|"Am"eAA "D7"c2d|"G"BGG "Em"EGB|"Am"ABc "D"D3|d3 "A7/e"A3|"D/f+"d2d "G"d2d|"D/f

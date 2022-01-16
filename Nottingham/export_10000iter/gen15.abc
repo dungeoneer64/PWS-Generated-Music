@@ -1,0 +1,108 @@
+X: 1
+T:song_name
+K:C
+P:A
+g/2e/2|"C"c/2B/2c/2e "A"e:|
+P:B
+A/2B/2|"C"c/2B/2c/2e/2 gg/2e/2|"C"cc ef/2g/2|"C"ec cd/2e/2|"F"f/2c/2 f/2c/2|"C"c2|"F"c4-|c2 -c/2d/2e/2f/2|"G"g2 g:|
+K:D
+P:Bcynis Marchell, via PR
+M:4/4
+L:1/4
+K:D
+A|"D"D3/2E/2D|"D"F2G|"D"A2B|"D"A2B|"Bm"B2"e2|"G"ee/2e/2 "A"ee/2f/2|\
+"G"gf/2g/2 "G"a/2g/2e/2d/2|"A7"cA Ad/2e/2|"D"fd "G"Bd|\
+"D"d2 "D7"A2:|
+X: 85
+T:Geordie Hinnie
+% Nottingham Music Database
+N:A(ABBB)(ACCC)A
+Y:A Lea Pile
+% Nottingham Music Database
+S:Heather and Cham Music Database
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+FG |"D"A2 A3/2B/2|A^G Ad|"G"B2 B3/2B/2|"D"AD F2|\
+"D"A3/2d/2 f/2g/2f/2e/2|
+"D"ff "A7"ed/2e/2|"D"fa/2f/2 df|"Em"ef "A7"ef/2g/2|"D"af "A"ge|"Bm"dc "F#m"AF|"G"GB "A7"A/2B/2A/2G/2|"D"FD D:|
+X: 66
+T:Chestnuct's Hornpipe
+% Nottingham Music Database
+S:Bob McQuillen Oct 1974, via PR
+M:4/4
+L:1/4
+K:F
+a|"C"g3/2f/2 "C7"ed|"Fm"cd "F7"c/2d/2|"C"e2|c2-|c2 E2|"C"E3/2A3/2 c3/2A/2B3/2c/2|
+S:EF
+M:6/8
+K:G
+P:A
+|:B|"G"DGB DGB|"G"DGA B2G|"Am"cBc "D"DFA|"D"d3 d3::
+"G"g2g gab|"D"a2a a2a|"A7"gag f2d|
+"D"f2f f2f|A3 -A2c|"G"BGD G2B|"G7"d3 -dBG|"C"c2B c2e|
+"Cd"g3 -gfe|"G"d2d d^cd|edd d3 B2c||
+"G"d3 -d2B|"G"d2B d2B|ded gBB|"D"d3 -dBA||
+K:Am
+P:A
+e/2d/2|"Am"cBc DFA|"D7"def "G"gdB|"D7"cAF "G"G2:|
+P:B
+d|"G"edd gdd|"G"ede "C"gfe|"Am"dcB "D7"A2d|"G"BGG G2:|
+P:C
+d|"G"dBd dBg|"C"ece "G"def|"C"gge "D7"dBA "G"BAA|
+"A"e2e "E"dcB|"A"cAG "D"D2:|
+A|"D"f2a|"A"e2a|"Em"ga-|"A7"g2 gb|"D"ab ag|"D"f4-|f2 e2|"E7"df ed|"A"c3/2d/2 ec|"D"d2 ||
+
+X: 79
+T:Lea Richa2|\
+"Em"G/2A/2B/2Nottingham Music Database
+Y:AAB D2|\
+K:D
+"D"AF/2A/2 BA|"G"GB B3/2B/2|"D"AB "A7"AG|"D"F/2G/2A/2F/2 DB/2c/2:|
+ [2"Am"c/2A/2B/2G/2 "Cm"GA|"G"G2 "D7"Gd|"G"g2 "G7"g2|"C"e2 "G"ed|"C"c2 Bc|"G"d2 cB|"Am"A2 -"D7"A2|"G/2f/2G/2 "A"A/2B/2A/2F/2|
+"D"d3/2e/2 "Bm"f/2e/2d/2c/2|"Em"Bg "A7"f/2e/2d/2c/2|"G"BG G:|
+P:B
+B/2c/2|"G"dB gB/2c/2|"G"dd dB/2c/2|"G"dB gf/2g/2|"A7"aA "D7"AG/2A/2|
+"G"Bd c/2B/2A/2G/2|"G"Bd "C"e/2f/2g/2e/2|\
+"G/d"dd/2e/2 "D7"d/2B/2G/2A/2|"G"BG G:|
+P:B
+d|"G"e/2d/2^c "D7"d2|\
+"G"GB/2d/2 "C"e/2f/2g/2e/2|
+"D"d/2^c/2d/2f/2 "A"e/2c/2(3A/2c/2e/2(3f/2e/2d/2|"A"e2 e3/2d/2|"A"de "D"f2|"A"e3/2e/2 ed|"A"ce a2|"A"e3/2e/2 ef|"A"ge cA|"A"e3/2e/2 ed|"A"ce a2|\
+"E7"e/2f/2e/2d/2 cB|"A"A3:|
+P:B
+e/2^e/2|"A"a/2e/2c/2e/2 f/2e/2c/2e/2|"A"a/2e/2c/2e/2 f/2e/2c/2e/2|"A"ag/2e/2 "D"f/2e/2d/2e/2|\
+"E"d2f2 "D"f3:|
+
+X: 102
+T:Fow ron Boy
+% Nottingham Music Database
+S:FTB1 p4
+M:4/4
+L:1/4
+K:D
+A|"D"dAF DFA|"D"ded "A"cBA|"Em"BGE EGA|"Em"B2A "A7"Bcd|
+"D"AFD DFA|"D"ded "A"cBA|"Em"BGE E2A||
+"G"BGB dBd|"D"def "C"gfe|"G/d"dcB "D7"cBA|"G"G3 G2:|
+P:B
+d/2e/2|"G"dBd gfg|"D"AGF AGF|"G"G3 -G2:|
+P:B
+|:d|"G"d3 "D7"e3|"G"ded "cde dcB|
+"Am"ABc eB=c|"D"d3 -d2||
+
+X: 220
+T:Maidi' "D"B/2c/2A/8
+K:D
+A|"D"d2d d2d|"D"d2d d2d|"A7"e2e e2e|"D"f3 "D7"d3|"G"ggg g2g|"D"f2f f2f|
+"E7"e2f efe|"A7"efe "D"def|"G"g2f "Em"e2f|"Em"e2f edB|"D"Adf agf|
+"Em"g3 e2f|"A"g3/2a/2g e2g|"A"c2e A2B|"Em"g3/2f/2g "A7"e3|"A7"e3 d3|"D"d2c d2e|
+"D"fgf fed|"Em"e2f gfe|"Bm"fdB B2d|
+"Em"g2g Bab2a/2|"G"bb gg|"G"ag "D7"ag|"G"g3||
+X: 36
+T:Lively Picker
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:D
+de|"D"f2d Adf|

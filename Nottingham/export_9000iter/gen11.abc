@@ -1,0 +1,120 @@
+X: 1
+T:song_name
+K:C
+EF |"C"G3/2E/2 "G"D2|"C"C4|"D7"D2 B2|"G"G4-|G||
+
+X: 45
+T:Sheffordie's Byr
+% Nottingham Music Database
+P:AABA
+S:Jimmy Anen MM
+M:6/8
+K:D
+P:P
+A|"D"AA/2A/2 AA|"G"GB/2B/2 BB|"A7"A/2c/2e/2c/2 Agec|"D7"dcB AGF|"G"GBd "Cd2 dd/2=c/2|"G"B/2G/2B/2d/2 g/2d/2B/2G/2|\
+"Am"c/2A/2B/2A/2 "G"G/2B/2B/2G/2|"Am"A/2A/2A/2B/2 "G"G/2A/2B/2d/2|\
+"D7"c/2A/2F/2A/2 "G"G/2B/2A/2G/2|"D"F/2D/2F/2D/2 "G"G/2B/2A/2G/2|\
+"D"F "A7"C/2D/2E/2G/2|"D"FD D:|
+X: 12
+T:The Queen's Jig
+% Nottingham Music Database
+S:Mike Richards
+K:C
+G|"C"E2F G2A|"G"B2B "C"cBc|"G"B2G "D7"cBA|"G"G3 -G:|
+P:B
+G/2A/2|"G"B3/2B/2 "B7"BA|"Em"G2 G2|"Am"c3/2c/2 cB|"D7"AF ED|\
+"G"B3/2A/2 G/2A/2B/2c/2|"G7"d3/2c/2 Bc|"G"dd dd|
+"C"e3/2c/2 Gc|ec ge|"G"d3/2B/2 GB|"Am"A/2G/2A/2B/2 "Am/a"AA/2B/2|"Am"c"D"d2A|"G""Em"B2 -"D7"B2|
+"G"GB/2^c/2d/2 g/2G Powe
+M:6/8
+K:D
+fg|"D"a2f d2f|"A7"ef ecAc def|"A7"gfe "D"d3:|
+X: 65
+T:The Glackeruel
+% Nottingham Music Database
+S:Rosemary Redpath
+M:3/4
+L:1/4
+K:A
+(3A/2B/2c/2|"A"eA df|"Bm"d3/2d/2 dd|"A"ce "G"d2|"A7"cd ef|"D"d4-\
+|"D"d3||
+X: 67
+T:The Piper's Fancy
+% Nottingham Music Database
+S:Trad via Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+(3DEF|"G"(3GFGDG BGBd|"C"(3cBcAB "D7"cdef|"G"gdBG "D7"FAdc|
+"G"BdBG (2 D/2\
+|"G"G :||:
+d/2c/2|"G"Bg/2 "C"e/2d/2c/2B/2|"D7"AA/2B/2 c/2d/2e/2f/2|\
+"G"gf ga|
+"G"b3/2a/2 gd|"Gm"g/2a/2b/2a/2 "C7"gd/2=e/2|"F"fa/2f/2 d/2f/2e/2d/2|"E"c/2e/2 d/2B/2|"Am"A A:|
+X: 82
+T:Gyre And Gimbles
+% Nottingham Music Database
+S:I'maua AF3/2E/2|
+"D"DE/2F/2 "A7"E/2F/2G/2E/2|"Dm"D2 -D2:|
+X: 5
+T:Black Boy
+% Nottingham Music Database
+Y:PAABBAABBAABBAACCACA
+S:Bledington
+M:9/8
+K:A
+P:A
+c/2d/2|"A"efe "A7"edc|"D"dfa "A"ecA|"G"d2B "A"cBA|"Bm"GBB "D"AGF|"Em"GEE "A"A7|
+
+X: 33
+T:Russian D"d"A"Ace "D"d2A|"A"e3 "E"e2d|"A"cd^c "D"d2f|"A"e2c "E7"BAB|"A"A3 A2:|
+
+X: 321
+T:The Widow Magee
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+"D"A,/2B,/2D/2E/2 DD/2E/2|"D"FF FG/2A/2|"G"B3/2c/2 B/2A/2G/2F/2|"Em"E3 -E2B|"B7"B2A F% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+"G"G/4A/4B/4c/4 d/2B/2|"C"c/2c/2 c/2:|
+[2"B7"^G^F A3|"B7"z^GA B2A|"Bm"B^df dfg|"Em"e2d "A7"B2A|
+"D"ded Fm"g4|"Bb"d2d|"F"c2A|=F2^F|\
+"Bb7"F2E|"Bb"D-FA|"Bb"d2d|"C"c4-|"A"c/2a3/2e cBA|"F#m"A3 -A2F|"G"GFG BAG|"D"F2G AGF|"G"G2e d2B|
+"G"ded BdB|"Am"cBc 
+"B7"B3 -B2f|"E"g3 f3|"E"g2e "D"faf|"E7"e3 efa|"A"c2A "E7"cec|
+"A"e2e efg|"D"a2a agf|"A"e2c "E7"BcB\
+"A"A3 ||
+X: 310
+T:Tobin's Favourite
+% Nottingham Music Database
+Y:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:G
+P:A
+d|"G"GB/2B/2 "D7"cA/2c/2|"G"BG G:|
+P:B
+d|"G"g/2f/2e/2d/2 "D"c2A2|"Am"c3 -c2ga|
+"G"b2b2 gfge|"G"d2d2 B2G2|"D7"FGAB c2AB|"F"c2Ac "G7"Bcd2|"C"c2GF"F"A/2c/2F "C7"Gc/2d/2|
+"F"c/2d/2c/2A/2 c/2d/2c/2A/2|c/2d/2c/2A/2 c/2d/2c/2A/2|\
+"C"G/2A/2G/2c/2 "D7"AF D/2E/2F/2G/2|"D7"AA D"DFA def|"A7"gfe "D7"d2d|
+"G"edd dBd|"C"efg "G"dBG|"A
+% Nottingham Music Database
+S:Jimmy MacKay, via EF
+(3ABA|"G"G2g2 G2||
+K:F
+"Gm"b3/2^a/2g3/2e/2 "Bm"d2B2|"Em"GABG E2(3GFE|"Em"E4 E4:|
+P:B
+B|"Em"e3 E2e|"E7"d2e d2d|"Am"cdc "Em"B2B|"Em"BBc "A7"Bc|"D"d3 d2:|
+
+X: 23
+T:Jacob McAskilses's Hornpipe
+% Nottingham Music Database
+S:Jimmy 

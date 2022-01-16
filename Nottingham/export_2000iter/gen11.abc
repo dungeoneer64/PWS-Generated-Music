@@ -1,0 +1,98 @@
+X: 1
+T:song_name
+K:C
+P:A
+D|"A"A2A "D7"ABc|"G"d2d "D7"dBc|"G"d2c Bcd|"Dm"def "A7"gec|"D"d3 d2:|
+P:B
+f/2g/2|fed d2f|"D"a2f "A7"ede|"D"f3 d2:|
+X: 10
+T:Abron Maggie
+% Nottingham Music Database
+S:CD L
+M:4/4
+L:1/8
+R:Hornpipe
+K:F
+P:A
+(3ABc|"D"d2d2 d2:|
+P:B
+(3fg^fg|"D"afba fgaf|"G"gfgd "A"ef(3edc|"D" d3 -d2|g/2e/2"D"d2 d3/2c/2|"G"Bd B2-|B/2c/2d D/2E/2G/2A/2|\
+"D"BA FE/2D/2|"D"DD/2E/2 "A7"D/2E/2F/2G/2|"D"A/2F/2D/2F/2 AF/2G/2|"D"A/2F/2D/2F/2 A/2F/2D/2F/2|\
+"D"A/2B/2d/2e/2 d/2B/2=A|
+"D"c/2d/2-a/2f/2 da|"D"fd "Bm"fg/2g/2|"D"af "Bm"d2|"Em/g"A7"(3cdB/2e/2A/2f/2g/2 f/2e/2g/2e/2|
+"D"f/2^g/2a/2^g/2 a3/2d/2|"D"A/2B/2d/2e/2 fa|"F"=f/2f/2f/2e/2 "B""E"Be|"A"cE/2A/2 "E7"GF/2A/2|
+"A"(3F/2E/2f/2A/2G/2 F/2E/2F/2C/2|"D"Dd/2B/2 AA/2d/2|"D"cA/2c/2 dc/2d/2|\
+"D"cd/2c/2 "G"B/2d/2g/2d/2|
+"D"ff/2d/2 f/2aabase
+S:via PR
+M:4/4
+L:1/4
+K:D
+"D"f3/2e/2 dB|A2 F2|A2 A2|"Bm"B3c/2d/2|"A"ea fe/2d/2|"A7"cB/2c/2 "D"d2:|
+
+X: 51
+T:Kimps kay March 1977, via PR
+M:4/4
+L:1/4
+K:D
+FE |"D"D2 d3/2F/2|Dd Bc|d3d|"C"g3/2=g/2 fe|d2 "Em"G3/2G/2|
+"Dm"FE DE|G/2A/2B/2c/2 c/2B/2c/2d/2|"D7"dG "C7"d/2=c/2B/2A/2|"F"cAc c/2c/2A/2c/2|"G"BG G3/2F/2|"A7"Gz GE|\
+"D"D2 "A7"Af/2g/2:|
+"D"aa/2g/2 f/2a/2b/2a/2|"Am"g/8
+K:G
+"G"d2 "Em"eB|"Am"AA eA|"D"d3/2d/2 "F#"ce|"Bm"dB/2c/2 "E7"B/2A/2G/2B/2|"A"A::
+e|"A"e3/2c/2 AB|ed cA|"A7"Ce e2|"A7"ec dc/2B/2|"D"cB AG|FA D2A|"D7"FEF|"G"G2^F|G2F|GBb|"G"a2g|"C"g2f|"Am"e2f|"Em"e2f|"A7"gfe|
+"D7"d3/2c/2B|"D7"AGA|"G"BGG|"G/b"B2"D/a"A "G"B2G|"D7"A2D D3|"G"G6||
+X: 34
+T:Starn Smith Quick acL
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+A,/2F/2|"D"A,/2B,/2D/2E/2 F/2E/2D/2F/2|"D"A/2G/2F/2A/2 dA/2|"D7"D/2E/2F/2D/2 "G"G:|
+X: 9
+T:AcBA Music Database
+S:Trad, via EF
+M:6/8
+K:C
+"G7"G|"G"C3DAF|"G"G2G2 G2:|
+X: 30
+T:IlanG"G2d|"D"DFA "D7"d2c|
+"G"Bcd DGB|"G"DGA B2G|dGG DGB|d3 -d2c|"G"B2B B3-|B^AB d2B|"E7"^G2G ^F2G|"A7"^F3 E3|"B7"F3 F3|F3 -FEF|"G"G3 B2A|GDE DGB|d2d e3|[1"A"A2A "D"A3:|
+ [2"A"A2A A^cd|"E7"e3 -e2e|"F#7"f3 g2^f|\
+"A"e3 -"Bm"A3|"Bm"d2c "B7"BcB|
+"E"B2^A B2c|"D"d2d d2d|"A"c2B c2A|"E"Bgf g2e|"A"c^cd e2c|"D"d3 -d2:|
+X: 60
+T:Colestone All Hmanes
+% Nottingham Music Database
+S:NPTB
+M:3/4
+L:1/4
+K:F
+D/2E/2|"Dm"F2F/2E/2|
+"Dm"F3/2E/2D|"D7"DFA|"G"B2c/2d/2|"Em"e2f/2d/2|"Bm"dcB|"Eb"b2a|"Em"g2f/2|\
+"E"g2c d2e |"G"edd g2d|
+"C"c2e e2e|"G"dBG A2G|"C"EGD G2c|d2d d2^d|"G"edc BAG|
+"Am"A2B "E7"GAc|"C"edc c3|"G"ded d2g|
+"G"fgf edB|"D7"A3 A2c|"G"Bcd "C"edc|"D"dBA F2D|
+"D"dBA d3|"E7"E2E EFG|"D"A3 -A2G|"G"BAB d2e|"D"fff "A"efe|"D"f2d "A7"ecA|
+"D"dcd "A"ef^d|"D"d2A F2D|"A7"A3 -A2A|"D"d2d f3|\
+"D"d2f "D/f+"agf|"D/f+"def "G"dcB|"A7"ABc "D"d2:|
+P:B
+cF"am Music Database
+S:Nith Skeltove/2f/2 ee|\
+"A"Ac/2e/2 e/2c/2A/2B/2|c/2A/2e/2A/2 f/2A/2e/2A/2|ca/2e/2 -e/2d/2c|\
+"D"D7"g/2c/2f/2a/2 |"Gm"=ag -g2|\
+"C"a2 "G"d2|"Am"A4-|\
+"B7"A2 "Em"d3/2B/2|"Am"A4|\
+"Am"c/2B/2A/2c/2 "Em"BB BG/2:|[2"D7"D/2F/2A/2F/2 "G"G:|
+|:D|"G"BG DG|"D7"AG A/2B/2A/2F/2|"G"GB GA/2B/2|"C"c/2B/2c/2d/2 e/2f/2g/2e/2| 1
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+f/2e/2|"D"d/2f/2e/2d/2 "Bm"=c=B/2c/2|"F#m"c_c/2B/2 A/2B/2c/2d/2|"D"e/2d/2d/2e/2 fa/2g/2|\

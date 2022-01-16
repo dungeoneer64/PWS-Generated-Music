@@ -1,0 +1,105 @@
+X: 1
+T:song_name
+K:C
+M:6/8
+P:A
+cd|"C"e2ef "A7"gfec|"D7"dcdB "G"BAG|
+"C"cGE "G"DGG|"C"g2e "G"dBG|"D7"A2d "G"BAG|"C"E2F "G"G2:|
+P:B
+d|"G"edB "D7"dB2c|"G"BGB dcB|"Am"cAA eAc|"D7"efd "G"e2d|"Am"cAA A2:|
+
+X: 312
+T:The Household Brigade
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+M:6/8
+P:A
+|:f|"D"d2A ABA|"G"G2A BGA|"G"B2c d2e|
+"D"f2g a2f|"G"b2g "A7"a2f|"D"d2e f2g|"D7"a3 f2a|"G"b2a gfg|"Bm"bba gfe|"A"c2B E^AB|"Em"e2e "B7"d2B|"Am"c2c cBA|"Em"E3 B2A|"D"B2c d2e|
+"Bm"fgf f2d|"Em"e2g g2f e2c|"Bm"B3 d3|
+"Em"b2b g2e g2g|"Bm"B^dB dBd|"Em"e2e "A7"B2^c|\
+"D"d2A,m ED
+M:4/4
+L:1/4
+K:A
+P:A
+|:A/2B/2| "A"cc/2A/2 cB/2c/2|"D"d/2e/2f/2d/2 A/2d/2e/2f/2|\
+"Em"g/2f/2e/2d/2 "A7"cF/2A/2|
+"D"df/2d/2 A/2d/2f/2d/2|"Am"A^c/2A/2 "G"B/2G/2A/2B/2|\
+"Am"ce "D7"A2|
+"G""Em"GG/2A/2 "Am"BA/2G/2|"D7/a"B/2 "C"gf/2e/2|\
+"G"dd/2e/2 d/2B/2A/2G/2|"Am"BA "D7"A/2c/2B/2A/2|
+"G"GB/2G/2 D/2G/2B/2G/2|"G"BB/2A/2 "D7"B/2c/2B/2A/2|\
+"G"GG/2G/2 G/2G/2|"Em"E/2D/2 E/2G/2|"A7"A2|"D"F/2A/2A/2B/2 A/2B/2d/2e/2|"D"f/2g/2a/2g/2 f/2e/2d/2f/2|\
+"A"a3/2e/2 c3/2c/2|"Bm"c3/2B/2 "E7"c/2d/2e/2c/2 "C"=B/2c/2|"G"d/2B/2 "C"A/2G/2|"G"B/2A/4B/4 "Am"B/2A/2|\
+"D7"A2|"G"g3/4f/4 g/2d/2|\
+"Am"e/2a/2 g/2e/2|"G"d/2B/2 G/2A/4B/4|"G"g/2d/2 g/2d/2|\
+"D7"c/4e/4g/2d/2c|"G"BdB "D7"A2G|"G"GBd "D7"d2e/2f/2|"G"g2g "C"c2e|"G"dBG "D7"A2F|
+"G"G2G "G"G2B|"Am"d2B "D7"A2G|"G"G3 -G2||
+
+X: 270
+T:Abburbs Hill
+% Nottingham Music Database
+S:Pat
+M:3/4
+L:1/4
+K:C
+e/2d/2|"C"c2d|"C"egg|"F"f2a|"G7"g2f|"C"gj-|"F"af dz|
+"Bb"_b3/2b/2b|DCAkt
+% Nottingham Music Database
+S:Ralph Rag
+Y:AB
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+P:A
+cd|"A"e2e2 c2cd|"A"e2e2 c2cd|"E4
+P:A
+ce|"A"A"c2 cB|
+"A7"AG GG|"D"FA FA|d/2e/2f/2g/2 a/2Em"E3 -"G7"E2E|"C"C3 "E7"E2^G|
+"Am"E^AB c2d|e3 -"G"d2g -"D7"gfg:|[2"D7" "A"e2dc "D"A2d|\
+"G"Bcd "A7"edc|"D"d3 -d3:|
+X: 249
+T:Jacob (or Enrico)
+% Nottingham Music Database
+S:Wolfstone, Arr EF/HJF
+M:6/8
+K:C
+g2^g |"C"a3 g2e|"C"d2c "Bm7"B2A|"Em"E2E "D7"E2g|
+"G"dcB "Bm"AGF|"Em"G2A B2d| [1"Em"e3 "D7"d2||
+X: 323
+T:William and Nancy
+% Nottingham Music Database
+S:Chris Dewhurst, via Phil Rowe
+M:6/8
+K:A
+A/2B/2|"A"c2E EFE|"D"F2A A2f|"E7"e2e e2e|"A"c2e cBA|"D"[d3-d3-]"BA cA|"G"g3/2f/2 "A7"ec|"D"d2 d:|
+A|"D"FA/2A/2 AA/2B/2|"D"Ad/2A/2 "G"B/2A/2G/2B/2|\
+"A7"A/2d/2c/2e/2 "D"d:|
+P:B
+f/2g/2|"D"ag/2a/2 "E"f/2e/2f/2e/2|"Bm"d/2c/2B/2A/2 "E^GB|
+"Am"ea/2A/2 a/2A/2e/2A/2|"Am"a/2A/2(3A/2A/2A/2 e/2f/2e/2d/2|"A"^c/2d/2e/2f/2 "G"g/2a/2g/2f/2|\
+"E7"e/2d/2c/2B/2 "A7"c/2e/2f/2g/2|"D"a3/2a/2 af|
+"D7"A3/2B/2 Ac|"G"BG "D7"AF|"G"G2 G:|
+P:B
+B/2c/2|"G"d2 d3/2e/2|"G"dB AG|"C"cd ef|"C"g2 fe|"G"d2 GA/2G/2|"D7"F/2G/2A/2B/2 c "C"E2E|"G"D2B, D2D|"C"EFG "D7"A2F|"G"G3 G2:|
+P:B
+D|"C"E2G c2B|A2B c2d|e3 d2B|"C"c3 e3|||
+
+X: 27
+T:Kelry the Boy From Kilken
+% Nottingham Music Database
+S:Athole p148, via EF
+Y:AB
+M:2/4
+L:1/4
+K:G
+G/2A/2|"Em"(3B/2G/2B/2(3A/2B/2G/2 (3G/2A/2G/2|"Em"BB/2B/2 "A7"AA/2G/2|
+"D"FA dc|"G"B/2A/2B/2c/2 "Em"Bg|"A7"ec Ac|"D"d2 d::
+f|"D"a3/2g/2 fa|"D"dd "B7"f/2e/2d/2c/2|"E7"B^A Bc|[1"A"AF :|
+ [2"A"A2 A:|[2"A"A3/2c/2c/2d/2 "E7"ed|\
+"A7"c/2e/2d/2c/2 BA|
+"GE/4C/4F A/2c/2B/2A/2B/2d/2|"D7"A/2B/2A/2F/2 Dd/2c/2|"G"B/

@@ -1,0 +1,107 @@
+X: 1
+T:song_name
+K:C
+(3G/2A/2B/2|"C"c3 "F"c2A|"G"GAG |"C"E2
+L:1/8
+R:Hornpipe
+K:G
+P:A
+ba|"G"gfge B2ed|"Am"cBcA E2AG|"D7"FADF A2(3AGF|"G"GD2g2 e2(3fga|
+"C"g2ed "G"g2b2|"C"c2e2 efg2|"D"afdf a2gf|"Em"efga "A7"b2a^g|"D"a^gab afdf|"D"afba "A7"a2f2|\
+"D"dcd "A7"Adc|"D"d3 -d2:|
+P:B
+|:D/2F/2|"D"ABA FDF|"D"A3 =c/2B/2A/2c/2|"G"Bd "Em"dc/2B/2|"Am"A/2B/2c/2d/2 "D7"cB/2A/2|"G"GB "Em"e/2d/2B/2d/2|\
+"G""G"Bd "Em"dB|"Am"A2 A2:|
+X: 12
+T:The Pinch of Snuff
+% Nottingham Music Database
+Y:AAB
+S:tom, via EF
+M:6/8
+K:G
+P:A
+|:d|"B7"^FGA B2d|"A"^cAA eAA|"A"cBc "A7"a2g|"D"fdd d2:|
+
+X: 232
+T:Rattigan's Jig
+% Nottingham Music Database
+S:Wolfstone, Arr EF/HJF
+Y:AABABAB
+S:Geoff Boc3/2d/2|"A"e3/2c/2 AA|\
+"Bm"d3/2B/2 "E7"GG|"A7"A/2B/2A/2G/2 E/2G/2C|
+"D"DF A/2B/2A/2F/2|"D7"D2|
+"A7"EA EA|"D"F/2F/2F/2A/2 Bd|"G"B2 -B/2A/2G|"C"E/2G/2A/2B/2 c/2G/2E/2G/2|c/2B/2c/2d/2 c/2A/2B/2c/2|"D"d2 d::
+f/2g/2|"D"a3/2b/2 "A"a/2f/2g/2e/2|"D"d/2e/2f/2d/2 A/2d/2B/2A/2|\
+"D"F/2A/2D/2E/2 "A7"C/2G/2F/2E/2|
+"D"DD D/2D/2E/2F/2|"G"G/2F/2G/2A/2 B/2c/2d/2B/2|"C"A/2B/2c/2d/2 "Am"e/2f/2g/2e/2|\
+"G/d"dd/2e/2 "D7"d/2B/2G/2A/2|"G"BG G:|
+X: 9
+T:High and Sandy
+% Nottingham Music Database
+S:Eric Fox
+
+M:6/8
+K:D
+e|: || |:"D"AB/2A/2|"G"G3/2A/2 G3/2G/2|"G"G2 (3def|"G"g2d2 "D7"d2ef|"G"g2g2 g2g2|\
+"C"c2d2 e4|"G"d2g2 "D7"fga|"G"g2e/2f/2|"D"F3/2G/2^G/2A/2|"D"BAm"a/2a/2=g/2e/2 a/2g/2f/2e/2|
+"D"df/2e/2 df/2e/2|"D"d/2e/2f/2d/2 A/2d/2B/2A/2|"D"d/2e/2d/2B/2 "G"g/2f/2e/2f/2|\
+"Em"g/2f/2e/2d/2 "B"BB/2e/2|"Em"g/2f/2e/2d/2 "Bm"B/2g/2f/2d/2|\
+"Gm"e/2d/2 "D"d/2:|
+X: 47
+T:You Shaldogn For Galls
+% Nottingham Music Database
+S:hia PR
+M:4/4
+L:1/4
+K:G
+P:A
+d/2c/2|"G"BD/2G/2 DB,B,|"A"A,/2B,/2A,:|
+X: 35
+T:Fairy Dance
+% Nottingham Music Database
+S:Mick Peat
+N:/f2AAAB|c3/2B/2A F2E|"C"E3 F3|"C"^A3 -A3|\
+"G"G^FG B2A|"G7"GA^A B2=c|"F"ffg fed|"F"cdc "Bb"egf|"Em"edB "D"A3|
+"Em"g3 "B7"e|"D7"B2A "G"G2:|
+P:B
+d/2e/2|"Em"faa efd|"A"cBc "D"Afe|"A"edc "D"d2:|
+
+X: 320
+T:Wwity Jig
+% Nottingham Music Database
+S:James EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+F/2G/2|"D"A/2F/2D/2F/2 A/2B/2A/2F/2|"D"D/2F/2A/2F/2 BA/2F/2|"D"D/2F/2A/2F/2 "A7"E/2F/2G/2E/2|\
+"D"D/2F/2A/2F/2 BA/2F/2|"D"D/2F/2A/2F/2 BA/2F/2|"D"D/2F/2A/2d/2 "A7"f/2g/2e/2c/2|\
+"D"df d:|
+
+X: 35
+T:Scot's A Polka
+% Nottingham Music Database
+Y:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:A
+P:A
+|:E|"A"AAA cAc|"D"dBB "A"cAa|"Bm"efe "E7/d+"GAB|"B/4\
+c/4 d|"G7"c/2d/2 e/2d/2|"C"c3/2e/2|"C"g3/2e/2|g3/2e/2|"G"d3/2c/2 "D7"Bc|"G7"d3/2e/2 fe|"G"d3c|\
+"G"B"C"Bd "D7"Ad|
+"G"gg "C"g/2a/2g/2e/2|"G"dB "D7"d3/2e/2|"G"gg gg/2a/2|"A7"ba "D"a2|"A7"a3/2b/2 ag|"D"f/2e/2d/2f/2 "A"e/2f/2e/2c/2|"D"d/2e/2
+T:The Chest Of Drawers
+% Nottingham Music Database
+S:Heather Bexon, via PR
+M:4/4
+L:1/4
+K:D
+F/2G/2|"D"AF "A7"G/2F/2E/2D/2|"D"F"G"d3 "Em"B3|"D"def "E7"e2A|"A7"Ace a3|"A7"a^ga b2a|
+"D"AFA B2c|"G"d2B BdB|"D"A2d "C"=cBA|"D"d^cd "G"B2d|"D"A2d "Bm"F2B|"A7"ABc "D"d2:|
+P:B
+f|"A"e^de A2f|"A"e^de a2e|"Bm"fef "Em"g2f|"D"e2A AB^c|"D"d2B "A7"A2F-\
+|"D"F3 "A7/c+"A2G|"Bm"FGF "A7"E3|"D"F2A d2c|
+"G"B2c A7"C"C/e"f/2e/2d/2c/2|
+"G"B/2G/2G "C"E/2D/2E/2F/2|"G"G/2A/2B/2c/2 dB|\
+"C"c/2B/2c "D7"dA|"D7

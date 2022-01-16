@@ -1,0 +1,86 @@
+X: 1
+T:song_name
+K:C
+P:A
+c/2d/2|"C"edc "F"A2|"Dm"A2 "A7"A2|"Dm"A3/2c/2 AA/2=B/2|\
+"Fy
+% Nottingham Music Database
+Y:AABA
+S:FTB 1 p 1136, vie EF
+M:6/8
+K:D
+P:A
+|:A|"D"d2B A2d|"A7"edc "D"d2a|"G"b2a "A7"gfe|"Bm"d2B "E7"B2d|
+"A"c2c F#cA|"E7"G2F GAB|"A"A3 "D"A2B|"A"c3 -B2A|"G"G6||
+
+X: 265
+T:Russ O' thingham Music Database
+S:Wolfstingham Music Database
+S:Mick Peat
+M:6/8
+K:D
+f/2e/2|"D"d3/2A/2 F3/2A/2|"G"B/2G f/2g/2f/2g/2|"D"b/2a^g/2 "A"a3/2g/2|
+"D"f/2d/2"D"B/2c/2A/2B/2 "E"G/2B/2A/2G/2|\
+"F#m"F/2F/2F/2F/2 FE/2F/2|"Em"G/2F/2G/2A/2 "A"G/2A/2B/2c/2|
+"D"d/2B/2A/2F/2 "G"G/2A/2B/2c/2|"G"d/2B/2g/2B/2 g/2B/2d/2B/2|g/2e/2g/2y
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+D2|"G"GDGB "D7"AGAB|"G"G2gf "C"gfed|"G"(3cBABG G2"D7"def|
+"G"g2g gfe|ded d2B|"C"cec "Am"ABc|"D"d3 d3|"D"Ad3-|"D"A2d "A"edc|"D"d3 ::
+"D"ded |"A"cde "A7"eag|"D"fdd d2::
+B/2c/2|"G"ded Bcd|"C"ece gfe|"G"ded "D7"cBA|"G"GBd g2:|
+P:B
+e|"Em"gef g2a|"Em"gef "D7"gdc|"G"BGG G:|
+P:B
+B/2A/2|"G"GBd g2f/2e/2|"Em"d3/2c/2B|"A7"A3/2B/2G|"D7"FED|"G"G3/2B/2A|"G"G3/2B/2c/2d/2|"Am"e3/2d/2c|"G"d2B|"C"e3/2d/2e|"G"dBG|"D7"Ace "G"dBB|"D7"ABA "G"G2:|
+d|"G"b2b "D"a2f|"G"gfg "A7"eag|"D"fdd "A7"dfg|
+"D"afd def|"G"gba "A7"gfe|"G"gfg "A7"eag|"D"fdd "A7/e"fga|"D/f+"f3 -fgf|
+"D7"f3 f2f|"D"a2f agf|"Em"g2f e3|
+X: 168
+T:Little Czetham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+"Am"A2e efg|"Em"edB "Am"A2:|
+X: 135
+T:The Grindss So Briggs
+M:3/4
+L:1/4
+K:D
+d/2e/2|"D"f3/2e/2d|"G"dBA|"D"AFA|"F#m"AFd/2e/2|"D"f3/2d/2e/2f/2|"G"g3/2a/2g/2f/2|"Em"gfe|"D"f3/2e/2d "G"dBA|"Em"Bed "A"cag|"D"f3 "A7"f2A|
+"D"a2a a2a|"A7"gag "D"f3|"A7"e2f gec|
+"D"bag f2d|fed agf|"C"f3 e2f|
+"C"gag g2g|"D"fef def|"D"d3 d3|"D"ABc dcB|"D"A2F A2G|
+"Em"E3 F2E|"Bm"D2E F2G|"A"A3 "E7"A2G|"A"A2G F2G|ABc e3|
+"Bm"B2c d2B|"E7"e2e gfe| b2b|
+"C"a2g g2e|"C"g2f edc|"G7"BAG FED|"C"C6"A7"A/2a/2g/2A/2 f/2A/2e/2A/2|"Am"f/2A/2g/2A/2 "D7"GFG|
+"Bm"FDF FDD|"Eb"GAB "A7""Cm"ec "G"dd|"Am"c/2B/2A/2c/2 "G"B/2A/2G/2B/2|"Am"A3/2B/2 c/2B/2A/2G/2|\
+"Am"d|\
+"Dm"fd/2c/2 "G7"=G/2A/2B/2c/2|"C7"d/2c/2B/2c/2\
+%P:3
+^c/2|"A7"g/2c/2c/2c/2 cB/2A/2|
+"D"F/2E/2D/2F/2 "G"G/2B/2A/2G/2|"D"F/2E/2D/2F/2 "G"G/2B/2A/2G/2|\
+"D"F/2D/2F/2A/2 "G"d/2c/2d/2e/2|"D"d/2A/2d/2A/2 "A7"f/2e/2d/2^c/2|\
+"D"d/2c/2d/2e/2 "A7"g/2f/2e/2g/2|"D"f/2d/2A/2G/2 F/2A/2d/2f/2|\
+"C"e/2d/2c/2B/2 "D"A/2D/2F/2A/2|"G"d/2e/2d/2c/2 "D7"B(3D/2E/2F/2|"G"G3/2=G/2A/2d/2|
+"C"e2e/2|"G"dB d3/2d/2|"C"cB "D7"AB/2A/2|"G"GB "G7"dB|\
+"C"d/2c/2B/2c/2 "G7"ed/2c/2|
+"G"B/2d/2G GB|"D7"A/2G/2F DE|\
+"G"B2 "D7"d3/2c/2|
+"G"Bd "D7"AB/2A/2|"G"G2 GA/2-|\
+"Am"d/2c/2B/2A/2 "D7"A/2c/2B/2A/2|[1"G"GB G::
+B/2d/2|"G"gg/2f/2 g/2f/2e/2f/2|g/2a/2g/2f/2 e/2d/2^c/2BA/2G/2A/2 "Bm"B/2A/2F|
+"Em"E/2F/2G/2A/2 Bc|"C"edBA "E7"B2|
+"A"cc cB/2A/2|"D"dd fd|"A7"ed e/2g/2f/2e/2|"D"dd d2::
+"D"f/2a/2b/2a/2 f/2d/2f/2a/2|"A"c/2A/2-A/2G/2 AA/2B/2|"A"c/2A/2B/2c/2 d/2e/2f/2a/2|
+"Bm"gf "E7"df/2g/2|
+"A"ae/2g/2 ae/2g/2|"A"ae/2a/2 e/2e/2a/2f/2|"A"e/2f/2e/2c/2 "D"dA/2d/2|\
+"E7"e/2d/2c/2B/2 "A"A:|
+P:B
+e/2d/2|"A"a/2e/2c/2e/2 gg|"Bm"f/2e/2d/2c/2 "E7"Be/2d/2|"A"cA A:|
+P:B
+B|"A"ec/2B/2 AA|"E7"Bc/2B/2 A/2F/2E/2D/2|"A"[A/2c/2]c/2B/2[c/2c/2[\
+|"Am"A2"A

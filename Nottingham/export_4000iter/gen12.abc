@@ -1,0 +1,75 @@
+X: 1
+T:song_name
+K:C
+%%MIDI gchord fzcz!G2|:|||:"D"F2A2 FAdf|"D"a2a2 f4|"A7"a2f2 "D"fed2|"Am"cdef "D7"(3efg(3fed|"G"(3GBd(3gfg "C"(3agf(3edc|
+"G"(3Bcd(3BAG "D7"(3ABc(3fga|/2 "G"B3/4A/4"Em"G/2B/2|"Am"A/4B/4c/4d/4 "D"e/2a/2|
+"G"g/4g/4g/4a/4 g/4d/4B/2|"D"c/2A/4A/4 G/2f/2|\
+"D7"F/2c/2 f/2d/2|"A"B/2d/2 "B"d d2A|"Em"d2e "A7"Beg|"D"f2d "D/f+"dcd|"G"B2d "D/f+"A2d|\
+"D"faf "G"bag|"D/a"fed "A"cBA|
+"D"d2A F2d|"A"c3 -cB2c/2e/2 d/2B/2A/2G/2|\
+"Em"B/2E/2E/2D/2 E/2F/2G/2A/2|"Em"B/2G/2A/2F/2 "D"D:|
+X: 31
+T:Chisburiteish Caddie
+% Nottingham Music Database
+S:Athole p 144, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+D/2E/2|"D"FF A3/2e/2|"C"e/2f/2e "E7"Be|"A"a2 "E7"e2|
+"A"a3/2g/2 f/2a/2g/2f/2|"A"ec "E"c/2d/2e|"Bm"f/2g/2a/2g/2 "A"fe/2g/2|
+"D"f/2e/2d/2B/2 "A"A2|"D"d/2e/2f/2d/2 B/2d/2e/2f/2|\
+"G"ga/2g/2 "A7"fe2(3efg "G"(3agf(3gfg|
+"G"(3efd"Em"(3GFG(3AGF "D7"(3GGGG2|"G"(3Bcd(3BAG "D7"(3ABc(3AGF|"G"(3GFG(3AGF (3GFE(3DEF|"G"(3GFG(3AGF (3GDDD|"G"(3gag(3fgf (3edd(3cBA|
+"G"(3GED(3G_B "D7"(3AFD(3ABA|"G"(3GBd(3gfg "C"(3agf(3edc|
+"G"(3Bcd(3BGB "D7"(3def(3gfg|
+"G"(3edcd2 (3edBG2|"D7"(3ABAGF "G"(3GBd(3gdB|
+"C"(3Gce(3agf (3ef(3dec|"G"(3GBd(3gfg [GB][FA]|
+"A7"[G2B2][BAE|"D"A2A2 FDFA|"D"efec "D"d2d2|"A7"cdea "D"agf/2d3/2|\
+"A7"e2A A3/2e/2f/2g/2|"D"a2a "D"a2f|"D"d3 "D7"A3|"G"d2e d2c|"G"d2B "D"A2F|"G"G2B "D"A2F|"G"G3 "D"d2e|"G"dB2 -B3 "Bm"B2d|"Em"edB "Am"A2::
+B|"C"c/2B/2c "D7"dB/2A/2|"G"GB B2|"D7"AD D/2E/2F|"G"G2 G:|
+P:B
+|:d/2c/2|"G"Bd d/2e/2d/2c/2|Bd d/2e/2d/2c/2|
+"G"Bg/2G/2|
+"EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+G|"A"A2 -A/2B/2d|"E7"B/2c/2d Bc|"A"A4||:"A"a/2b/2a/2g/2 f/2g/2e/2c/2|"D"d/2e/2f/2g/2 af/2g/2|\
+"A"a3/2e/2 "E"f/2a/2a/2e/2|"A"ce "D"ef/2a/2|\
+"A"e/2c/2B/2d/2 AE/2D/2|"Em"E/2D/2E/2F/2 "A7"G/2A/2B/2c/2|\
+"D"d/2A/2F/2D/2 "A7"E/2D/2B,|"Em"E3/2D/2 "A7"EE|"D"DF -"A7"FE|\
+"D"D/2E/2F "A7"FE|
+"D"D/2E/2F "A7"FE|"D"D2 DF|"G"G3/2G/2 Bd|"D"A3G|FA2F|"A"Em"e/2d/4c/4 "D"f|\
+"A"e/2e/4f/4 e/4c/4c/4e/4|"G"d/gB|"D"Add "C"=gfe|"D"fdd "A"c2c|"E7"BAA "A"A2:|
+P:B
+|:e|"A"aga "D"fga|"A"eee "D"fga|"A"eee "D"faf|"A"e3 "E"e||
+X: 135
+T:Patchwork Polka
+% Nottingham Music Database
+S:Wolfstone, Arr EF/2D/2F/2A/2|\
+"G"G3/2E/2 G/2B/2A/2G/2|"G"BB B2:|
+P:B
+|:"G"Gg/2f/2 e/2d/2G/2A/2|"G"B/2A/2G/2F/2 Gd|"D"F/2G/2F/2E/2 "A"E:|
+K:A
+P:B
+|:c/2d/2|"A"ec/2A/2 e/2A/2c/2A/2|"D"df/2d/2 g/2d/2f/2d/2|"D"a/2f/2d/2B/2 A/2F/2A/2d/2|\
+"G"BG GA/2B/2|
+"Am"c/2B/2c/2d/2 c/2B/2A/2G/2|"D7"FA/2F/2 DF|"G"G3:|
+
+X: 36
+T:Up or the Hills
+% Nottingham Music Database
+S:Bob McQuillen March 197"B/2G/2|
+A/4B/4c/4d/4 c/4B/4A/4B/4|"Am"c/4B/4c/4e/4 "D"f/2(3d/4e/4f/4g/4|\
+e/8D/4C/4C/4D/4C/4D/4E/4 E/4D/4C/4D/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/2E/4F/4|\
+E/2C/2 "E"B,/2^B,/2:|
+P:D
+"Bm"f3/2g/2 f/2e/2d/2B/2|"Bm"F/2A/2B/2c/2 B/2A/2F/2A/2|\
+"Em"EB/2E/2 "A7"G/2A/2B/2c/2|"D"dd d/2c/2d/2e/2|"D"fe/2f/2g/2|"D"ae/2g/2 af/2g/2|\
+"A7"a/2f/2g/2f/2 e/2a/2g/2e/2|"A7"d/2c/2B/2A/2 c/2A/2c/2A/2|\
+"D"d/2e/2d/2B/2 A/2B/2d|"C"e/2f/2g "D7"fd|"G"g2 "C"gf/2e/2|
+"G"dB/2c/2 dc/2B/2|"Am"cA Ac|"Am"ea "D7"ef|"G"gd "D7"d2|"G"gf/2e/

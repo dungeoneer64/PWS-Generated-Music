@@ -1,0 +1,88 @@
+X: 1
+T:song_name
+K:C
+G2 cB|"F"A2 GA|"G"G2 B2|"G"D4-|"D"D2 ||
+
+X: 39
+T:My 4|"D7" B2c|"G7"d2d d2d|
+"G"gfe dcB|"D7"d2d cBA|"G"G6||
+K:D
+|:"D"F/2G/2A/2B/2 cB/2c/2|"G"d/2c/2B/2c/2 Bd|"C"e3/2d/2 ce|"G"d3c/2d/2|"C"ed c2|\
+"Am7/c+"e3 -e2A|
+"D"dcd f2e|"G"d2e d2B|"D"A2F D2C||
+"G"DEF G2A|"G"Bcd "C"edc|
+"G"(3Bcd(3BAG "D7"(4A/4B/4c/4|"G"d/2D/2B/2A/2 "Em"B/2A/2G|
+"G"G/2A/2B/2c/2 G"D7"EF GA|"G"B2 "D7"A2|"G"G3D|"G"G3F||
+"G"B3/2^A/2 Bd|"Am"c3/2A/2 GE|"D7"A3A|"G"B3d|"C"c3/2d/2 dA|"G"Bc dd|"D7"A2 GA|"G"Bd dB|"A"c3/2d/2 cB|"A7"BA "D"d:|
+P:B
+c/2d/2|"A"e/2d/2c/2B/2 A/2c/2e/2c/2|"D"f/2d/2f/2d/2 "A"e/2A/2e/2A/2|\
+"D"d/2e/2d/2B/2 "A"A/2c/2B/2A/2|"D"F/2A/2d/2c/2 "G"B/2G/2B/2d/2|\
+"A"c/2A/2A/2c/2 A/2f/2e/2c/2A/2B/2c/2 "E7"dB/2d/2|"A"cA A:|
+P:B
+z|"A"e2 e/2f/2e/2d/2|"A"c/2B/2A/2c/2 "G"B/2A/2G/2B/2|"A"A4::
+"A"A/2A/4c/4 "G"G/4G/4B/4d/4|"G"g/4d/4B/4d/4 gg|\
+"D"d2A|
+"D"d2d/2e/2|gdB|
+def Agg|fed edc|d3 dcB||
+P:B
+A2|"D7"FA A2|
+"G"d3/2^c/2 de|"Em"dB GA|"Am"B3/2c/2 "D7"cB/2A/2|"G"GG "C"G3/2A/2|"G"BG Bd|"G/b"g2 "C"g3/2f/2|\
+"G"ef "G"gd/2c/2|"G"BG Ge/2d/2|"Am"cA "D7"Ad/2c/2|"G"BG G:|
+P:B
+g/2a/2|"G"b4|"Bm"a2 b2|"Em"g2g "A"e2|"D"df "A7"Af/2g/2|"G"ed dB/2A/2|"C"G/2A/2B/2c/2 "G7"dc|\
+"C"ed "D7"BB|
+"G"d2 d3/2e/2|"G"dB AG|B/2d/2 A/2G/2|"Bm"G/2F/2 "F#7"d/4c/4B/4^A/4|"Bm"B3/2||
+P:B
+de|"A"(3efe(3cBA "A7"A3/2G/2|"D"F2 "A7/e"A3/2B/2|"D/f+"Ad "G"ed|"D"Ad/2e/2 "G"dB|"A7"Ae/2c/2 "G"dc/2d/2|\
+"Am"e/2a/2^g/2a/2 "E7"e/2d/2c/2B/2|"A"Aa/2g/2 "D"f/2e/2d/2c/2|\
+"E7"B/2c/2d/2e/2 "A"cA|
+"A"AA/2c/2 "E7"BB/2c/2|"A"AA/2A/2 "E"BB/2B/2|"Am"AA/2G/2 "D7"A/2c/2B/2A/2|
+"G"G/2F/2G/2A/2 BB|"G"G/2F/2G/2A/2 BB|"C"cB/2c/2 "D7"A/2F/2D/2F/2|"G"GG G:|
+X: 77
+T:Lid/2G F2G|"F"A2A A2G|A2F D3|"G"dBG DGB|dBG d3|"C"EFG "G"D2c|"D7"BcA "G"G3::
+"G"dBG "Am"ecA|"G"dBG E2D|"C"EFG "G"D2c|"D7"B2A "G"G2d|"G"d2B "C"cBA|"G"GAG "C"G3|"G"b/2F/2|\
+"D"D/2E/2F/2D/2 "A"E/2D/2B,/2A,/2|
+"A"C/2C/4D/4"Em"e/2d/2 "Am"B/2A/2|"D7"F/2A/2 "G"G3/2:|
+X: 18
+T:The Ballydesmond Polkas No 2
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+G"D7"A ^GA-|AA BA|"G"d3/2e/2 d^c|dB GB|"C"c3/2B/2 ce|
+"G"dd dd|"G"ed d3/2e/2|"D7"dc AF|"G"G3::
+e/2f/2|"G"gg/2f/2 g/2f/2e/2d/2|"G"g/2f/2e/2d/2 "D7"f/2d/2A/2=G/2Am"c2A|
+"G"B3/2^A/2B|"B7"AGF|"Em"E2D|"C"E3/2G/2A|"G"B/2g3/2B|"D"ABd|"C"e2e|"A7"e3/2d/2c|"D"d3|"D"d2d "A7"AFG|"D"A3 f2g|"D"afd "Bm"B2d|"Em"e3 "A7"d2f|"D"d3 -def|"G7"g3 -g2G|
+"F"A2f ffA|"C"G2e e3|"G7"G^FG A2B|"C"c3 |"F"a3 a2^a|
+"C7"a=ga b2c|"D7"e2g fga|"Gm"g2b gdB|"F"A3 G3 F3 \
+"Em"E3 -F2E|"Bm"D2B, F2E|"Em"ede "B7"f2^f|"Em"g2e "D"a2f|"G"ede fdB|"G"BAB "D"d3|
+X: 256
+T:Queedle
+% Nottingham Music Database
+Y:AAB
+S:Kevin Briggs
+P:AAB
+M:4/4
+L:1/4
+K:G
+P:A
+D|
+P:B
+c/2B/2|:"Am"cBA|"G"GFG|"Bd "Em/d"cd/2B/2|"B7"c/2A/2B/2c/2 "E7"Poppaliona
+% Nottingham Music Database
+S:Chris Dewhurst (1982qE/2F/2 GF|"G"GB "D7"AF|"G"G3:|
+X: 44
+T:Johnny's Gone to France
+% Nottingham Music Database
+S:NPTB, via EF
+M:4/4
+L:1/4
+K:Em
+G/2F/2|"Bm"EF "A"EF|"G"G/2F/2G/2 BA/2G/2|"D"F/2D/2A/2F/2 "Em"EE:|
+
+X: 57
+T:Storne More (FeK:D
+(3A/2A/2A/2|"D"ff/2d/2 A/2d/2f/2d/2|"A7"A(3c/2B/2A/2 e/2A/2c/2A/2|\
+"D"df/2d/2 g/2d/2f/2d/2|
+"C"AB gB/2

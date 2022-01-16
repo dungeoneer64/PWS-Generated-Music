@@ -1,0 +1,111 @@
+X: 1
+T:song_name
+K:C
+P:A
+e|"C"ec "G"dcBG|"D7"B2AF D2||
+
+X: 61
+T:The Grindstone
+% Nottingham Music Database
+S:Bron McAskill, via EF
+M:4/4
+L:1/4
+K:D
+"D"A/2B/2d/2e/2 fe/2f/2|"Em"g/2e/2c/2B/2 "A7"Af/2g/2|"D"a3||
+
+X: 317
+T:The Cocky Polkass on
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+D/2G/2|AGA AGF|EC Jowl Cacpell (Feb agf/2|f/2| [1"A"dc "D"B||
+
+X: 2
+T:The Old [d8
+T:Thid"A"e2c ABc|"E7"d2B "A"ceg|"F#m"f2e "E"fed|"A7"ecA A2G|
+"D"FGA "A"ABc|"G"dcB "D"AFA|"G"Bcd "E7"cBA|"A"agaf "A"ecae|"D"fgaf "A"ecBA|"E7"Bdfe "A7"dcde|
+"D"(3ABAFA dfaf|"G"gaba gfed|"Em"cded cdBc|"C"(3dcBgB e2(3f/2g3/2f/2|\
+"C""F#m"ec "E7"ed|"Am"cA AB|"D7"c2 d3/2c/2|"G"ed c3/2B/2|"D"Ad "F#m"AF/2G/2|"D/f+"AB "Em7/g"gf|"A7"ed "D"fd/2de a2f|"A"ecA EAc|"D"dcd "EF/2|"G"B3/2:|[2 "G"Bc de|riggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+dc|"D"BcdA FAdf|"Em"gfe2 "A7"ABce|"D"df(3edc d2|
+X: 7
+T:Happupiagr
+M:4/4
+L:1/4
+K:G
+D|"G"BB/2c/2d|
+"Am"eAA c2d|"Am"eag e2d|"Am"eAA "D7"c2d|"G"BGG Gcd|"Am"ecA A2:|
+P:B
+A|"G"BAB dBd|"C"e/2f/2e/2d/2 B/2d/2e/2f/2|g/2a/2g/2f/2 e/2d/2^c/2e/2|\
+"Em"d/2e/2f/2g/2 "F#m"f/2e/2d/2c/2|"Bm"d/2e/2d/2c/2 "E7"B/2A/2G/2e7"c2A A^GA|"A7"[g3-A3-][gA]ec|
+"D7"d2c2 DGAB|"G"G2g2 g2g|"Em"eBe gfe|"Am"cBA A2:|
+X: 9
+T:Happy Dancy
+% Nottingham Music Database
+S:Joy
+M:3/4
+L:1/4
+K:D
+d/2B/2|"D"A2a aga|"G"bgg a2g|"D"fag fed|"A"cAc "E7"egg|"A"agf ece:|
+P:B
+ga|"G"gfge g2fe|"D"d2fd "A7"BGFG|"D"A2fa a2gf|"Em"e^def efed|"A7"cAce a2ag|"D"fgaf "A7/e"egfe|"D/f+"dfed "G"B2d2|\
+"A7"cBA2 A2:|
+X: 282
+T:Pidvinels Jan Moyn
+% Nottingham Music Database
+S:Kerrs/Eric Foxley
+M:3/4
+L:1/4
+K:A
+"E"CE B|"D"ABdf "A"ecAc|"Bm"dcdf "Em"gcc|"G"B/4c/4A/4|"D"[F2A2][GA]|\
+"C"[c2e2][df]|[eg][df]|"F"A2 B3/2A/2|
+"D7""f/2 B/2d/2|"G"g/2g/4g/4 e/2z/2|f/2f/2 f/2g/2|S:Mick Peat
+M:4/4
+L:1/4
+K:C
+"C"c2 -c/2B/2c|"B7"^d3|"Cm"e/2d/2e/2=f/2 g2|g/2e/2as, via EF
+Y:AB
+M:6/8
+K:G
+P:A
+d|"G"GAG BGB|"G"ded dBG|"C"cBc ege|"G"dBG "D7"ABA|"G"G3 G2||
+
+X: 110
+T:Indian Reel
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"DB,ic Database
+Y:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:G
+"G"GE DE|G2 G3/2A/2G|"G"G3^A|"G"BB Bd/2c/2|"G"BG DG/2A/2|"G"Bd "C"e/2g/2f/2e/2|\
+"G"dd/2e/2 d/2B/2A/2G/2|
+"Am"BA "D7"A(3B/2A/2G/2|"G"dd dd|d3c|"G"Bd "C"e3/2d/2|\
+"Am"cA A:|
+P:B
+e|"C"=g/2f/2e/2d/2 "E"d/2c/2B/2A/2|"A"e/2A/4a/4g/4 e/4g/4f/4e/4|d/2d/2 f/2f/4f/4|d/4e/4d/4B/4 G/2A/2|\
+"G"B/4A/4G/4A/4 B/2G/4A/4|
+"A7"c/2A/4c/4 B/2A/2|"D7"f/2a/2 ^g/4a/4f/4d/4|"G"d/2d/2 "C"e/2f/4e/4|\
+"G"d/2B/2 G/2A/2|"G"B/2B/4B/4 B/2B/2|"Am"A/2A/4A/4B/2c/2d/2|"C"e/2d/2e/2f/2 g/2b/2e/2g/2|\
+"D"f/2d/2d/2d/2 f/2d/2=d/2d/2|
+"G"B/2d/2g/2d/2 B/2d/2g/2d/2|"G"e/2d/2^c/2d/2 g/2d/2B/2G/2|"C"ce/2c/2 e/2g/2f/2e/2|\
+"D"d/2e/2f/2g/2 "A7"a/2b/2a/2g/2|"D"fd d::
+c/2d/2|"A"e/2c/2A/2c/2 e/2f/2a/2f/2|"A"e/2c/2 A/2c/2|\
+"E"B/2E/2E EB/2E/2|
+"Em"B/2E/2E E\
+ 8
+T:7 E2 e/2d/2=c/2B/2|A/2a/2f/2e/2c/2e/2|
+"F"f/2A/2c/2A/2 f/2A/2=f/2A/2|"F"a/2A/2c/2A/2 f/2c/2A/2c/2|\
+"F"F/2G/2A/2B/2 "D7"cd||
+K:G
+"G"bg/2b/2 "Gm"a/2g/2g/2b/2|"F"a/2g/2f/2a/2 "F"g/2f/2g/2e/2|"G/d"dB "D7"dB/2A/2|"G"GB/2d/2 g/2d/2B/2G/2|\
+"C"c/2e/2e/2d/2 B/2d/2e/2f/2|"G"g/2e/2"D7"c/2A/2 

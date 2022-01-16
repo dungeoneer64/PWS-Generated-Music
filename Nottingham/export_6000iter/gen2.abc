@@ -1,0 +1,94 @@
+X: 1
+T:song_name
+K:C
+M:6/8
+P:A
+|:A|"G"DGB "Bm"d2B|"Em"e2B "Bm"d2B|"D"ABd "G"g3|
+"C"gec gec|"G"d2B G3|"G"Bcd cBA|"C"GEC "G"DB/2d/2 "D7"e/2g/2a|\
+"G"d2 "C"g3/2f/2|"G"ed dB|"Am"c2 "D7"BA|
+"G"G3D|"C"EG GE|"G"DG B2|"D"A2 F2|"A7"AG GG|"A7"A2 AF|
+"Em"E2 GA|"B"Bd ^cd|"Em"e2 "E7"ed|"A"c3/2d/2 "A2|"D7"cB/2A/2 "G"GB|"Am"AA "D7"A/2B/2A|"G/b"GAB "C"cde|"G"ded dcB|"D7"A3 "G"G2:|
+
+X: 202
+T:Smas Wife
+% Nottingham Music Database
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+(3ABc|"D"dAFA "G"GBAG|"D"GFGA "G"BAGB|"Em"AGF|"D"fgaf "A7/c+"egfe|"D"d2f2 d2:|
+P:B
+cd|"A7"^cega gece|"D"dcdf "A7"ecAc|"D"dcdf "A7"b2ag|
+"D"f^e(3fga d2d2|"Em"e^d(3efg B2B2|"D"d2f2 d2:|
+P:B
+cd|"A7"ecAc ecge|"D"fdAd a2af|"G"gfec "A7"cABc|"D"ed"E7" edc|"Am"A3 -A2:|
+A|"A"ecA Ace|"D"fgf fga|"A"ecA EAc|"E7"B3 "A"A2::
+"F#m"a3 a3|"D"agf d2f|"A"f2e e2f|"A7"g3 eBc|"D"dcd "E7"B2c|
+"A"e2c a2g|"D"f3 "A"e2A|"D"dcd "A"ede|"F#m"f2g a2g|"Bm"fed "A7"edc|"D"d3 -d3:|
+
+X: 115
+T:Humours of Donnybrook
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+e2c |"A7"BAG F2C|"A"EA3:|
+P:B
+A|"D"d2D|"D/f+"d2e|"Em"d3/2e/2d|"A7"cAB|"D"A2F|"D/f+"d2c|"G"B2A|"A7"Bcd|"A7"e3|"A7"ee ec|"D"ed de/2f/2|"Em"gf ed|\
+"A7"cB AG|
+"D"FA "A7"Bc|"D"d/2c/2d/2e/2 "A7"dA/2G/2|
+"D"FA "A7"AA/2G/2|"D"F/2G/2A/2B/2 cf/2e/2|"G"dd B/2G/2B/2c/2|dd cB|"D"AD FA|"Em"GE "A7"E3/2E/2|"D"FE D2::
+"D"de f/2e/4f/4|"G"g/2f/2 e/2d/2|"A7"e/2^e/2 f/2e/4^d/4|"D"d3/2:|
+e/2f/2|"G"g/2f/2g/2a/2 "D"F/2A/2F/2E/2|"Em"E/2F/2G/2A/2 Bc/2B/2|"A7"AA/2c/2 "G"d/2B/2G/2B/2|\
+"Am"Ae/2A/2 a/2A/2e/2A/2|"G"g/2B/2d/2B/2 g/2B/2e/2B/2|"Em"Be/2B/2 g/2B/2e/2B/2|\
+"G"d/2B/2A/2G/2 "C"E/2G/2D/2E/2|"D"F/2G/2A/2F/2 D/2F/2A/2F/2|\
+"A"AA/2c/2 "F#m"B/2A/2F/2A/2|"Bm"d"A/2B/2c/2A/2 zf/2g/2|"D"a/2 c3/2A/2|
+"D"dd dD"ecd "A7"edc|"D"d3 -dd:|
+
+X: 147
+T:Mucking of Geordie's Byrd
+% Nottingham Music Database
+S:Brid Bradle Chepbakett
+M:4/4
+L:1/8
+R:Hornpipe
+K:Am
+P:A
+e|"Am"fe d/2e/2e/2d/2|"Am"eA A/2B/2c/2d/2|\
+"Am"eA a/2b/2a/2g/2|"D7"ed ce|"G"d4|"D7"DD F/2E/2D/2F/2|\
+"Em"GE "Bm"FD|"Em"E2 "A7"EC|"E7"E2 "A7"GE|"D"FD CD
+% Nottingham Music Database
+S:FTB, via EF
+Y:AB
+M:6/8
+K:Am
+P:A
+E|"Am"A2B c2d|e/2B/2A/2B/2 "D7"A/2F/2E/2D/2|
+"G"GD/2G/2 BG/2B/2|"G"d/2d/2d/2g/2 e/2d/2B/2d/2|"C"e/2d/2e/2f/2 gf/2e/2|\
+"G"dd/2e/2 d/2B/2A/2G/2|
+"Am"BA AA/2B/2|"Am"c/2A/2e/2A/2 c/2A/2e/2A/2|\
+"Am"f/2e/2d/2c/2 "D7"B/2D/2G/2A/2|
+"G"BB/2d/2 "D7/a"c2 "A7"Bc|"D"d|
+"C"EG "G"DG|"A7""g/2g/2e/2g/2 e/2c/2e|\
+"Bm"bb/2a/2 b/2a/2-B/2|
+G/2F/2E/2|
+"D"D/2F/2A/2F/2 BA/2F/2|"D"D/2A/2d/2e/2 ff/2e/2|"D"d/2e/2f/2g/2 "A7"a/2A/2c/2A/2|\
+"D"d/2c/2d/2e/2 "A7"f/2g/2e/2^g/2|
+"D"a2a AF/2a/2 fe|"D"ff f2|"D"f3/2g/2 "A"ge|"E7"B/2c/2e e2|
+"D"ab/2a/2 "A"f/2e/2c/2e/2|"D"df "A7"f/2e/2d/2c/2|"D"df d\
+:|
+K:A
+a|"A"aA"efecB cBA|"E"G2E EFG|"A"A23 -A2d|"Em"Beg "A"a2f|"D"e3 "D/f+"d3|"G"Bde f2e|"D"d3 -"A"A8
+K:A
+P:A
+g|"C"ece ceg|"F"a2a a3|"C"g2e "G7"fdB|"F"c3 c2:|
+X: 91
+T:Melange
+% Nottingham Music Database
+L:4
+B/2d/2|\
+"Am"(3c/2B/2A/2B/2G/2 "Cm"A/2G/2E/2D/2|"C/g"G/2F/2E/2D/2 "Cm"G/2A/2G/2E/2|"D/a"D/2F/2A/2F/2 BA/2F/2|\
+"D"D/2A/2F/2A/2 D/2A/2F/2A/2|"G"GB/2G/2 "A7"EF/2G/2|
+"D"A/2B/2d/2e/2 d/2

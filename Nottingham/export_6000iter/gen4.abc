@@ -1,0 +1,111 @@
+X: 1
+T:song_name
+K:C
+P:A
+G|"C"cBc GEG|"C"cBc "D7"Adc|"G"BGG G2:|
+P:B
+g|"G"gdg gdg|"G"gdg bag|"D7"fdf fdf|"D7"Aef ecA|"G"G2B/2A/2F/2 "G"G2A|"Em"B2B "D7"cBA|\
+"G"B2c "D7"dBA|"G"G3 -G3:|
+X: 22
+T:Bally's Fancy
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+P:A
+F/2G/2|"D"A2A A2f|"G"ede f2e|"D"d3 -"A7"d2A|"D"df fef "A/c+"efg|"Bm"fec "E7"B3|
+"A"Ace aeg|"D"ggf "A"e3|"F#m"Ace "E7"edcB|"A"c2A2 A3||
+X: 33.7
+T:Lads Wome
+% Nottingham Music Database
+S:Heather Bexon, via Phil Rowe
+M:6/8
+K:A
+E|"A"A2A c2B|"A"cBA ecA|"D"fga agf|"E7"fed "A"e2A|
+"D"FEA AFA|"G"BGB "A7"AFGE/2G/2B/2 A/2G/2F/2E/2|"Em"E/2d/2A/2F/2 G/2F/2A/2B/2|\
+"Am"A/2B/2A/2G/2 "D7"A/2^A/2B/2=B/2|
+"G"G/2F/2G/2B/2 dB2f|"G"gfg "D7"afd|"G"gbb "D7"aga|"G"bgg g2:|
+
+X: 325
+T:My Old Man
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:Am
+P:A
+cd|"A"e2A2 a3a|"D"g2f2 "A"e2dc|"D"f2dB "A7"A2FG|"D"A2F2 "F"arr Phil Rowe
+M:6/8
+K:G
+"G"d2B B3|B2B BAG|"G"ded "A7"cBA|"D"D2d "A7/e"A2e|"D"fgf fed|"G"gBB d2e|"D"faf gfe|"Bm"fba bgd|"G"bag "B7"f3|"C"ege "G"d3|
+"Em"bab "B7"b2a|"Em"gef "D7"gdc|"G"BGG dGG|Bdc BAG|
+"Am"EAA ABd|"C"efe edc|"E7"e3 e2d|"Am"cAA A2:|
+X: 36
+T:UAA/2A/2A/2 "A7"A/2c/2B/2A/2|
+"D"dd/2f/2 "A7"e/2c/2A/2F/2|
+"D"DD/2E/2 FE/2D/2|"D"F/2AF/2 A3/4B/4|A/2A/2 A/2F/2|D/4A/4F/4A/4 B/2A/2|"D7"f2f|"G"g2e "G"d2B|"Em"G2G GAB|"Dm"F2F "G7"DBc|"C"edc g|
+"G"G2d "G7"dc2d/2=d/2B/2A/2G/2 "G"F/2G/2A/2F/2|"G"G/2A/2B/2c/2 "D"dD/2C/4E/4F/2A/2 B/2A/2d/2e/2|\
+"Bm"f/2B/2B/2A/2 "G"B/2c/2d/2B/2|"A"A3"d3 A2G|"D"FDF "A7"EDB,|"D"D3 -D2:|
+
+X: 6
+T:As Luck Will Jig
+% Nottingham Music Database
+S:NPTB, via EF
+M:4/4
+L:1/4
+K:G
+de|:"G"d2 d^d|"C"eg eg|"D7"fe dc|"G"BA Bc|"G"d2 d3/2B/2|"Am"BA "D7"AG/2A/2|"G"Bd g3/2f/2|"C"ed d2|\
+"Am"d/2c/2B/2c/2 "D7"Ad/2c/2|
+"G"B/2d/2g/2d/2 "D"c/2A/2d/2A/2|"A"cA A:|
+X: 55
+T:Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+"G"D/2E/2 G/2A/2|"G"d3/4e/4 d/2B/2|G3/2B/2:|
+d/2A/2 e/2A/2|"D"d "Em"e3/4f/4|"A"e/2d/2 "D"d:|
+X: 65
+T:Lullaby
+% Nottingham Music Database
+S:Bring Fand, via PR
+M:4/4
+L:1/4
+K:G
+A|"G"B/2^A/2B =Ge/2d/2^c/2d/2|"A"ea gf|"A"e2 de|"D"ff fe|"G"ed Bd|"Am"eA AB|"A7"cA c/2B/2A/2G/2|
+"D"FA/2F/2 F/2A/2A/2F/2|"G"GE/2G/2 GB/2G/2|"D"F/2E/2D/2F/2 D/2F/2A/2F/2|\
+"Em"G/2F/2E/2F/2 "A7"GA/2G/2|"D"FD Dz::
+"D"f/2a/2b/2a/2 f/2e/2d/2f/2|"A7"e/2f/2g/2e/2 "D"d/2A/2F/2A/2|\
+"D"A/2F/2D/2F/2|"D"A/2F/2d/2c/2 F/2A/2d/2f/2|\
+"A7"e/2d/2c/2B/2 A/2e/2f/2g/2|
+"D"af/2g/2 af/2g/2|"A"a/2b/2a/2f/2 "G"g/2a/2b/2g/2|"D"D/2A/2 f/2A/2(3A/2A/2d/2|\
+"G"B/2d/2g/2d/2 B/2d/2g/2d/2|"G"e/2d/2B/2d/2 "D"AA/2B/2|
+"G"g f/2e/2d/2c/2|"G"BG "C"E3/2D/2|"G"G2 d2::
+"C"e/2c/2G/2c/2 e/2d/2c/2B/2|c/2a/2g/2e/2c/2A/2 EF/2G/2|"D7"A/2B/2A/2G/2 FA|"A7""Em"G/2A/2G/2F/2 "A7"EC|"D"D2 D:|
+
+X: 45
+T:On The Wedding Aboug
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:C
+"C"G, bage "E7" Sackecter
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+f/4g/4|"D"a/2a/2 f/2e/2|d "Bm"f3|"C"efg "G"dBG|"G"G2A Bdc|"Am"BAG "D7"A2d|
+"Em"g3 "Bm"f3|"C"efg "G"dBA|"Em"BdB "Am"A3:|
+X: 25
+T:Bill Cheetham
+% Nottingham Music Database
+S:RSCDS 23/1, via EF
+Y:AB
+M:6/8
+K:F
+P:A
+A|"D"

@@ -1,0 +1,89 @@
+X: 1
+T:song_name
+K:C
+P:A
+|:(3G/2A/2B/2|"C"c/2d/2c/2B/2 "D7"A/2G/2E/2F/2|
+"G"G/2A/2B/2c/2 "A"A/2e/2c/2A/2|"D"dA/2A/2 "A/c+"c/2c/2A/2c/2|\
+"G"B/2A/2G/2B/2 "D"A/2G/2F/2G/2|"D"A/2d/2d/2d/2 "A"c/2d/2e/2c/2| [1"D"d/2B/2A/2F/2 Dc/2d/2|\
+"A"ec/2A/2 "A7"G/2A/2c/2e/2|"D"dA/2d/2 "A7"c/2G/2A/2F/2|
+"D"DD D/2E/2F/2Se
+Y:AABBCBCB
+S:Abiambith Winds
+% Nottingham Music Database
+S:Mick Peat
+N:/f2AABA last time through/fP
+Y:ABABBABBABABBABBACCCA
+S:Bledington
+Y:AB
+M:4/4
+L:1/4
+K:Am
+P:A
+e/2d/2|"Am"cB/2c/2 Ae/2^f/2|"Am"e/2d/2c/2B/2 c/2d/2e/2f/2|"G"g2 g:|
+K:D
+A|"D"FA/2A/2 AF/2G/2|Bd d/2e/2d|"D"Ad "A7"f/2e/2d/2c/2|"D"d2 "A7"d/2e/2f/2g/2|
+"D"a/2f/2d/2f/2 aa|"G"b/2g/2f/2e/2 "D"d/2g/2a/2g/2|"D"f/2d/2A/2B/2 "C"=c/2G/2E/2G/2|\
+"A7"E/2F/2E/2G/2 "D"F2A "D7"dfg|[1"Bd/4F/4|"Gm"G/2D/2 "DC/abase
+Y:AAB
+S:EF
+M:6/8
+K:D
+A|"D"d2d d2d|"D"d2d d2d|"A7"e "E"e3/2d/2|"A"c3"A"e|"D"f/2e/2"E7"B/2|
+d|"C"e/2c/2e/2g/2 f/2e/2d/2e/2|g/2e/2d/2c/2 B/2d/2e/2f/2|\
+"C"g/2a/2g/2e/2 "G"d/2B/2G/2B/2|"Am"A/2B/2A/2G/2 E/2D/2G/2A/2|
+"G"B/2d/2B/2d/2 B/2A/2F/2E/2|"D"D/2F/2A/2F/2 "A7/2B,/2C/2D/2G/2|"D7"A3/2B/2A/2G/2|
+"G"B2|"C"GEm"g2g2 "D7/f"f2f2|"Gm"def2"F7"cBcd2"F/a"cde2|"Bm"B2^d2 "D"fed2|"A"c2A2 "E7"AcBd|\
+"A"c2c2 "D"cedf|
+"A"eA(3ABA "G"BcdA|"D"(3ded|
+"D"FDFA "G"BA(3Bcd|"A"edce "G"deBA|"D"AdAF "G"G2:|
+P:B
+"G"Bdge dBG ECE|"A"A3 -A2E||
+"D"D3/2F/2A d3/2c/2B|"D7"AGF AGF|"G"DGG BGB|"G"def gdB|"Am"cBc "D7"Adc|"G"BGG G2:|
+P:C
+d|"G"dcB BAG|"D7"F2A e2c|"G"ded "D7"c2d|"G"B3 G2:|
+P:B
+d|"G"e2d B2G|"D7"c2A F2e|"G"g2g g2f|"A7"efe dcB|"Am"cAA A2:|
+P:B
+B|"Am"A2a a2^f "A7"ga^g|"D"a^gab agf/2g/2|
+"D"afd "A"ecA|"E7"B3 "D"A2F|"A7"A3 -ABc|"D"d3 "F#m"A3|"Bm"Bcd "Em"edB|"G"d/2c/2|"D"d/2e/2f/2d/2 "A7"e/2d/2f/2a/2|"D"G"Bm"d3::
+f/2g/2|"D"a/2f/2dB ded|"A7"cde ABc|"D"dcd "A"ede|
+"D"f2a a^ga|"D"f2a d "E7"AGF|"Em"EG/2|\
+"A"c/2e/2A/2c/2 e/2c/2c/2c/2|"A"E/2A/2c/2A/2 e/2A/2c/2A/2|"E7"B/2G/2E/2G/2 "A"A:|
+K:A
+"A"aa/2g/2 f/2e/2d/2c/2|"D"d/2e/2f/2d/2 "A"A(3A/2B/2c/2|\
+"D"dd "D"f/2d/2f/2d/2|"Em"e/2d/2c/2d/2 "A7"ed/2e/2|
+"D"fd dA/2d/2|"G""Em"ee/2f/2 "A7"e/2d/2e/2c/2|[1"D"dd B:|
+K:D
+P:BC dg|\
+K:D
+"D"f/2d/2d/2d/2 f/2d/2d/2d/2|"C"e/2d/2e/2f/2 gB/2c/2|\
+K:G
+K:G
+"G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2c/2B/2A/2 "G"GB/2c/2||
+K:A
+"A"e2 e/2A/2c/2B/2|"A"A/2B/2A/2F/2 "A7"Ad|"D"D3/2F/2 A/2B/2A/2F/2|\
+"C"G/2F/2E/2F/2G/2B/2 dB|\
+"C"e/2d/2c/2e/2 "D"d/2c/2d/2c/2|"G"B/2c/2d cd/2c/2|"G"B/2=c/2B/2A/2 G2|"G"B2 "D7"A2|"G"G3"D7"A|"G"BG AG|BG AG|"Em"BG AG|"B7"F2 E2|"Em"E2 "D"D2|"G"G3/2G/2 Bd|"D"A3G|F3/2E/2F GFE|"G"DGB "Em"d2ed|"A7"c/2c/4
+L:1/4
+K:D
+"D"A2 A2-|"A7"BG cd|"D"f2 d2|"Em"g2 f/2a/2b/2a/2|\
+"A7"f/2d/2e/2c/2 "D"d/2e/2f/2g/2|
+"D"afdH:B
+g|"Em"efe edB|"G"gbge "B7"fga^f|"Em"e2B2 "D"BAG2|"A"EA7"edc|"G"B2G G2:|
+P:B
+d|"G"edd gdd|"G"Bdd gdd|"C"edc "E7"Bcd|"Am"ecA A2f|
+"Em"gag "D"agf|"Em"geg g2a|"Am"AAA "D7"A2B/2c/2|"G"d3 -G2G|dc|"D7"d2
+T:Lord Wellington
+% Nottingham Music Database
+S:Bob McQuillen Jan 1977, via PR
+M:4/4
+L:1/4
+K:G
+P:A
+d/2c/2|"G"BB/2c/2 "D7"AA/2B/2|"G"GG GA/2B/2|"C"c/2B/2A/2G/2 "D"FD|\
+"G"G2 "D7"d2|
+P:C
+K:D
+P:B
+|:f|"D"A2d "A"F2E|"D"FEF "G"G3|"Em"G2B "D7"A2G|"G"G3 -G2A||
+"G"B2A B^cd|"D7

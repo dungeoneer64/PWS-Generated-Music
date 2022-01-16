@@ -1,0 +1,95 @@
+X: 1
+T:song_name
+K:C
+G|"C"(3edcG2 (3edcAG|"Dm"FGAB "Gm"g2ag|"D7"fefd "G"gfgb|"A7"agfe "D7"defd|
+"G"gfgd "C"e2"d2dB|"Am"ce -"D"d2|"C"c'ge "D7""D"D2^F|"G"G2e | [1"E"eag bg:|
+X: 326
+T:The Widow Mage|
+"G"b/2d/2b/2b/2 -b/2d/2g/2^e:|
+"A"c/2e/2A/2A/2 "G"B/2c/2B/2G/2|"A"A/2B/2c/2d/2 e/2f/2e/2d/2|\
+"A"c/2A/2B/2c/2 "D"dd::
+"D"ag fe|"G"ee ed|"A7"cA Bd|"D"DD D/2E/2F/2G/2|A/2|G/4A/4B/4c/4 d/2g/2|d/2B/2 B/2g/2|d|
+"G"edB "D7"ABc|"G"d2d Bcd|"C"dce "G"dBG|"A7"A2G G3|"A7"GcG C2E|"D"D3 -D3||
+"Em"EFG BAG|"Em"B2E F2E|"Bm"D3 -D2F|"Em"E2E G2A|"G"B2^G "D"A2F|"G"G3 z2F
+"G"DD D/2E/2F/2G/2|A/2^G/2A -A/2A/2B/2c/2|"D7"dd A/2c/2B/2A/2|"G"GB G:|
+
+X: 43
+T:Freds Frolics
+% Nottingham Music Database
+S:C|||:A2 d3/2d/2|\
+"G"cB "D"AF|"Em"G3/2F/2 "A7"GC| [1"D"D2 D2:|[2"G"G2 Gc/2c/2||
+|:"D"FA A/2B/2A/2G/2|"D"FB "A7"AG|"D"F/2G/2A/2B/2 cD/2D/2|"D"D/2E/2F/2D/2 "G"G/2B/2A/2G/2|"D"F/2D/2F/2D/2 "G"G/2e/2d/2c/2|
+"G"B/2d/2d/2g/2 "C"ed/2e/2|"G"d/2B/2g/2B/2 d/2B/2 a/2c/2a/2^A,/2|"C"G/2A/2c/2d/2 "Am"e/2f/2g/2e/2|\
+"D7"d/2g/2^f/2a/2 "G"g(g/2a/2)|"G"gd "D7"ed/2c/2|"G"BG G2:|
+|
+"G"GB/2c/2 dd|"C"e/2g/2f/2e/2 "G"d/2B/2G|"A7"A/2B/2c/2d/2 e/2g/2f/2e/2|
+"D"dB AA/2d/2|"A7"c/2d/2e/2c/2 "D"d:|
+P:B
+|:d/2e/2|"D"fd/2f/2 d/2f/2d/2f/2|"D"ff fe/2d/2|\
+"G"dB "D"AF|"Em"E2 "A7"(3GFE|"D7"D2 dc|
+"G"B3/2A/2 GB|"Am"A/2G/2A/2B/2|"D"AD/2F/2 A/2F/2D/2F/2|"D"Ad "G"dg|\
+"D"af/2g/2 a/2f/2d/2e/2|"D"f/2e/2d/2B/2 "A7"AB/2d/2|\
+"A7"A/2F/2E/2F/2 G/2F/2E/2G/2|\
+"D"F/2A/2d/2e/2 fd|"A7"c3/2d/2 d/2e/2f/2g/2|
+"D"a3/2f/2 df|"Em"ge "A7"c/2d/2e/2g/2|"D"f/2e/2d/2B/2 "A7"AA|"D"f/2|"A7"a3|\
+"D"df/2f/2 "A7"g/2e/2c/2e/2|"D"df d:|
+
+X: 43
+T:Fieldtornie Hornpipe
+% Nottingham Music Database
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+d|"G"gd "G7"dd|"C"c/2B/2AG|
+"A"=gfe -efe|"A"f2e -ec|"F"f3 f2e|"G"ded BAG|
+"D7"A2F A2d|"G"d2G GAB|"C"cdc "G"BAB|
+"C"cde "D"FGA|"D"A3 "D7"ABc|"G"dcB "D7"cBA|"G"G3 G2:|
+
+X: 103
+T:Freds Frolics
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+FG|"D"A2 A3/2B/2|A^G Ad|"G"B2 B3/2c/2|"E"Bd -d2|dF FB|"G"d3/2e/2 fd|"A"c3/2d/2 cB|"A7"AF G^G|"D"Af -f/2e/2d/2e/2|f2 d2|G
+P:BAAB
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+D/2|"G"G/4A/2B/4 A/4G/4F/4A/4|\
+d/2|"Bm"f2^d d2f|
+"Em"g2e "D"a2f|"Em"g2B Bed|"A7"B2c A2e|"D"f2d AFA|
+"G"G3 "C"g2e|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BGG G2:|
+P:B
+|:f|"G"ggg gdB|"G"ddB "C"c3::
+"F"A2G "Dm"F2F|"Bb"G2F|"Bb"D2C|"F"C3-|"C7"C3|"F"A2A|"F"A2G|"F"A2B|"F"c3|
+"Bb"d3/2c/2B|"F"A/2G/2F/2E/2|"G7"DCD|"C"G2"F"F|"G"G3:|
+
+X: 47
+T:Summer Lightar
+% Nottingham Music Database
+S:Wolfstone Arr Hamish, via EF
+Y:AB A2g|
+"Bm"fdf "A7"ecA|"D"dfA d2A2g :|
+P:B
+|:"D"FDF FDF|"G"GEG GEG|"D"ABc dcB|"A"ABA "A7"GEC|"D"D3 -D2:|
+
+X: 72|
+|"D"dcd F2d|"A7"cde A2G|"D7"FGA Ddc|"G"B3 "D7"G2D|"G"G2B "D7"A2c|"G"B3 e2f|"G"g3 -g "A"cAc|"G"Bdd "D7"Adc|
+"G"G2B "D7"def|"G"g2g g2f|"A/2e/2f/2|ge d/2e/2g/2e/2|"G"dB d2|"D"cA Af|"Em"gf "A7"ef/2g/2|"G""D"Af f/2e/2f|"G"Bg g3/2a/2|"C"ge "G"dB|"D7"cA "G"B^c|"D7"dF Fd-|"G"G4-|\
+"G"G ||
+X: 66
+T:Lady of Ardry (uf Caminge
+% Nottingham Music Database
+S:Bothy Boys
+Y:AB
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+(3fg^g|"D"a^gaf d2g2|"D"dfaf d2ga|"G"bagf "A7"edcBG|
+"D"(3ABAF

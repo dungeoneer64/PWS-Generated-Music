@@ -1,0 +1,122 @@
+X: 1
+T:song_name
+K:C
+G/2A/2|"G"Bd dB|"C"cc e/2d/2c|"G"B2 d2|"G"g2 a2|"G"b2 a2|"G"b2 ag-|"G7"g3g|"C"g3a g2|
+C/2|"G"GG G\|"A"E2A "E7"A2G|"A"A2B "A7"ABc|\
+"D"d3 "D7"d3|
+"G"ggg gdd|fBd fed|"A7"e2A ABc|
+"D"d2d dcd|"G"B2d "A"ABc|"D"d3 :|
+
+X: 22Seam-Shaw
+M:3/4
+L:1/4
+K:G
+P:A
+D|"G"GG "D"A/2G/2F/2AF"d GA/2B/2|"C"c/2B/2A/2G/2 "D7"F/2G/2A/2^A/2|\
+ [1"G"G3:|[2"C"c3 || [2"C"edc cde|"F"f2c A2F|"Gm"GAB "C7"cde|"F"f3 ||
+:F"f2e/2f/2|"Em"g3/2f/2B|"A7"A2f|\
+"D"e/2c/2A/2c/2 f/2ce/2 d c/2A/2B/2c/2|"D"dd "Bm"A/2B/2c/2A/2|\
+"Em"ee/2f/2 "A7"g/2b/2a/2g/2|"D"fa/2f/2 d/2f/2a/2f/2|"Em"g/2f/2e/2f/2 ge/2f/2|\
+"A7"g/2f/2e/2d/2 c/2e/2a/2f/2|"A7"e/2d/2c/2B/2 A/2B/2c/2A/2|
+"D"d/2c/2d/2e/2 d/2e/2f/2d/2|"A7"e/2d/2e/2f/2 e/2f/2g/2e/2|\
+"D"fd "A7"a2|
+"D"fd "A7"ed "F"c2=c| "G"B2g "D"B2A|"G"G3 G2||
+
+X: 271
+T:Dow aven rig
+% Nottingham Music Database
+S:Mick Peat
+Y:ABBC
+M:4/4
+L:1/4
+K:D
+P:A
+D/2E/2|"D"FD "A7"C/2D/2E/2G/2|"D"AA/2B/2 "A7"c/2d/2e/2c/2|"D"d3A/2c/2||
+"Bm"B/2c/2B/2c/2 df|"Em"g/2e/2a/2f/2 g/2f/2e/2d/2c/2A/2 E/2F/2A/2B/2|cc/2c/2 c/2B/2c/2d/2|\
+"G"=B/2G/2B/2d/2 "A7"g/2e/2d/2c/2|"D"dz||
+X: 53
+T:Bonny Breast Knot
+% Nottingham Music Database
+S:NPTB
+M:6/8
+L:1/8
+K:G
+P:A
+d|"C"efg g2e|"C"dBG "D7"A2G|"G"GBd g2:|
+P:B
+d|"G"g3 g3||
+X: 224
+T:Oh Ereakdown
+% Nottingham Music Database
+S:John Goodacre 1983, via PR
+M:4/4
+L:1/4
+K:D
+"D"dc df-|fe df|"F#"e2 c2-|c4|"G"B^A Bd-|dcB|"D7"B2A|"G"G2||
+X: 33
+T:Piddy Wate
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:G
+e/2f/2|"G"gg/2f/2 g/2f/2e/2f/2|"G"g/2f/2g/2g/2 "G"e/2d/2B/2c/2|\
+"G6d/2 "D7"e/2c/2A/2=g/2|
+"G7"K:C
+G/2|:"C"c/2d/2e/2c/2 "G"B/2d/2d|e2d|"C"ceg|"C"g2f/2e/2|"G"d3/2c/2B|"D7"AGA|"Em"B2A|"A7"B2c|"D"d3-|"D"d2||
+X: 39
+T:Flowers of Eing
+% Nottingham Music Database
+S:Alistair Anderson
+M:3/4
+L:1/4
+K:G
+G/2A/2|"G"B3/2B/2A/2G/2|A/2B/2G/2A/2B/2A/2|[1"A7"A2G|"Am"E2A|"Dm"FDD E2(3DEF|
+"G"G2GB "D7"AGED|"G"G2gf "C"g2ed|"G"g2 g2g2||
+
+X: 4
+T:Gingerhog's Newhion and Nod2d/2|"C"c/2e/2g/2e/2 "G"d/2B/2G/2B/2|\
+"Am"cA A::
+A/2B/2|"D"dc/2d/2 "A7"ec|"D"d3d|"Em"eB B2|"Em"Be/2d/2 -d/2B/2d/2B/2|"Am"c/2d/2c/2B/2 "D7"A/2D/2F/2A/2|\
+"G"G2 G4|
+"E7"E2 ef"cd ec|[1"D7"B3 "D7"A3|"G"G2B "D7"A2c|
+"G"BdB G3::
+B/2c/2|"G"ddd dBd|"G"BGG GAG|"G"BGG dFG|"Am"
+T:Cuckoo on The Fence Wattain
+% Nottingham Music Database
+S:Coint Wailor, via EF
+M:4/4
+L:1/4
+K:D
+aaf|"D"agf "G"bag|"D"f3 "A7"gF/2G/2A/2F/2 "G"G:|
+
+X: 93
+T:Ed, C via EF
+M:4/4
+L:1/4
+K:Am
+P:A
+E|"Am"A2B|"Am/c"cBA|"Dm"ed/2c/2B/2A/2|"E7"B2E|"Am"A||
+X: 47
+T:Slow March for Pipers
+% Nottingham Music Database
+Y:AABB
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+P:A
+d|"D"AFG A2d|"G"c2B B2A|"Em"e2 "A"e|"D"Adc "G"BGB|"D"cAF "D"A2:|
+P:B
+|:a/2g/2|"D"faa "A"eaa|"D"fed "A"cBA|"Em"dcd "A"efg|"D"fdf "A"ecA|
+"D"ded "A"cBc|"E7"B2A GFE|"A"A3 A3|
+"A"Ace gec|"D"Adf agf|"A"eaa caa|"E7"bcB e2d|
+"A"eAA efe|"D"fga agf|"A"ecA EAG|"D"F2E DEF|"Em"E2F G2B/2c|"D"dgf "E7"e2d|"A"cec "G"B2G GAB|"D7"A2F DEF|"G"G3 G2:|
+X: 108
+T:Haste To 1"A"eaba "D"fefd "A"e2dc|"Bm"B2B2 "B7"BBA2|
+"E7"Bcde dBGB|"A"Aceg a2eg|"D"afdf "A"ecAc|"B7"BAGF "E7"E2|
+df|"Em"gBB:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3DEF|"G"G2B/2 "A7"c/2d/2e/2

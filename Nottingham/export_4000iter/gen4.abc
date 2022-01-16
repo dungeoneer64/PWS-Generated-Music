@@ -1,0 +1,104 @@
+X: 1
+T:song_name
+K:C
+G"G2 Bc|"G"d2 cB|"D"A2 A2|"G"Bg g2/2|
+"D"f/2a/2b/2a/2 f/2g/2e/2f/2|"G"g/2f/2e/2g/2 "D"f/2e/2d/2c/2|\
+"E7"B/2G/2B/2G/2 "A7"g/2f/2e/2d/2|"D"A/2f/2A/2f/2 d/2A/2F/2A/2|\
+"G"d/2B/2e/2B/2 d/2B/2c/2B/2A/2G/2 "D"FD|"D"A/2^G/2A/2B/2 AD|"D"d/2c/2d/2e/2 "A7"dA/2G/2|
+"D"FA dc|"G"B/2A/2B/2c/2 "Em"e/2f/2g|"D"Af/2|\
+"D"A/2G/2A/2B/2 "G"GB/2c/2:|
+K:G
+|:"G"d/2G/2B/2d/2 gg|"D"f/2a/2f/2d/2 "Em"e/2d/2B/2d/2|"A7"eA Af/2g/2|
+"D"a/2A/2g/2A/2 af/2g/2|"D"a/2gf/2 g3/2b/2|"D"a3/2f/2 ag/2f/2|"Em"ag "A7"fd/2e/2|"D"ff "Bm"dA||
+
+X: 28
+T:Old Joe Clark 1
+% Nottingham Music Database
+S:Mick Peat
+N:"Freeto anam 4
+"A"e3/2f/2e|"D"DFA|"D"FADF A2|
+"D"fe|"G"dB "C"g3/2f/2|"G"ed/2e/2 "C"fe|"G"d2 "Em"B3/2A/2|\
+"Am"E3/2G/2 "D"FG|"A7"A2 "D7"d2|
+"G"dB/2c/2 dB|"A7"Ac cd|"D7"g2 -a/2g/2e/2f/2|"G"g/2B/2d/2B/2 "Am"A/2B/2A/2G/2|\
+"Em"BE "D"G:|:
+"B/2A/2B/2G/2|"D"AG/2F/2 "E7"E2:|
+X: 44
+T:The Gorder Seam
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"gba "C"gfe|"G"d2B GBc|"D"d2A "Bm"ABA|"Em"G2G G2g/2a/2g/2  fe|"G"d/2B/2G/2B/2 dd|BAcA|"A7"GFE E2e|"D"f2d "Bm"A2F|"Em"ABA "A"Aef|"Em"gfe "D"d3::
+"F#7"c2e a2g|"Bm"f2d "E7"B2d|"A"c2A AGA|"E7"c2B "A"A2A|
+"E"GE2 EFG|"A"A2A FGA|"G"B2c "D"d3|"D"d2F FEF|"G"G2B "D"A2d|"A"cde A2e|"D"[f3-A3-]|\
+T:Sail Wip Jig
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+A|"D"d2d "B2 cAF|E2F A2D|"Em"GFG "D7"A/2F/2D/2F/2|"G"A/2B/2d/2e/2 "D7"dB/2c/2|"G"dB3/2d/2|"G"gg g/2e/2g/2e/2|\
+"Em"d/2e/2g/2e/2 "D"fg/2a/2|"G"bb/2g/2 "Am"a/2g/2e/2^f/2|\
+"Em"gg/2g/2 e/2d/2B/2d/2|"Am"e/2d/2e/2a/2 "Em"e/2d/2B/2d/2|\
+"Am"e/2d/2e/2a/2 "D7"d/2c/2B/2A/2|
+"G"G/2F/2G/2A/2 GB|"A"c/2d/2e/2c/2 A:|
+
+X: 43
+T:Bott on the Tynpipe
+% Nottingham Music Database
+S:Fered Haverian, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+P:A
+"F#m"A3/2A/2 AB/2F/2|"E7"EE c3/2B/2|"A"Ac/2e/2A/2d/2 b/2g/2e/2g/2|
+"D"f/2e/2d/2c/2 "G"B:|
+
+X: 46
+T:East Tennessee Blues
+% Nottingham Music Database
+S:Playford
+Y:AB
+M:6/8
+K:G
+P:A
+B/2c/2|"G"d2d dge|"G"d2B GBd|"C"E2E "Am"E2c|"E7"B^AB e2d|"Am"c3 -cBA|"E7"B2^G2E|
+"D"FDF "C"=CCEC|"D"DED DEG-|"D"FA d^c|"G"d2 B2-|"G"G2 Bc|"G"d2 D2|"G"G4-|GA Bc|
+"G"dd cB|"C"c2 e2|\
+"A7"f2 A2|
+"D7"c2 Bc|"G"d2 dc|"G"B2 "D/f+"e2|"Em"G2 G2|"A7"F2 F2|"D"A4-|A4||
+"Em"B2 B3/2B/2|BA2A/2B/2 dF/2A/2|"C"G/2F/2E/2D/2 "A"C/2D/2E/2G/2|\
+"D7"F/2A/2D/2F/2 "G"G:|:
+(3G/2A/2^A/2|BB/2A/2 B/2c/2d/2e/2|gdvick
+% Nottingham Music Database
+S:Lloyd Dolman, via EF
+M:6/8
+K:Am
+E|"Am"e2d cBc|A2E A^GA|"E"B2E B^GB|efe dcB|
+"Am"A2 "A7"A2|
+"A7"e^de a^ga|"D"fga "Bb"_edB|"C"faa bag|"E7"feB "A7"Afg|
+"D"afd "G"gab|"D"aga "G"b3|"C"ede a2e|"D7"dcB AGF|"G"G6||
+"G"B2G "D/2|"C"c2c cBc|"F"f3 -f2|"G"B2B Bcd|"C"e2e e3|\
+"G"def gdB|"D7"A3 "G"G3:|
+
+X: 5
+T:The Flowers of Edins a Sawveries
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+d/2e/2|"D"f3 fgf|"e2d def|"Em"gfe "D"dBA|\
+"G"G6||
+
+X: 19
+T:Harper's Fancy
+% g2 "D7"
+e/2f/2|"G"g/2a/2g/2f/2 "Em"e/2d/2c/2B/2|"D"A/2F/2D/2F/2 A/2F/2D/2F/2|\
+"G"B/2A/2G/2F/2 EG/2A/2|
+"Em"B/2E/2E/2d/2 BA/2G/2|"D"F/2D/2A/2D/2 FD/2F/2|"G"A/2F/2=F/2A/2 e/2d/2^c/2e/2|\
+"A"f/2a/2g/2e/2 "D"d||
+
+X: 60
+T:Kiss Me Quillel
+% Nottingh

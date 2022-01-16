@@ -1,0 +1,93 @@
+X: 1
+T:song_name
+K:C
+P:A
+G|"C"EGG AGG|"C7"G^FG A2G|"D7"^FGA D2G|
+"C"E2G BAG "G7"GAB|"C"c2c cde|"F"f3 -f3:|
+X: 69
+T:Chicken On The Lan
+
+M:4/4
+L:1/4
+"F#m"ABA "E"GFE|"A"E3 "E7"e3:|
+
+X: 7
+T:Nancy
+% Nottingham Music Database
+Y:AABA
+S:McCuskers
+M:4/4
+L:1/4
+K:D
+P:A
+A/2F/2|"D"DD/2E/2 Fc/2A/2|"D"df/2d/2 A/2d/2f/2d/2|"A7"g/2f/2e/2d/2 c/2d/2e/2c/2|\
+"D"fd/2f/2 -f/2d/2f|"A7"e/2f/2e/2d/2 c/2d/2e/2f/2|
+"D"f/2g/2a a/2g/2e|d "C"c2B|"F"AcB "D7"AGF|"G"GAB "C"EFG|"Am"A3 "D7"G2D|"G"GAG BGB|"G"ded Bdg|
+"C"f2e c2e|"G"ded "D7"B2A|"G"G3 G2||
+
+X: 295
+TheSB|"E7"B/2A/2B/2^G/2 E "D"dg|"D"ag/2a/2 "A"g/2f/2e/2d/2|\
+"Em"B/2e/2e/2d/2 "A7"c/2B/2A|"D"d3/2e/2 "A7"f/2e/2e|
+"D"D(3D/2E/2F/2 D/2F/2A/2F/2|"G"GB/2G/2 "A7"E/2F/2G/2E/2:|
+K:D
+|:"D"FD/2F/2 FD/2F/2|"D"F/2A/2D/2F/2 "A7"Ad|"D"D3/2F/2 A/2B/2A|"G"G2 ||
+X: 19
+T:Whisbith Quickstep
+% Nottingham Music Database
+M:4/4
+L:1/4
+K:D
+P:A
+d/2e/2|"D"f/2a/2f/2d/2 "A7"e/2g/2e/2c/2|"D"ed d:|
+P:B
+f/2e/2|"D"d/2f/2a/2f/2 d/2f/2a/2f/2|"Em"gg/2f/2 e/2d/2c/2B/2|"A7"Ae/2c/2 A/2g/2e/2c/2|"D"d3:|
+X: 80
+T:McQuillen's Squeezebox
+% Nottingham Music Database
+S:McCuskkook, via PR
+M:4/4
+L:1/4
+K:G
+(3D/2E/2F/2|"G"GG/2F/2 G/2A/2B/2c/2|"G"d/2B/2e/2B/2 d/2B/2A/2G/2|\
+"Em""e/2d/2e/2f/2 g/2f/2g/2a/2|"Am"b/2efAF|EA|"D"f2f fed|"D7"f/2a3/2d f/2a3/2d|f3/2g/2f/2a/2 ec|d3/2c/2 BA|"G"B3/2c/2 Bc/2B/2|\
+"A7"AB c/2B/2c/2d/2| [1"A7"c/2d/2e/2f/2 "D"d::
+f/2g/2|"D"a2 Ac|"G"Bg fe|"Em"d/2c/2B/2c/2 "A"A3/2B/2|"A7"A/2B/2c/2d/2 e/2g/2f/2e/2|\
+"D"ff f/2g/2f/2e/2|"D"dd ef/2g/2|"A"f/2e/2d/2c/2 "E7"e/2f/2|
+"A7"e/2c/2A/2e/2c|"D"d3-d2-d/2A/2d/2e/2 f/2d/2e/2f/2|"G"g/2f/2g/2a/2 "Em"ge/2d/2|\
+"Am"e/2a/2a/2g/2 a/2b/2a/2g/2|"E7"fe/2c/2 e/2d/2c/2B/2|"Am"cA A::
+e/2f/2|"C"gg/2a/2 g/2f/2e/2f/2|"C"g/2f/2e/2c/2 "G"dc/2d/2|\
+"Am"e/2a/2^g/2a/2 "E7"e/2d/2c/2B/2|"Am"cA A:|
+
+X: 66
+T:Sally Huerish'ster
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+B|"D"f2e "G"dcB|"D"A2F "A7"F2A|"D"fa2 "A7"f2e|"D"def agf|"Em"efg "A7"e3|
+"D"fed A2d|"G"B2d e2d|"C"c2d edc|"G"dBc "A"edc|"Bm"BcB "E"d2f|
+K:Am
+E|"Am"EAA ABc|"E7"Bee e2d|"Am"cBc ABc|"Dm"d3 -d2::
+A|"Dm"d2e f2g|"Dm"a2g f|
+X: 269
+T:Magdianduke
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+dc|"G"B2BA BGBd|"C"efgg efg2|"G"edde dB/2c/2d/2B/2|"D"A/2B/2A/2F/2 DF/2D/2|"Em"E/2F/2G/2A/2 BA/2G/2\
+|"Bm"F/2A/2 "Bm"B/2d/4e/4|"Em"d/2d/2 "A"d/2e/2|\
+"D"f/2g/2 "A"a/4g/4f/4e/4|"B/2c/2 "C"d/2c/2B/2c/2|"D7"(3d/2c/2B/2c/2A/2 d/2c/2B/2c/2|
+"Am"E/2A/2A/2B/2 c/2B/2c/2d/2|"Am"e/2^d/2e/2f/2 e/2d/2=c/2E/2|"G"D/2G/2G/2d/2 BB|"G"d/2d/2d/2d/2 BB|"G"dd g2|"G"dd/2e/2 de|
+"G"dd d/2c/2B/2A/2|"C"ee/2e/2 ee|"C"g2 e/2f/2g/2e/2|\
+"G"dd/2e/2 d/2B/2A/2G/2|
+"Am"BA "D7"AG/2A/2|"G"BB/2d/2 "D7"c/2B/2A/2G/2|"G"Bd "C"e/2f/2g/2e/2|\
+"G"dd/2e/2 d/2B/2A/2G/2|
+"C"c/2B/2c/2d/2 ec|"G"Bc "D7"dd/2c/2|"G"B/2d3/2 "G7"BG|"C"c3/2d/2 "FG"gdB|"D7"B2A|"Em"B3"A"C"E7"E|"A7"CE AB/2c/2|"D"d2 "A7"a2|"D"fAfA Adef|"Em"gfed "A7"c/2a3/2a2|"D"(3fef(3agf "A"(3ede(3gfe|
+"Bm"(3dcd(3BAB "A7"(3ABA(3GFE|"D"DAFA DAFA|
+"D"defe dcBA|"A"eAfA gAfA|"Em"edcB "A7"AGFG|"D"A2fe "A7"dBAG|"D"e/2f3/2 df|"A"e4 d2:|
+P:B
+d/2e/2|"D"f2f f2f

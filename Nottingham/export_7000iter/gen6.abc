@@ -1,0 +1,91 @@
+X: 1
+T:song_name
+K:C
+P:A
+"C"[C2E2][CDE]][CE][B,E]|"A"[A,2E2][CE][E3]|
+P:C
+"Am"[a3/2a/2-a2|"Am"e2 d2|"Dm"e/2f/2 e/2f/2|\
+"Gm"g4|"C"e2"D/a"f|
+"G"g2b2|"D7"a2f2"Bb"d/4e/4f/2 "G"g/2f/2|"D"D/2d/2A/2d/2 A/2d/2f/2d/2|\
+"A7"A/2d/2^c/2e/2 f/2c/2e|"D7"d/2d/2d/2^c/2 d3/2e/2|"D7"fa2f/2e/2|dB B/2c/2d/2e/2|gf ed|
+Bd d/2c/2B/2A/2|
+"Dm"Bd "C7"C/2B,/2|"C"c/2A/2G/2F/2 "Cm"GE|"F"A=A "C7"F/2A/2 B/2=B/2|[c/2B/2 d/2B/2|"A"c3/4e/4"E"B/2c/2 "A"A/2c/2|
+"A"a/2a/2 a/2g/2f/2e/2|"D"d/2e/2f/2g/2 a/2f/2d/2f/2|"A7"e/2d/2c/2B/2 "D"A/2e/2f/2g/2||
+|:"A"a/2e/2a/2g/2 a/2e/2a/2e/2|"D"f/2a/2b/2a/2 f/2e/2d/2e/2|"Bm"f/2B/2B/2A/2 "A"B/2c/2d/2A/2|
+"D"a/2A/2g/2a/2 "G"g/2f/2g/2f/2|"A"ea/2g/2 fe/2f/2|"Bm"dB Bc/2d/2|\
+"C#d"cg/2e/2 "F/2D/2E/2G/2|\
+"Am"c/2A/2B/2G/2 "Am"A/2G/2E/2G/2|"D7"D/2G/2G/2A/2 "D7"G/2F/2G/2A/2|\
+"G"G2 -G2|
+"G"B/2d/2B/2A/2 Bd|"C"e/2f/2e/2d/2 B/2d/2e/2f/2|"C"g/2f/2e/2c/2 "G"dc/2d/2|\
+"Am"e/2d/2c/2BA6|
+"A"ABc ded|"A"cBA "E"BGE|"D"FDF "D"D2||
+A|"G"BcB "D/f+"AGF|"Em"G3 "Bm"B2A|"Em"B2E E3|\
+"Em"B2G -"G7"DAB|
+"C"c2c EGc|"C"edc g2:|
+X: 140
+T:Jig For Chris
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+"Am"A3 a3|"Em"gee e2d|"C"c2g edc|"G"Bgd -dBG|"Am"A3 "F"a3|"G"b3 G3::
+"C"gec "E7"dcB|"A"A3 A2:|
+P:B
+c/2d/2|"A"e2e ece|"D"f2a agf|"A"e2c "A/c+"cBA|"B7/f+"c2B "E7"Bcd|
+"A"e2c a2|"C"e2 e2|"G"d4-|"D7"de dc|
+"G"ed BG|"G"d2 "Em"e"cBA|"A"g/2f/2e/2d/2 c/2A/2a/2g/2|"D"f/2g/2a/2f/2 "D7"g/2e/2d/2c/2|"G"ed "C"g/2f/2g/2e/2|\
+"G/d"dBAB "Em"GAB^G|"A7"ABAG "D7"E2(3DEF|
+"G"G2GB "D7"A2Bc|"G"dedc "Em"B2g2|"Am"ecde "D7"(3ded(3cBA|
+"G"(3GED(3G2B "Em"(3Bde(3gfe|"G"dBdg "C"ece/2d/2c/2 BG|"Eb"c2 "Bb"b3/2g/2|
+"Bb"fd|d/2f/2 d/2f/2c/2A/2|"G"B/2=G/2B/2d/2 g/2f/2g/2d/2|\
+"D"D7"AF|GG GA||
+"G"Bd2B|"B2f/2|"A"e/2c/2"D7"d/2c/2 -"G"G||
+
+X: 42
+T:Jig from the Waters
+% Nottingham Music Database
+S:By Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:D
+Ad |"D"dA A/2B/2A/2G/2|"D"FD "A7"C/2D/2E/2G/2|"D""F#m"AA dA|"D7"de fe|"G"d/2B/2g/2B/2 e/2f/2g/2e/2|"G"dB3/4e/4 d/2B/2|d/2B3/2A|"D"AF/2G/2 AF/2G/2|
+"D"A/2B/2A/2F/2 Ad/2e/2|"D"f/2g/2e/2f/2 dd/2A/2|\
+"G"B/2c/2d/2B/2 "A7"A/2d/2c/2A/2|
+"D"d/2c/2d/2e/2 d/2e/2f/2d/2|"G"e/2d/2B/2c/2 "A7"d/2e2(3def|
+"G"g2bg d2gd|"G"BcdB G2AB|"C"cAFG "D7"A2d2|
+"G"dg^ddd BdBG|"Am"ABAG "D7"E2(3DEF|
+"G"G2gB BAG|"D7"A2A ABc|"G"ded "D7"cBA|"G"G3 G2::
+B/2c/2|"G"ded dBd|"G"BGG GAG|"C"EGG "D7"FGA| [1"G"BGG G2^F:|
+ [2"C"c2c "E7"A2G|\
+"Am"E3 "D7"G2c|
+"G"B3 GAB|"F"A2A "C7"G2C|"F"A2A "G7"G3|"C"efg G2d|"C"edB "G"BAG|"D"A3 A2D|"C"E2E EFG|"G"D2D DFGB3 .g/2 d/2B/2f/2/2 "Em"g/2f/2g/2b/2| [1"D"DF "D#7"dF|\
+"G"G2 G2:|
+
+X: 4
+T:Diln Polka
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+d2c |"G"Bdd dBG|"G"Bdd dBG|"C"cBc "D7"d2c|"G"Bdg g2:|
+X: 15
+T:The Naughty 'Noochie
+% Nottingham Music Database
+S:Helentry Fvia Marlin, via Phil Rowe
+M:6/8
+K:D
+A|"D"d2d "A"c2A|"G"BdB "D"AGF|"G"G3 "C"e2d|"G"edB "D"A2B|"Em"E3 -E2:|
+
+X: 105
+T:Green Mountain Petronella
+% Nottingham Music Database
+S:McCusker Brothers, via EF
+M:4/4
+K:D
+M:6/8
+"A"eAA g2e/2f/2|"Em"gfe edc|"A7"BAG "D7"FED|
+"G"GFG "D7/a"B2A|"G/b"dBG "D7"AFD| [1"G"G3 -G3:|
+
+X: 53
+T:Tep Mar Draid
+%

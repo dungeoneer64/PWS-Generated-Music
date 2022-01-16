@@ -1,0 +1,123 @@
+X: 1
+T:song_name
+K:C
+G|"C"c2e -edc|"G"Bgd G2B|"Am"A2A "D"ABc|"Em"B2G B2d|
+"C"e2e e3|"G"deg ym"c2e e2e|"E7"efe dcB|
+"A"c2E EFG|"D"F2D D2B|"Am"c2c "D7"d3|"G"ded "D7"cBA|"G"G3 G2:|
+
+X: 251
+T:Sider Shand
+% Nottingham Music Database
+S:EF
+M:6/8
+K:A
+Cac|"G"a2g g2g|"Gm"f2g d2d|"A"^faf edc|"D"BAF D3D|"C"e2e e3|
+"G"def gab|"D"agf "A7"ed^c|"D"d3 d2:|
+X: 14
+T:Barbary Bell
+% Nottingham Music Database
+N:A(AABBB)2(ACCC)20
+Y:ABCB
+M:9/8
+K:G
+P:A
+B/2c/2|"G"d2d "D7"def|"G"bag "B7"agf|"Em"gag "D"aga|"Em"bee edc|"Em"Bee "A7"e2A|
+"D"A2d "A"cBA|"Bm"dcd "A7"efg|"D"fed "A7"edc|
+"D"d2f a2f|"G"bag "D"f2e|"G"dBG "D"A2F|"G"G3 "A7"E3| "G"ded B2e|"D"fgf "C"e2d|"D"def "G"bag|"D"afd "G"g3|"C"efg "Fa EF
+M:4/4
+L:1/4
+K:G
+p:1/4=180 is Slipfe|"Am"cAF|"Dm"Add|"C"e2e|"D7"d3/2B/2A|"G"G2B|"D7"A2D|
+"G"G2d|"G/b"g2g|"C"e2e|"C"e2e/2e/2|"G"dB2-|"D"A/2G/2F/2G/2|"D"AGF|"G"G3|"G"e2G|"C"ecB|"D7"Aef|"D"d2-c|
+"G""dd B2|"Am"cA "D7"GF|"G"G2 "D7"D2|\
+"G"G3/2F/2 "Em"Em"B/2A/2G|"A7"A2 -A/2G/2E|"D"D/2E/2F "A7"FE|\
+"D"D/2E/2A "A7"AB/2c/2|
+"D"dF/2G/2 AF/2G/2|"D"Af f/2e/2d/2c/2|"G"BG G:|
+
+X: 15
+T:King of the Fory
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3def|"G"gfed (3GBd(3gdB|"C"(3cBce(3gfe (3ded(3cBA|
+"G"(3Bcd(3BAG "D7"(3ABc(3AGF|"G"(3GFG(3AGF "D7"(3GFE(2D7"A"gge "D"f3:|
+X: 199
+T:Lid Hegh Slop
+% Nottingham Music Database
+S:H |"D"f/2e/2d/2e/2 fg|\
+=f/2a/2|"Em"g2e/2 "A7"fa|"D"FG/2A/2 "E7"BE|"A"Ac "D"d:|
+P:B
+g/2e/2|"D"f2 "D"fa/2f/2|"A"e/2f/2e/2c/2 "D"d2:|
+
+X: 46
+T:BillBy Reel
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:G
+D|"G"BB/2d/2c/2B/2|"D"AA2|a2 f/2a/2g/2e/2|
+"D"d/2c/2d/2e/2 fe/2f/2|"D"d/2e/2f/2d/2 A/2d/2B/2A/2|\
+"G"G/2A/2B/2A/2 G/2:|
+X: 62
+T:Chin(2E/2D/2|\
+B/2d/2c/2B/2 AE|"D"F/2E/2D/2F/2 "Em"EB|\
+"A7"AG FG|"D"A2 D2:|
+P:B
+"F#m"a3/2a/2 ab|"Bm"ag f2|\
+"Em"ed BG|"A7"A3:|
+X: 12
+T:Harper's Frokef
+% Music Database
+S:Oklahoma, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+D|"G"BG/2B/2 BB|"G"dd GB|"D7"BA FD|"D7"A2 AB/2c/2|"G"de d/2c/2B/2A/2|"Am"BA E/2D/2B,|"A7"A,C EA|
+"A7"a3/2b/2 ab|ag eG/2A/2|"G"BB AG/2A/2|BA AB|"G"G3/2F/2 G2|\
+"D7"A/2B/2A/2G/2 F/2E/2D|
+"D7"FA DD|"G"GG GB|"G7"d2 g3/2f/2|"C"e"A"e2a|"E7"e2d|"A7"c/2e/2e/2f/2 g/2e/2c/2A/2|"D"F/2B/2A/2G/2 F/2D/2F/2D/2|\
+"A"EA A3/2E/2|
+"D"FF AA|"G"GF/2E/2 DG|"D"Ad "Bm"fe/2f/2|"Em"ga/2g/2 "A7"fe|\
+"D"d3:|
+P:B
+F/2G/2|"D"A2 "A7"f3/4e/4|"D"f/2e/2 d/2c/4d/4|\
+"A7"e/2^e/2 f/2e/2|"D"d d/2:|
+
+X: 23
+T:Mi Byriggs, via EF
+M:6/8
+K:D
+A|"D"FE F/2D/2F/2A/2|"G"=B/2c/2B/2A/2 G2| |"A" A3:|
+P:B
+"A"E2A|"Em"B2E|"Bm"B2B Bcd|"C"e2e e3|
+"Em"g2b gab|"Em"e2e efg|"D"fdf agf|
+"Em"g2e "A"a2f|"Em"e2e efg|"A7"a2e "D"fef "Em"g2e|\
+"Bm"f2g a2g|
+"Bm"fef d2f|"Em"egf "A7"edc|"D"d3 d2:|
+X: 42
+T:Silver Rossing
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+G|:"C"[C2E2][DF]|[E3G3]|"F"[F2A2][GB]|"A"[c2e2][df]|[eg][ce']|
+[1"C"[g3/2B3/2][A/2c/2][Ac][Bd]|[c3e3]|[^F2A2][GB]|
+[Ac][GB][FA]|"D"[F3-A3-]\
+|"A"[A2c2][Bc]|"D"[c3aAotland Sail
+% Nottingham Music Database
+S:Neil Circ
+M:4/4
+L:1/4
+K:G
+"G"BB3|"G"Bdd|[1"Am"A3 "D"=A3|
+"Gm"ggd "C7"ed3 -"D7"d2:|[2"D"fef "G"g3||
+X: 16
+T:Footy Aygen The Firl
+%

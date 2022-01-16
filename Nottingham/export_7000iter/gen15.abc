@@ -1,0 +1,122 @@
+X: 1
+T:song_name
+K:C
+P:A
+g2|"C"c2ec "A"cAce|"D"dcdf "Em"e
+% Nottingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:D
+A|"D"DFA d2A|"G"B2A "D"d2A|"G"Bcd "C"edc|"G"dBB Bcd|
+"C"e2f "C"g2e|"G"dBG "D7"ABd|"G"cdB "D7"cBA|"G"G3 G2:|
+
+X: 15
+T:Culm as Hill
+% Nottingham Music Database
+P:AAB
+S:Trad, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+c/2B/2Am/2c/2A/2G/2|"E"BB "E7"B/2A/2G/2B/2|
+"A"Ac/2A/2 Bd/2B/2|ce/2A/2 B/2A/2G/2A/2|"D"d/2c/2d/2A/2 B/2A/2F/2A/2|\
+"B|\
+"A"e3/2f/2 e/2d/2
+P:B
+|:"G"gd dB/2d/2|gase
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"D"A2d "A"cde||"D"a2f "G"b2g|"D"fga "A"gec|"Bm"Bcd "E7"cBA|"A"A3 A3:|
+
+X: 17
+T:Belfast Almanac, via PR
+M:4/4
+L:1/4
+K:D
+f/2^e/2|"D"fd/2c/2 dA/2d/2|fd/2A/2 Be/2f/2|"Em"g/2^f/2g/2e/2 "E7"g/2f/2e/2d/2|
+"A"c2 c"D"a2f "A"e3|"D"d3 -d:|
+
+X: 189
+T:My 1973, via PR
+M:4/4
+L:1/4
+K:D
+A|"D"d2c|"G"dcB|"D"A2-|"D7"GF|"G"B"Am"cAF|"D7"A2D|
+"G"G2D|"D"DFAD2b/2|"G"bag "D"agf|"Em"ged "A"cBc|"D/f+"d3 "A/c"d||
+
+X: 30
+T:Rushma Fars
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+dc|:||"Em"B3/2c/2 d/2e/2f/2g/2|"C"ee/2e/2 e/2d/2c/2B/2|\
+"Am"cA "D7"A2|
+"G""Em"G/2A/2B/2A/2 GD|"C"EG "D"FA|"G"G3/2A/2 "D7"Bc|"G"dd "C"e/2d/2e/2f/2|"G"g/2f/2g/2a/2 g/2f/2e/2d/2|"C"e/2d/2e/2f/2 gf/2e/2|\
+"G/d"dd/2e/2 "D7"d/2B/2G/2A/2|"G"BG G:|
+P:B
+A|"G"B/2dB/2 dd|dB/2d/2 dA/2G/2|"D7"FD/2F/2 Ad/2c/2|\
+"G"Bd "D7"d/2c/2A/2F/2|"G"GG G:|
+P:B
+B/2c/2|d/2d/2 B/2d/2d/2d/2|"G"dB/2d/2 gf/2g/2|
+"C"e/2d/2c/2c/2 e/2g/2f/2e/2|"G"dd B/2G/2B/2d/2|"Am"c/2d/2c/2B/2 "D"A/2D/2F/2|"D"d/2B/2d/2e/2 fe/2f/2|\
+"G"gb "A7"f/2g/2e/2f/2|"D"df d:|
+P:B
+(3d/2e/2f/2|"G"gG|"G"bg "D"af|"G"G/2G/2G/2^G/2 Gg/2f/2|
+"C"e/2d/2c/2B/2 "D7/a"A/2d/2A/2d/2|"Eb"G/2d/2G/2d/2 "Bm"Fd/2c/2|\
+"Em"B/2c/2"D"A/2F/2 "A7"EE|"D"DF AF|
+"G"GB/2G/2 "D7"F/2G/2A/2=B/2|"G"G-G/2A/2B/2c/2|"G"dg|"D"AF "G"BG|\
+"D"A/2B/2A/2G/2 F/2E/2D|"D"AF "Em"GA|"A7"E2 EC|"D"D2 "A7"E2||
+X: 3
+T:Hashing Astream
+% Nottingham Musicc|"D7"B2A|"G"G3||
+X: 40
+T:Jig Coct Out ^e2|\
+ [1"A7"f/2d/2e/2c/2 "D"d/2e/2f/2g/2|"E7"c/2e/2c/2e/2 "A"B/2A/2A|
+"E"Be/2d/2 "A"c/2B/2A/2G/2|"Bm"F/2G/2A/2B/2 "E7"cB|"A"A3:|
+
+X: 27
+T:Manchessers
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:Gm
+"Gm"d^c/2d/2 BA/2B/2|GG G/2A/2B/2A/2|"C"GE E\
+:|
+
+X: 9
+T:Beaver Creek
+% Nottingham Music Database
+Y:T:TBart Waltz
+% Nottingham Music Database
+S:Chris Dewhurst (1979), via PR
+M:4/4
+L:1/4
+K:D
+f/2e/2|"D"d/2f/2A/2d/2 ff/2e/2|dF|"Bb"D2-|"F"F2||
+
+X: 2
+T:CAAB|"Am"AA "D7"BB/2A/2|\
+"C"GG "G"Gd/2c/2|"Gm7"Bc d/2c/2B/2c/2|"G7"d2 -dB|
+"C"ec2d|"Am"ec c3/2A/2|"B7"B^AB|"E7"B3e/2f/2|"A7"g/2f/2e/2f/2 "D7"g/2f/2e/2d/2|\
+"G"BG GA/2B/2|
+AA A/2B/2c/2A/2|"G"dB GA|"Em"B2 AG "Am"GA|\
+"D7"B2 "D7"A2|"G
+"D7"A2 ^G2|"D7"A2 B2|\
+"G"GG -"C"GE|
+"D7"D2 ^GA|"G"Bd B2-|BG Bd|"G"g3/2f/2 ed|"G"G4|Bd2B|"D7"A2d2|"D7"d/2d/2c/2B/2A/2|
+"D"f2e f2d|"A7"e2f g2e|"D"f2d d2f|
+"A7"e2A A2e| 
+T:Good Night as the Sun J Western Chaighon
+% Nottingham Music Database
+S:My L Dolman, via EF
+M:6/8
+K:G
+d2c |"G"BAG D2D|"C"EFG "D7"A2F|"G"G3 G2:|
+P:B
+B/2c/2|"G"ded dBB|d/2A/2 A/2B/2d/2e/2|"D"f/2e/2f/2g/2 "A7"a/2g/2f/2e/2|
+"D"d/2^c/2d/2e/2 ^f/2d/2e/2f/2|"G"g/2a/2g/2e/2 ge/2f/

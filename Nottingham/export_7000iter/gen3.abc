@@ -1,0 +1,109 @@
+X: 1
+T:song_name
+K:C
+Ogham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+(3G/2B/2d/2|"C"e3/2d/2e|"G"dBG|"D7"cAF|"G"G2:||
+X: 38
+T:Kelst d2F2::
+"D"f/2a/2f/2d/2 Af|"D"a/2g/2f/2e/2 "G"d2|"D"ag/2f/2 "G"g/2f/2e/2g/2|\
+"D"f/2e/2d/2A/2 "A7"B/2d/2A/2G/2|"D"F"G"D "D"DF/2G/2|
+"D"A/2B/2A/2F/2 "A7"dA|"D"d/2A/2B/2c/2 "G"d/2c/2d/2e/2|"D"f/2e/2f/2g/2 "A7"a/2b/2a/2g/2|\
+"D"f/2e/2d/2c/2 "A7"d/2e/2g/2f/2|"D"ed d:|
+
+X: 50
+T:Starry Nights of Shetland
+% Nottingham Music Database
+S:Helen
+M:4/4
+L:1/4
+K:G
+G/2E/2|"G"D/2E/2G/2A/2 B/2c/2d/2B/2|A/2B/2A/2G/2 F/2D/2F/2A/2|"D"d/2c/2d/2A/2 B/2A/2F/2A/2|\
+"G"g/2f/2g/2a/2 ba ^geg|
+"C"e2c "E7"d2B|e2e efg|"A7"a2A ABc|"D"d3 -d3|
+P:B
+"D"d2e|"D"fgf "A"efe|"Em"e2f g2a|"A7"gag "D7"f3e
+"D"f/2e/2d/2A/2 B/2d/2A/2F/2|"D"D/2F/2A/2F/2 "A"E/2B/2d/2e/2|\
+"D"f/2e/2d/2A/2 FA|"G"B/2A/2G/2F/2 "Em"E:|
+
+X: x0
+T:Plaps Off
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+Y:ABCDEF
+M:4/4
+L:1/4
+K:D
+P:A
+A/2G/2|"D"FD DF|"G"G2 G2::
+"D"AF/2G/2 AF/2G/2|Af/2e/2 dF/2A/2|"A7"GG/2F/2 GAB|"C"c3 e3|
+"C"b3 b2a|"C"g2e "G7"d3|"C"e2e "G"def|"C"g2c'|"C"e2c|"C"GAG|"Dm"F3|"Dm"B2A|"G"B2B|"D7"ABA|"G"G2||
+
+X: 42
+T:Peacock Rag
+% Nottingham Music Database
+S:Neil Campbell (MacBeat), via EF
+Y:AB
+M:6/8
+K:G
+P:A
+D|"G"GAG "D7"G"ef/2g/2|"D"a/2f/2d/2B/2 Af/2e/2|"D"d/2e/2f/2g/2 af|"G"g/2f/2g "A7"FF/2G/2|\
+"D7"A/2B/2A "G"G2:|
+
+X: 26
+T:Winhams
+% Nottingham Music Database
+S:Ireland, via Phil Rowe
+M:6/8
+K:D
+"A"E2A A2G|"A"A3 "A7"ABc|[1"D"d3 d2:|[2"D"d3 "D7"=cBA|"G"BGG G2::
+d|"G"dBd gfg|"C"edc "D7"BcA|"G"dcB "D7"Ged|"G"Bcd "D7"Adc|"G"BGG G2:|
+P:B
+g|"C"ece gcB|"G"GBA G2B|"D7"def "G"gd:||:
+"G"g2g gfe|dgd B3|"Am"cBc ABc|"D7"e2d B3|
+"Am"cBc -cBA|"E7"^GAB E^FG|
+"Am"A^GA c2d|"Am"efe "G"d2B Bcd|"C"efg "G"dBd|"G"BGG G2||
+X: 224
+T:Orange Roggoe/2 fe/2f/2|"Em"gg "G"b3/2g/2|"D"a/2f/2a/2f/2 "A7"g/2f/2e/2d/2|"D"Ad d:|
+
+X: 50
+T:Caling Jig
+% Nottingham Music Database
+P:AAB
+S:FTB 1/1, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+d|"G"GB/2B/2 Bd|"C"e/2f/2g "G/b"dB|"C"e/2f/2g "D7"fd|"G"g2 -"G7/bbng Charlton Canadian
+% Nottingham Music Database
+S:Andrew Rankine, via Phil Rowe
+M:6/8
+K:G
+"G"B2B Bcd|"C"e2e e2e|"G"d2d d2d|"Am"e2d cBA|"A7"A2G F2G|"D7"A3 -A2B|"F"A2F A2G|F2A F2E|"F"F2A "Dm"d3|"Gm/d"g2g "A7/4
+K:D
+P:A
+d/2e/2|"D"ff f/2e/2f/2e/2|"G"de "E7"e/2d/2c/2d/2|"A7"ea ac|"e|"Em"ag "A7"f/2e/2d/2c/2|"D"d2 "D7"dd/2c/2|
+"G"B/2d/2g/2d/2 e/2f/2g/2d/2|ec d/2c/2B/2A/2|"A"aa Af/2g/2|"A"a/2f/2e/2c/2 "A"Ad/2B/2|\
+"A7"c/2A/2B/2c/2 c/2A/2c/2e/2|"D"df d::
+f/2|"G"g3/2f/2|"C"e/2f/2e/2|"D"dcd "E14
+T:Starry Nights of Shetland
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+d|"G"d3 "C"c3/2d3/2||
+|:"A"ecA acA|"A"ecA aec|"Bm"BcB "E"d2f|
+"A"ecA acc|"A"a2e c2c|"Bm"dcB "F#m"A2GA/2|"G"Bd "E7"Be|\
+"Am"f/2e/2^d/2f/2 e/2A/2(3c/2B/2A/2|
+"A"EAc e2f|"A"efe c2A|E3 -E2G|"D"FAc f2e|"Bm"d3 d2B|"Em"e2f gfe|\
+"F#m"f2a "E7"g2e|"A"a2e "D"a2f|
+"A"efe "E"ece|"Bm"faf "A"edc|"Bm"Bcd "E7"efg|
+"A"a2e "D"f2e|"A"c2c "E7"BcB|"A"A3 "A7"d3|"D"A2G FGA|"G"B2A "D"FED|"G"B2B "D"AFD|"G"GFG "A7"E2E|"D"D3 -D2||
+
+X: 117
+T:Hair Jugi arrate
+% Nottingham Music Database
+S:Ronald Cooper via Rosa M, 

@@ -1,0 +1,100 @@
+X: 1
+T:song_name
+K:C
+"C"Em 3
+% Nottingham Music Database
+S:Geoff Bocking, via EF
+M:4/4
+L:1/4
+K:D
+A/2|:"A"c/2A/2c/2e/2 a/2e/2c/2a/2|"A"e/2a/2e/2c/2 e/2f/2e/2c/2|\
+"E7"d/2c/2B/2A/2 "A"GE|
+"E"Be e3/2=e/2|e/2B/2 B/2A/2B/2c/2|dB B/2c/2B/2A/2|BG ^c^c|\
+K:"C"gaurien's Breakdown
+% Nottingham Music Database
+S:Kerrs/Eric Fancy
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:Bm
+F|"Bm"B2c dcB|"Em"e2e e2B "G7"GAB|"C"c2d e2c|"Am"d2d "D7"cBA|"G"G2B|"A7/c+"A2G|"D7"FED|
+"G"G2"G7"B|"C"c3||
+X: 59
+T:Grapper's Reel)
+% Nottingham Music Database
+S:NPTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+dc/2B/2 "D7"A/2F/2E/2D/2|
+"G"G/2F/2G/2A/2 BB|"Em"G/2F/2G/2A/2 BB/2c/2|d/2B/2e/2B/2 d/2B/2A/2B/2|
+"G"GB/2B/2 Bd/2e/2|"Em"g/2d/2c/2B/2 "A"c/2e/2a/2f/2|"E"e/2c/2B/2A/2 B3/2e/2|
+"F#m"a3/2e/2 f/2A/2e/2A/2|"A"c/2A/2e/2A/2 f/2A/2e/2A/2|c/2A/2e/2A/2 f/2A/2e/2A/2|\
+"Am"f/2g/2(3f/2g/2e/2 c/2A/2e/2A/2|f/2A/2e/2A/2 Fg/2A/2|f/2e/2c/2A/2 FB/2A/2|\
+"A"e/2A/2(3c/2B/2A/2 a2:|
+X: 28
+T:Montecarnaham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"Af/2A/2C/2E/2 C/2E/2C/2E/2|"D"D/2E/2F/2G/2 A/2G/2F/2E/2\
+D ^C/2D/2C/2D/2|"G"D/2D/2G/2F/2 G/2F/2G/2A/2|\
+ [1"A7"f/2d/2a/2g/2 f/2A/2e/2A/2|\
+"D"A|
+"G"G2 G:|
+P:B
+g/2a/2|"G"bb/2g/2 "D7"a/2b/2a/2f/2|"C"g/2a/2g/2e/2 "G"dB/2d/2|\
+"C"e/2g/2e/2f/2 g/2a/2g/2e/2|[1"D"d/2B/2A/2B/2 "G"GD/2F/2:|
+[2"D"d/2B/2A/2F/2 D2::
+"D"D2 F2|"A7"G2 CE|"D"D2 F2|"A7"EF G3/2E/2|"D"F2 A2|"Bm"F2 F2|F2 F2|"Bb"D2 B2|"Bb"df _e2|"Eb"GB "Ed"e2dcBc|"Bm"dcdB "E7"efg|"A"agf edc|"Bm"dBB B2e|
+"E"f2e a2g|"A"a2g f2e|[1"Dm"d3 "G7"e2:|[2"C"c3 "Fd"=f3||
+
+X: 76
+T:Dinny Not 1970, via Phil Rowe
+M:6/8
+K:G
+"G"G2G d2d|"C"efg "D7"f2(3d/2e/2f/2|"G"g2g "C"c2e|"G"d3 "Em"batabase
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3DGAB|"C"cdec "G"BcdB|"D"ABAg afaf|"G"gfed "Em"e2dc|"Em"Bdc2"A7"AFEF GFE|"D"DEF "A2G2 AF/2G/2|"D"Ad cd|\
+"D""Bm"gf/2d/2 "Em"e/2d/2B/2d/2|\
+"A7"c/2A/2B/2c/2 "D"d/2e/2f/2g/2:|
+P:B
+"D"a/2b/2a/2g/2 f/2a/2g/2f/2|"A"e/2f/2e/2d/2 c/2A/2F/2E/2|D/2F/2A/2d/2 fe/2d/2|"A7"c/2B/2c/2d/2 e/2c/2A/2F/2|
+"D"DF/2A/2 F/2A/2A/2d/2|"D"f/2a/2=B/2d/2 "A"c/2A/2e/2c/2| [1"D"d/2B/2A/2F/2 DB/2c/2:|
+ [2"D"d/2B/2A/2F/2 DB,|"G"D/2E/2G/2A/2 BB|"G"dd g3/2f/2|\
+"C"ed :|
+
+X: 24
+T:My Old Man
+% Nottingham Music Database
+S:Joy, via EF
+M:6/8
+K:D
+E|"D"F3 "A7/e"FED|"D/f+"FAA A2d|"G"Bdd "A7"Add|"D"faf "A7"edc|"D"d3 ::
+"A"eee ece|"Em"G"d/2B/2A/2B/2 G/2A/2B/2G/2|
+"G"dd/2e/2 d/2B/2A/2G/2|"Am"B/2A/2A "D7"AB/2c/2|
+"G"dB/2d/2 g3/2f/2|ed d2|"G"dg dB|"G"d2 e3/2d/2|"Am"cA Bc|"D"d/2c/2d/2f/2 -"G"f/2d "Bm"A2F|"Em"G"g||
+
+X: 106
+T:Merry Blankine
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+D/2E/2 |"D"F/2G/2F/2E/2 D2:|"A7"A,C EA|
+"A7"c/2B/2A/2c/2 ec|A/2e/2-c/2B/2|e/2E/2E B/2E/2d/2E/2|"Em"EB/2E/2 "D"A/2F/2D/2F/2|"Em"E2 "A7"E/2D/2E|\
+"D"F/2E/2F "A7"FE|
+"D"D/2E/2F/2G/2 A/2F/2D/2F/2|"G"GB/2G/2 "A7"E/2F/2D/2E/2|"D"F/2E/2F/2G/2 "D7"A/2F/2D/2F/2|"G"GA/2G/2 B/2d/2e/2f/2|\
+"C"g/2e/2d/2B/2 "D"A/2F/2E/2F/2|
+"G"G/2B/2D/2G/2 BA/2G/2|"D7"F/2G/2A/2B/2 c/2d/2c/2B/2|\
+"Am"cA A2|
+"Am"cA/2B/2 c/2B/2A/2G/2|"D7"FA FA|"G"G^F/2G/2 "A7"AG|"D"FD Dc|"A7"cA c/2e/2|"Bm"ed d3/2B/2|AF2 DE|\
+"

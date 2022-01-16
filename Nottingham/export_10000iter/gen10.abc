@@ -1,0 +1,125 @@
+X: 1
+T:song_name
+K:C
+EF
+M:6/8
+P:A
+A|"Dm"def A2A|"Bm"D2F "A7"EDE|"D"F2F "G"GAB|"A7"ABc "Bm"def|"A7"gec "D"d2:|
+P:B
+e|"D"f2d Adf|"Em"g2e "A7"Ace|"D"faa "A7"a2A|"D"d3 D7"dF/2G/2|
+"G"Bd "Em"BG|"Am"FA "D7"B2|"G"G/2F/2G/2A/2 BB/2B/2|"C"AG "D"D||
+P:B
+|:f/2g/2|"D"a2f a2f|"Bm"ded "B7"A2F|"Em"G2e "A7"cBc|"D"d^cd "A7"edc|"D"d3 -d2:|
+P:B
+|:a|"D"a2a "A7"gfe|"Bm"dcB "D"A2F|"G"GAB "D"Adf|[1"A"e3 "D"d2||
+
+X: 247
+T:Queen's Fancy
+% Nottingham Music Database
+Y:AAB
+S:Lynn Rohrbough, via EF
+M:4/4
+L:1/4
+K:G
+D/2G/2|"G"B2 B/2A/2G/2B/2|dB B/2c/2B/2A/2|"Eb7"e/2d/2c/2B/2 "A7"d/2A/2F/2A/2|
+"D"df/2d/2 A/2d/2f/2d/2|"A7"c/2d/2e/2c/2 "D"d:|
+X: 44
+T:The Bluebell Reel
+% Nottingham Music Database
+S:Sydney Collection, via PR
+M:4/4
+L:1/4
+K:Am
+A2 |"Am"E/2G/2A/2B/2 AA|"D"de/2f/2 ed|
+"D"ff/2f/2 ff/2e/2|"D"d/2e/2f/2g/2 a/2f/2d/2f/2|"Em"ef Ae/2f/2|"A7"g/2f/2e/2d/2 ce/2d/2|\
+"A7"c/2d/2e/2c/2 "D"d:|
+X: 86
+T:Tinkerbell
+% Nottingham Music Database
+PA Ade|"D"f2d A2F|"Em"G2B "A7"ABc|
+"D"d2A AFA|"G"B2A "A"ABm"A/2G/2A/2F/2 "Em"A3/2G/2|\
+"Am"A/2G/2A/2B/2 "C7"_cG|
+"F"FC/2F/2 []CA]||
+X: 26
+T:Miss Music Database
+S:Mick Peat
+M:6/8
+L:1/8
+K:D
+"D"d2A A2F|"G"GAG G2b|"D"afd A^GA|
+"G"BGDG/2A/2 "A/c+"B/2G/2A|"D/f+"A/2d/2A/2d/2 "A7"f/2d/2e/2c/2|"D"dd d::
+f/2g/2|"D"aa/2f/2 aa/2f/2|a/2b/2a/2f/2 dd|"A7"A/2c/2e/2f/2 g/2a/2g/2e/2|"D"df d:|
+X: 24
+T:Johnny's Lover's gone
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+A/2G/2|"D"FD D/2E/2F/2G/2|"D"A/2^G/2A/2B/2 Af|"E7"ed cB|"A"A3E|\
+"A"AA/2B/2 cc/2d/2|
+"A"ee/2f/2 a/2e/2d/2e/2|"D"ff fg/2f/2|"A"ec "D"fa|"G"Bg b/2a/2g/2f/2|\
+"Em"e/2f/2g/2a/2 fd|"A"f3c/2d/2|
+"A"ec fc|"A"ec fc|"A"ag/2e/2 cc/2d/2|"A"ea ec/2d/2|"A"ef/2e/2d/2 c/2d/2e/2c/2|"D"de f2|"G"ed AB|"Em"GF ED|
+"A7"E2 DE|"D"F3/2F/2 GA|"G"Bd2B|\
+"D"A3/2G/2 "Bm"FG|"Em"E4-|"A"EA de|
+"D"f3f|"G"gB "A7"A3/2B/2|"D"Ad "A7"f/2e/2d/2c/2|"D"d2 d:|
+P:Database
+S:Phil Rowe via Toby Bennet
+Y:AB
+M:4/4
+L:1/4
+K:A
+P:A
+f/2e/2|"A"c/2B/2A/2c/2 f3/2f/2|"D"dA FA|"Em"BG EG|"A7"F3/2G/2A|"D"A2||
+X: 31
+T:Hopwas Hornpipe
+% Nottingham Music Database
+Y:AABBCC
+S:Kay Graham, via EF
+M:4/4
+L:1/4
+K:F
+G|"F"FAc fef|"Gm"g2g g2 ^f2|B2d g2g|"D7"fed cBA|"G"G3 -G2d||
+
+X: 17
+T:Great Micken
+% Nottingham Music Database
+S:Joy, via EF
+M:6/8
+K:Dm
+A|"Dm"D2A A2-|"G"d2 "C"cB|
+"D"dd d/2d/2d/2d/2|"G"g -"Bm"af|"Em"g2 "Bm"f2|"Em"g2 "D"fg|"C"e2 f2|\
+"Gm"e3/2f/2 "G7"fd|"C"c2 Bc|"Dm"d3 "G7"e2d|
+"C"ceg "Am"=f3|"Cm"gef "F"cAF|"G"GAB "C7"cde|"F"f3 f2:|
+
+X: 63
+T:Chorus Jig
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+A|"D"d/2f/2e/2f/2 "G"g/2f/2g/2e/2|"D"d/2c/2d/2A/2 B/2A/2F/2A/2|\
+"D"A/2B/2c/2A/2 "G"G:|
+P:B
+A/2B/2|"D"F/2A/2A/2B/2 A/2F/2E/2D/2|"D"FA/2B/2 A/2B/2d/2e/2|\
+"F"=c/2=e/2c/2d/2 "F#m"e/2c/2A/2c/2|"F#m"e/2^g/2a/2f/2 "B7"F
+S:John Londau
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+"A"e2 e3/2f/2|"A"efe2e/2c/2 g/2c/2_b/2c/2|"C7"a/2c/2g/2c/2 "F"f:|
+X: 30
+T:Salmon The Mones
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+"D"A/2A/2A/2B/2 A/2B/2d/2e/2|f/2e/2d/2e/2 f/2e/2d/2e/2|"D"f/2abime|"D7"dc BA|"G"G2 "C"e2|
+"D7"dc Bc|"G"d3/2e/2 "G7"d/2e/2g/2a/2|

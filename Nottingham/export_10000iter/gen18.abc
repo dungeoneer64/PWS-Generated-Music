@@ -1,0 +1,108 @@
+X: 1
+T:song_name
+K:C
+P:A
+|:c/2d/2|"C"ed cB|"G"dg2e|"Bm"f3/2g/2 f(g/2a/2|"G"=b/2g/2a/2g/2 "D"f/2d/2d/2e/2|\
+"Em"f/2e/2d/2B/2 "D"A/2A/2F/2A/2|"A7"c/2c/2A/2c/2 e/2A/2c/2A/2|"D"df/2d/2 A/2d/2f/2a/2|"Em"g/2f/2g/2e/2 "A7"a/2g/2f/2e/2|
+"D"df "A7"Af/2g/2|"G"ed "A7"ec|\
+"D"d3||
+
+X: 3
+T:Randel's Reel
+% Nottingham Music Database
+S:Athole p 141, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+B/2A/2|"G"GB/2B/2 Bd/2d/2|"G"dg/2e/2 d/2B/2A/2G/2|"Am"B/2A/2A/2B/2 A:|
+
+X: 9
+T:Well The Pleat Of Pony
+% Nottingham Music Database
+S:John Lagden, via EF
+M:6/8
+K:C
+"C"ede G2G|"F"A2A "G7"G3|"C"e2e "Am"efg|"D"f2d "G"g2f|
+"E7"edB "A"cBA|"Bm"B2c d2e|"Bm"f2f "E7"B2e|"A7"cBc gfe-|"D"d3 d||
+X: 232
+T:Mapring on the Town
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:G
+"G"D4
+L:1/4
+K:Am
+a|:"Am"ee d/2e/2e/2d/2|"Am"e/2a/2g/2a/2 g/2f/2e|\
+"D"d/2c/2A/2|\
+dB/2c/2 dd/2d/2|"C"eg/2e/2 "G"d/2B/2G/2B/2|"Em"A/2c/2B/2G/2 "D7"AB|\
+"G"Gd "C"g/2e/2d/2c/2|
+"G"B3d/2d/2|"G"dg g/2f/2e/2d/2|"Am"BA "D7"AG/2A/2|"G"BG "D7"AF|"G"G3:|
+
+X: 19
+T:Merry Mont
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+P:A
+d/2c/2|"G"BB/2c/2 "D7"AA/2B/2|"G"GG GA|"G"B2 GA/2B/2|"Am"cA AB|
+"Am"A/2G/2F/2E/2 E/2A/2B/2c/2|"D"dF/2G/2 AF/2A/2|"G"B/2c/2d/2B/2 "D"A/2B/2D/2F/2|\
+"G"G/2B/2D/2G/2 BB/2d/2|
+"G"gf/2e/2 d/2c/2B/2A/2|G/2B/2D/2G/2 BA/2G/2|"D"F/2A/2D/2E/2 F/2G/2AF|"G"G3 G2||
+
+X: 273
+T:Nancy
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Am
+P:A
+e/2d/2|"Am"cB/2c/2 Ae/2^f/2|"Am"e/2d/2B/2d/2 B/2d/2d/2d/2|"Am"e/2d/2c/2d/2 "D"d/2A/2F/2A/2|
+"D"df/2d/2 "A7"c/2d/2e/2c/2|"D"d/2e/2f/2d/2 A/2B/2A|"G"G4||
+X: 75
+T:Gottish Caddie
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+"D7"DE/2F/2|"G"Gg g/2f/2g/2a/2|"C"c'/2e\
+|
+"D"d2c|"G"Bcd|"G"B2G|"C"e/2c/2 c/2e/2|"D"d/2c/2 "Bm"d/2B/2|"Am"A/2B/2 "D"d|\
+"G"g3/4e/4 d/2B/2|"G"d/2B/2"A7"c|"D"d2|"Em"BB/2c/2 "Bm"B/2A/2G/2F/2|"Em"E3/2F/2 "A7"Ad|\
+"D"F/2G/2A/2B/2 "A7"AG|
+"D"A/2B/2A/2G/2 F/2E/2F/2D/2|"D"D3/2E/2 F/2A/2B/2A/2|"G"G/2A/2G/2E/2 "D"DG/2A/2|"G"B/2A/2G/2B/2 "D7"A/2G/2E/2F/2|
+"G"G/2E/2D/2E/2 GG/2A/2|"G"BB/2A/2 "G7"B/2c/2d|"C"e/2d/2e/2f/2 "D7"e/2A/2d/2f3/2|
+"A7"ecA FGA|"D"faa "A7"gec|"D"d3 d2||
+X: 209
+T:The Rogue's Hornpipe
+% Nottingham Music Database
+S:John Kirkpatrick, via Phil Rowe
+M:6/8
+K:G
+"G"G2G "D7"AGF|"G"GFG "A"EFG|"D"F2G A2A|"G"B2c d2A|"D"F2A ABA|"D"F2A d2e|"D"f2d "G"gfe|"D"f2d "A7"B2A|"D"F2A ABc|"G"B2c d2e|"G"g2g "D"f2f|"A"e2c cBA|"D"f2g "Bm"agf|
+"A"e2c "F#m"ABc|"E"d/2c/2B/2A/2|\
+"G"G/2B/2D "D7"DE/2F/2|"G"G3/2A/2 GB|"Am"A4-|"D7"A2 GB|
+"G"d2 d3/2e/2|"C"c/2B/2c c/2B/2c|"G"B/2G/2A/2B/2 "C"cB/2c/2|"D7"dc/2B/2 A/2c/2B/2A/2|
+"A7"[g/2c/2]c/2c/2|\
+[f/2c/2]c/2c/2c g3/2f/2|
+"C"e/2c3/2 ce|"Dm"f3/2e/2 c/2G3/2|"F"cc -cB|"G"G2 g3/2f/2|"C"ed cB|"A7"Aa a3/2g/2|"D7"fd ef|"G"g3g|"G"ag "D7"fd|"G"g2 -g2|g2 ||
+
+X: 33
+T:The Yetion's A E|"D"FDF AGF|[1"G"G3 "A7"e3:| [2"D"d3 -d2|||:e|"D"f2f f2e|"D7"fef d2c|"G"B3 -B2B|
+"D"A2d "A7"A2G|"D"F2A d2e|"F#7"f2f f2e|"Bm"d3 d2f|"Em"e2f edB|"D"d^cd AGF|"Em"G2E "A7"Cre
+% Nottingham Music Database
+S:Ms L Dolman, via EF
+Y:AB
+M:6/8
+K:D
+P:A
+A/2G/2|"D"FGA D2d|"A7"

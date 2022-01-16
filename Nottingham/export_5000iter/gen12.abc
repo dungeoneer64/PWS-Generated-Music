@@ -1,0 +1,89 @@
+X: 1
+T:song_name
+K:C
+"C"c2e g2g|"F"f3 f2g|"F7"a2g fga|"G7"b2a g2f|"C"e3 e2f g2a|gec gec|"G"G2B "Em"c2d|"Am"e2A "E7"AB^G|"Am"
+A3 -A2::
+A|"D"FGA "C"=g4g|"D"fgaf "C"g2ec|"G"d2B2 GFEF|"D"A2c2 d2:|
+X: 42
+T:Stepping Waltire
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+D|"G"B2B "D"A2F|"Em"G2A B2G|"Em"E3 E2F|"F"A3 G3|A3 F3|A3 -A3|"D"c3 A3|
+"G"G3 "D"A3|"Em"BGE Em"G/2F/2G/2E/2 "A7"c/2B/2A/2G/2|\
+"D"F/2G/2A/2F/2 "A7"E/2F/2G/2E/2|"D"F/2GF/2E/2D/2|\
+"C"E/2G/2F/2G/2 A/2G/2E/2G/2|"Dm"D3:|
+X: 11
+T:The Friggston Polka
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+dB|"D"ABAF d2A2|"D"defe d2A2|"Em"ecec efge|"A7"fgec "D"d2:|
+(3fe(3dcB (3ABA(3GFG|"D"ADFA "G"BA(3Bcd|
+"D"DDFA d2(3def|"Em"gfed "A7"dceg|"D"a2fd deaf|"G"gfec "A"dcBA|"A7"GBGF E2(3FED|"C""C7"G/2F/2E/2G/2|\
+"F"F "C7"b3/2b/2|
+"C""B3E7"AB "A7"A/2B/2c\
+|"D"d3/2e/2 fa|
+"D"f3/2f/2 dB|"D"A4|"G"GG G=Ffg|
+"Em"efe edB|"D"dBA A2A|"Em"G3 -G2F -G2E|G3 -G2e|
+"Am"e2d B2A|"E7"B^Ge e2d|"Am/c"c2A "Em/d"B2 "A7"c/2d/2e/2c/2|"D"df d:|
+f/2g/2|"D"af/2a/2 "A7"g/2f/2g/2e/2|"D"d3f/2g/2||
+"D"aba aA7
+"G"bb3/4a/4 g/4e/4d/4e/4|\
+g/4f/4g/4a/4 g/4e/4d/4e/4|\
+g/4f/4g/4a/4 g/2a/4d/4|
+"D"A/4aase
+S:via PR
+M:4/4
+L:1/4
+K:D
+DE |"D"F2 FD|"A7"EE EF|"D"Fd FD|"F"FG AF|"D7"G2 G3/2A/2|"G"B/2A/2B/2A/2 GB/2G/2|\
+"D"A/2B/2A/2G/2 F/2D/2F/2D/2|
+"Em"EB/2E/2 "D"A/2F/2D/2F/2|"Em"B/2E/2G/2E/2 "A"A"A"ed cd|"c/2d/2|\
+"C"e/2d/2e/2f/2 "G"g/2f/2g/2f/2|"Am"g/2e/2c/2A/2 "G"B/2c/2d/2B/2|\
+"D"c/2A/2B/2G/2 "G"DG/2A/2|
+"D7"BA AA/2B/2|"Am"c/2A/2e "E7"dc|"A7"d/2e/2c/2B/2 AB/2c/2|
+"D"dA FA|"G"Bg Bg|"G"Bg "D"A2|"G"Bg Bg|"G"Bg "D"A2|"G"gf "E7"B2 e2|"A7"f3e|AA AB/2c/2| dE|"G"DG2e/2d/2c/2B/2|"A"AEF|"F/2G/2|:"D"DF AD/2F/2|"D"A/2A/2A "D7"dd/2c/2|
+"G"BB/2c/2 Bg|"D"f/2g/2af "E7"e2d|"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|
+"A"e3 e3|"Em"efe edc|"A"a2e fee|"Bm"fed "Em"edB|"Em"GEF G2A|"G"Bcd "D"Adc|"D"d3 D2|
+P:B
+f/2g/2|"D"afd def|"G"gba "A7"gfe|"D""D"f2f f3|"Em"ede fed|"Em"e2d e2d|\
+"A7"c3 -"D7"d3|
+"G"g2d e2B|"G7"d2d d2d|"C"e3 -e2c|"G"B2d d^cd|edc BAG|"G"G6::
+"C"cGE F"f2c|"G"BAG "Em"B2:|
+
+X: 101
+T:The Surastow
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:G
+P:A
+d/2c/2|"G"Bcd dcB|"D"Add "D7"def|
+"G"g2g "G7"gab|"C"e2e "A7"B2^c|"D7"d3 d2||
+f3 e2d|"C"ceg "G"B2d|"D7"cBA "G"BAG|
+"A/2|
+"Dm"F/2G/2F/2E/2 D/2G|B/2c/2d/2B/2 AG|"D"F/2E/2F/2G/2 "A7"A/2B/2c/2d/2|\
+"D"ff/2d/2 "G"g(f "D7"d2:|
+X: 8
+T:Bonnie Kite Cock By 
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"DED G2A|"G"BcB A2G|"G"dB2 c2d|"C"e3 e2f|g2f efg|"G"d2B d2B|
+"G"d2g e2d B2G|"G"d2B "D"A2A|"G"G3 "B7"A3|"Em"G2B "Am"cBc "D"B4|"A7"A2 G"d3c|"D7"B2A|"G"BAG DdG BdG|"Gm"def "Cm"g3|"Dm"afd a^ga|"Dm"agf "Gm"bag|"Dm"a^ga dfa|"Dm"a3 -a^ga|"G7"b3 a3|
+
+X: m"D "C"GG/2G/2|"D7"AB/2A/2 "G7"Ge/2d/2|\
+"C"c"F"A "G"B3/4A/4|"G"G/4A/4B/4c/4 d/2g/2|d/2B/2 B/4g/4g/2|[1 "D7"f/4d/4c/4B/4 A/4c/4\
+|"G"B/2dg/4g/4|"D"a/4f/4d/4A/4 "G"B/4c/4d/4f/4|"Em"e/4d/4B/4A/4 G/4A/4B/4d/4|\
+"Em"c/2B/2 Bc/2e/2|
+"A7"g/2A/2^g/2A/2 a/2A/2A/2|"D"fd de/2f/2|"G"gf ed|\
+"A7"cd e^f|"D"d3/2A/2 FA|\
+"Dm"d/2c/2B/2c/2 AA|"D7"d/2c/2B/2c/2 AA|

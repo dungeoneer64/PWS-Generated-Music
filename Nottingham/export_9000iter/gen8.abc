@@ -1,0 +1,104 @@
+X: 1
+T:song_name
+K:C
+"C"G/2A/2G/2E/2 "Gm"D2|"Dm"D2 "Gm"D2|"F"FF ^FG|"Bb"FB Bd/2c/2|"Gm"B"D"A "G"G3/2F/2|"Em"EF "A7"GA|"D"F3/2E/2 DE|\
+"G"GF "A7"EF/2G/2|
+"D"Af "G"gf/2e/2|"D"d/2c/2d/2e/2 "A7"dA/2G/2|
+"D"FA "A7/e"d/2c/2B/2c/2|"D"dd d:|
+
+X: 17
+T:Mazor Mackie
+% Nottingham Music Database
+S:NPTB
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+BA|"G"GBDGG BGDG|"G"(3gagfg "C"gfed|"F"cBcd "G"B2BA|"G"GFGA "G7"B4|"C"cBce "G"d2B2|"Em"GABG E2(3GFE|"D7"FGAB cdef|
+"G"gdBd GB(3def|"G"gdBd G2AB|"Am"cAFA "D7"DFAD|
+"G"(3GED(3GAB "D7"(3AFD(3ABA|"G"(3GBd(3gfg "C"(3agf(3edc|
+"G"(3Bcd(3BAG "D7"(3ABcAF|"G"G2(3ABA "G7"G4:|
+"C"ce/2e/2 e/2d/2c/2B/2|"D7"AA/2G/2 F/2D/2F/2D/2|\
+"G"GA/2G/2 G/2G/2B/2G/2|"G"D/2G/2B/2d/2 g/2d/2B/2G Yimere Hop
+% Nottingham Music Database
+S:Bothy Boys
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3DEF|"G"G2g2 gdBG|"C"c2e2 efgf|"G"edBd "A7"c/2BB/2|\
+"Dm"d3/2e/2 de|"G"dB GB|"D7"d3/2c/2 BA|"G"G3:|
+
+X: 12
+T:The Tir Pipers
+% Nottingham Music Database
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:Am
+P:A
+e/2d/2|"Am"cB/2c/2 Ae/2^f/2|"Am"e/2d/2c/2B/2 A/2c/2e|\
+"F#m"f/2e/2c/2e/2 "F#m"d/2c/2B/2A/2|
+"Bm"BB/2 AdAF|"D"ddcd "A7"ecAc|"D"d2f2 d2:|
+X: 57
+T:PAA/2|
+"D"af/2d/2 A/2d/2f/2d/2|"A7"A(3c/2B/2A/2 e/2A/2c/2A/2|\
+"D"F/2A/2d/2d/2 e/2d/2(3c/2B/2A/2|"G"B/2d/2B/2d/2 "A7"c/2A/2c/2e/2|
+"D"d/2c/2d/2A/2 B/2A/2F/2A/2|"D"A/2B/2d/2e/2 d/2B/2A/2G/2|\
+"Em"B/2E/2E/2D/2 E/2F/2G/2A/2|"D7"d/2c/2B/2c/2 Ad|
+"G"dB/2d/2 gf|"Em"gf "A7"e/2g/2f/2e/2|"D"df af|"E7"ed "A7"ec|"D"d3:|
+
+X: 6
+T:Black Boy
+% Nottingham Music Database
+S:Wolfstone Arr Hamish, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+P:A
+d/2e/2|"D"ff/2d/2 "G"g/2f/2e/2d/2|"E7"c/2d/2e/2f/2 ee|"A7"a/2e/2c/2e/2 cA|
+"D"d/2c/2d/2e/2 fa|"Em"ge2A/2|
+"D"aa aa/2f/2|"A"f/2e/2d/2c/2 "E7"B/2A/2G/2B/2|"A"A/2E/2c/2e/2 a/2e/2c/2A/2|"D"df df|"E7"e/2f/2g "A7"A2f/2g/2|
+"D"afd dfa|"G"gef "A7"gfe|"D"fdf "A7"ecA|"D"d3 d2:|
+P:B
+ A/2A/23 B2c|"G"d2e d2B|
+"G"ded BdB|"D"AGA Adf|"Em"g2e e3|"A7"ace a2b|
+"D"a2g "A7/e"gfg|"D/f+"a3 f2g|"D"aba "A7/e"a2f|"D/f+"d3 "G"d2d|"Em/g"g2e "D"d2f|"A7"e2c "D"d2f|"A7"e2c ABc|"D"d3 d2:|
+P:B
+|f/2e/2d/2 "A"G/2B/2e/2G/2|
+"A"c3/2B/2A/2A/2|B3/2c/2d/2e/2|ffe|dfe|d2(3fed|"A7"(3efgfe "D7"d3e|
+"G"d2Bd BdBG|"C"c2e2 egfe|"G"dBdg "D"agaf|"Em"gfga "A"e2ce|"Bm"d2B6/4
+L:1/4
+K:D
+P:A
+d|"D"AA/2A/2 AF/2G/2|"D"Af Af|"G"ed cd|"A7"Bc A2|"D"A3/2A/2 df|"Bm"ag fd|"Em"gf2d-|"A7"dc c=c|c, via Phil Rowe
+M:6/8
+K:D
+A|a|"D"fdd "A7"d2e|"D"f2A f2A|
+"D"f3 f2e|"D"def agf|"Em"g3 gef|"Em"gba gfe|"A"d2c "A7"c2e|"D"d3 d2||
+X: 16
+T:Welsh Croke In Gals
+% Nottingham Music Database
+S:Bob McQuillen March 1977, via Phil Rowe
+M:6/8
+K:G
+d|"G"Bdd gdd|"C"efg "G"dBA|"Em"Bed "A7"cBc|"D"d3 d2:|
+
+X: 212
+T:The Raint (3 :|
+P:B
+e/2f/2|"G"gg "D"ff|"Bm"ed dc/2B/2|"E7"E/2D/2E/2F/2 E/2F/2G/2A/2|"D"B/2A/2A/2B/2 "E"Ae:|
+X: 29
+T:Sugar in the Gourd
+% Nottingham Music Database
+S:John Lagden, via EF
+M:6/8
+K:D
+f/2g/2|"D"a2a def|"C"g2g gfe|"G7"d2d ded|"C"c2c cde|GdB c2E|
+"A7" c/2E/2c/2A/2|B/2G/2B/2d/2g/2d/2c/2|
+"G"B/2A/2E/2F/2 =G3/2F/2|E/2F/2A/2B/2 d/2c/2B/2A/2|G/2A/2G/2F/2 E/2F/2G/2A/2|\
+B/2E/2E E/2F/2G/2E/2|"A"A/2^G/2A/2d/2 -"D"d/2B/2c/2A/2|\
+"G"gf/2g/2 "G7"ate/2f

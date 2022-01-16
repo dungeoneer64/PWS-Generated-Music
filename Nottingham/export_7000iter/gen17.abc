@@ -1,0 +1,99 @@
+X: 1
+T:song_name
+K:C
+G/2A/2|"G"BA BG|"D"A2 de|"E"f2 f2-|"A7"efg|"D"a2a|"D7"a3/2b/2a3/2g/2|"D"f3/2e/2d "G"dcB|"D"A3 -AFG|"D"A2G FGA|
+"G"B2A G2B|"D7"ABc d3|"G"e2d B2d|"A7""C"cB "D7"Ad/2c/2|"G"BG G::
+z|"G"d3/2e/2 d/2e/2f/2e/2|"G"dB "D"AA/2B/2|"C"=c/2B/2A/2B/2 G2:|
+
+X: 40
+T:Skid Holler
+% Nottingham Music Database
+Y:ABCD
+S:Kevin Briggs, via EF
+M:4/4
+K:D
+M:4/4
+L:1/4
+A|"D"dA A/2B/2A|"D"fd f/2ab/2a/2f/2|"A7"dec "D"d2:|
+K:G
+P:B
+d|"G"gfg "D7"aga|"G"bg2 "Em"B2B/2c/2|"G"dB gf/2g/2|"C"ag ec|"Am"ed e/2f/2g|"D7"fd de|"G"dg 3|
+:Dm
+A2^d e2f|a3 f2e|"D"d3 d2:|
+P:B
+a|b|"Am"c'2 -"B7"a2|"E7"g2 B|"C"cBc "D7"Adc|"G"BcB "D7"cBA:|[2"G"G^FG "C"E3|"F"F2A "C7"G3|"F"F2A A2A|"G"B2^A B2G|"A7"A2A ABc|"Dm"d6-|d6||
+X: 7
+T:Bust on the Alu
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"B2B Bcd|"C"e2e e2e|"G"d2d d2d|"Am"cBA B2d|"Am"e2A "E"AB^G|"Am"A3 -"Em"A3|"Am"A3 A2:|
+P:B
+(3e/2f/2g/2|"D"afd "Bm"def|"Em"Bcd "A7"eac|"D"d3 d2:|
+X: 292
+%P:3
+c2d A2d|"Am"cdc B2A|"Dm"d2d "Am"edc|
+"Bm"B2c d2e|"Bm"f2g "E7"B2 "C7"cd|"F"c2 A2-|
+"F"F2 EF|"Bb"D2 EF|"C"G3/2A/2 "G7"GF|"C"E2 DE|"Dm"FF "C7"FE|"Fp|"G"Gc/2B/2 "Em"AB/2c/2|"Bm"d/2c/2B/2c/2 "Gm"BG|\
+"C"A/2B/2G/2A/2 "D7"FG/2A/2|"G"BG G:|
+X: 14
+T:Duchess of Limerick
+% Nottingham Music Database
+S:Chris Dewhurst 1983, via Phil Rowe
+M:6/8
+K:D
+A|:"D"FAA "G"GBBAeFG E2D|"D"dce "A"aec|"Bm"BcB "E"d2f|
+X: 41
+T:Woodset For KX: 10
+T:The Gubstre/2e/2|"F"fa/2f/2 d/2f/2a/2f/2|\
+"D"f/2d/2A/2d/2 f/2a/2g/2f/2|"A"e2 "G"d/2e/2f/2g/2|"A7"aA "D7"Ag Bc|[1"G"B2 "E7"G2:|
+[2"C"c3/2d/2 cB|"G"DG "Em"g2f|"D"e2f "A"ecA|"E7"B3 "A"A2A|"A"A3 A3::
+"A"a2e c2e|"Bm"dcd "E7"Bcd|"A"f2e ecA|"D"d3 -d3|"E7"b2 b2a|
+"E7"b2B ^A2B|e2e|
+"G"dgbase
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+P:A
+c/2d/2|"A"ec/2B/2 A/2c/2B/2A/2|"A"c/2B/2A/2F/2 E/2F/2A/2B/2|cc/2c/2 c/2B/2A/2F/2|"E"E/2F/2E/2D/2 "A"C/2B,/2A,:|
+X: 37
+T:MacAy a#7"d d2| [1"A7"c/2B/2A/2G/2 F/2A/2d/2A/2|\
+"D"F/2A/2d/2A/2 f/2A/2d/2A/2|"G"B/2c/2d/2B/2 GA/2B/2|\
+"Am"c/2A/2(3B/2c/2d/2 e/2f/2g/2e/2|"D"f/2e/2d/2c/2 "A7"d/2A/2 F2::
+"D"d2 "A7"e/2e/2|dB ase
+S:Various keys, usually in Benst
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+G/2E/2|"G"D3/2E/2 G3/2A/2|"G"B/2|"A"e/2f/2e/2c/2 "D"d(3A/2B/2c/2|
+"Lhme Heather Jwars
+% Nottingham Music Database
+S:Play A B A C, via Phil Rowe
+M:6/8
+K:Am
+"Am"A3 a3|"Em"gef g2b|"Em"agf "D7"e2f|"G"geg b3|
+"D7"fed cBA|"G"g2G GFG|"D7"A3 -A3 B2c|"G"d3 -d2B|d3 -d2c|"G"Bcd g2 efg|"D"D/2E/2F/2 "A7"G/2A/2B/2c/2|\
+"G"d/2B/2c/2A/2 B/2G/2F/2G/2|
+"C6"A/2B/2c/2d/2 e/2f/2g/2e/2|"G"d/2B/2G/2B/2 dd|"D"c/2d/2c/2A/2 "G"G||
+P:B
+d/2|"E7"e/2d/2c/2B/2 "A7"A/2B/2c/2A/2|"D"dA/2d/2 "C"d/2B/2G/2B/2:|
+ [2"D"d/2B/2c/2A/2 "G"G||
+
+X: 30
+T:Bonnie dB"d(3Bcd "A"e2de|"D"fedf agff|"A7"(3efe(3dcB "A7"(3ABA(3Bcd "D"(3fafdf|
+"Em"g2g2 "E7"Bgfe|"A"e2e2 c2|"A7"B/2G/2A/2G/2 "D"FA|"D"d/2c/2d/2f/2 "A7"e/2d/2c/2B/2|"D"A2 A2:|
+X: 31
+T:Waters Margare
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+D|"G"GAG "D7/a"BAG|"G/b"GAB "C"cde|"D7"d3 -d3|
+P:B
+g/2a/2|"G"b3/2b/2 "D"af/2a/2|"G"gd "D"e/2f/2g/2e/2|"D7"dd/2e/2 d/2c/2B/2A/2|
+"G"G/2F"Bm"b3 b2a|
